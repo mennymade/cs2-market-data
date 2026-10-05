@@ -1289,7 +1289,7 @@
       176.38
     ],
     "wears": {
-      "FN": 600.25,
+      "FN": 650.25,
       "MW": 244.08,
       "FT": 176.38,
       "WW": 171.72,
@@ -1311,7 +1311,7 @@
       176.38
     ],
     "wears": {
-      "FN": 600.25,
+      "FN": 650.25,
       "MW": 244.08,
       "FT": 176.38,
       "WW": 171.72,
@@ -1333,7 +1333,7 @@
       176.38
     ],
     "wears": {
-      "FN": 600.25,
+      "FN": 650.25,
       "MW": 244.08,
       "FT": 176.38,
       "WW": 171.72,
@@ -1355,7 +1355,7 @@
       176.38
     ],
     "wears": {
-      "FN": 600.25,
+      "FN": 650.25,
       "MW": 244.08,
       "FT": 176.38,
       "WW": 171.72,
@@ -2000,72 +2000,6 @@
       "BS": 37.26
     },
     "stattrak_multiplier": 0.93
-  },
-  "stattrak™_shadow_daggers_forest_ddpat": {
-    "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
-    "current_price_usd": 58.2,
-    "price_change_24h_percent": 0,
-    "historical_7d_prices": [
-      79.43,
-      74.99,
-      70.55,
-      64.38,
-      58.2,
-      58.2,
-      58.2
-    ],
-    "wears": {
-      "FN": 91.15,
-      "MW": 71.35,
-      "FT": 58.2,
-      "WW": 80.2,
-      "BS": 63.25
-    },
-    "stattrak_multiplier": 1.75
-  },
-  "knife_stattrak™_shadow_daggers_forest_ddpat": {
-    "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
-    "current_price_usd": 58.2,
-    "price_change_24h_percent": 0,
-    "historical_7d_prices": [
-      79.43,
-      74.99,
-      70.55,
-      64.38,
-      58.2,
-      58.2,
-      58.2
-    ],
-    "wears": {
-      "FN": 91.15,
-      "MW": 71.35,
-      "FT": 58.2,
-      "WW": 80.2,
-      "BS": 63.25
-    },
-    "stattrak_multiplier": 1.75
-  },
-  "gloves_stattrak™_shadow_daggers_forest_ddpat": {
-    "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
-    "current_price_usd": 58.2,
-    "price_change_24h_percent": 0,
-    "historical_7d_prices": [
-      79.43,
-      74.99,
-      70.55,
-      64.38,
-      58.2,
-      58.2,
-      58.2
-    ],
-    "wears": {
-      "FN": 91.15,
-      "MW": 71.35,
-      "FT": 58.2,
-      "WW": 80.2,
-      "BS": 63.25
-    },
-    "stattrak_multiplier": 1.75
   },
   "p250_apeps_curse": {
     "market_hash_name": "P250 | Apep's Curse (Field-Tested)",
@@ -4897,7 +4831,7 @@
       1041.72
     ],
     "wears": {
-      "FN": 1787.67,
+      "FN": 1784.96,
       "MW": 1499,
       "FT": 1041.72,
       "WW": 843.89,
@@ -4919,7 +4853,7 @@
       1041.72
     ],
     "wears": {
-      "FN": 1787.67,
+      "FN": 1784.96,
       "MW": 1499,
       "FT": 1041.72,
       "WW": 843.89,
@@ -4941,7 +4875,7 @@
       1041.72
     ],
     "wears": {
-      "FN": 1787.67,
+      "FN": 1784.96,
       "MW": 1499,
       "FT": 1041.72,
       "WW": 843.89,
@@ -4963,7 +4897,7 @@
       1041.72
     ],
     "wears": {
-      "FN": 1787.67,
+      "FN": 1784.96,
       "MW": 1499,
       "FT": 1041.72,
       "WW": 843.89,
@@ -29537,7 +29471,7 @@
       888.06
     ],
     "wears": {
-      "FN": 1225.68,
+      "FN": 1216,
       "MW": 1090.04,
       "FT": 888.06,
       "WW": 3500,
@@ -29559,7 +29493,7 @@
       888.06
     ],
     "wears": {
-      "FN": 1225.68,
+      "FN": 1216,
       "MW": 1090.04,
       "FT": 888.06,
       "WW": 3500,
@@ -29581,7 +29515,7 @@
       888.06
     ],
     "wears": {
-      "FN": 1225.68,
+      "FN": 1216,
       "MW": 1090.04,
       "FT": 888.06,
       "WW": 3500,
@@ -29603,7 +29537,7 @@
       888.06
     ],
     "wears": {
-      "FN": 1225.68,
+      "FN": 1216,
       "MW": 1090.04,
       "FT": 888.06,
       "WW": 3500,
@@ -31967,67 +31901,67 @@
   },
   "sticker_slab_hello_sg_553_gold": {
     "market_hash_name": "Sticker Slab | Hello SG 553 (Gold) (Field-Tested)",
-    "current_price_usd": 25,
+    "current_price_usd": 25.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      25,
-      25
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04
     ],
     "wears": {
-      "FN": 55,
-      "MW": 33.75,
-      "FT": 25,
-      "WW": 22,
-      "BS": 18.75
+      "FN": 55.09,
+      "MW": 33.8,
+      "FT": 25.04,
+      "WW": 22.04,
+      "BS": 18.78
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_sg_553_gold": {
     "market_hash_name": "Sticker Slab | Hello SG 553 (Gold) (Field-Tested)",
-    "current_price_usd": 25,
+    "current_price_usd": 25.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      25,
-      25
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04
     ],
     "wears": {
-      "FN": 55,
-      "MW": 33.75,
-      "FT": 25,
-      "WW": 22,
-      "BS": 18.75
+      "FN": 55.09,
+      "MW": 33.8,
+      "FT": 25.04,
+      "WW": 22.04,
+      "BS": 18.78
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_sg_553_gold": {
     "market_hash_name": "Sticker Slab | Hello SG 553 (Gold) (Field-Tested)",
-    "current_price_usd": 25,
+    "current_price_usd": 25.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      25,
-      25
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04
     ],
     "wears": {
-      "FN": 55,
-      "MW": 33.75,
-      "FT": 25,
-      "WW": 22,
-      "BS": 18.75
+      "FN": 55.09,
+      "MW": 33.8,
+      "FT": 25.04,
+      "WW": 22.04,
+      "BS": 18.78
     },
     "stattrak_multiplier": 1.75
   },
@@ -32979,67 +32913,67 @@
   },
   "sticker_slab_hello_aug": {
     "market_hash_name": "Sticker Slab | Hello AUG (Field-Tested)",
-    "current_price_usd": 132.07,
+    "current_price_usd": 132.33,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33
     ],
     "wears": {
-      "FN": 290.55,
-      "MW": 178.29,
-      "FT": 132.07,
-      "WW": 116.22,
-      "BS": 99.05
+      "FN": 291.13,
+      "MW": 178.65,
+      "FT": 132.33,
+      "WW": 116.45,
+      "BS": 99.25
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_aug": {
     "market_hash_name": "Sticker Slab | Hello AUG (Field-Tested)",
-    "current_price_usd": 132.07,
+    "current_price_usd": 132.33,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33
     ],
     "wears": {
-      "FN": 290.55,
-      "MW": 178.29,
-      "FT": 132.07,
-      "WW": 116.22,
-      "BS": 99.05
+      "FN": 291.13,
+      "MW": 178.65,
+      "FT": 132.33,
+      "WW": 116.45,
+      "BS": 99.25
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_aug": {
     "market_hash_name": "Sticker Slab | Hello AUG (Field-Tested)",
-    "current_price_usd": 132.07,
+    "current_price_usd": 132.33,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07,
-      132.07
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33,
+      132.33
     ],
     "wears": {
-      "FN": 290.55,
-      "MW": 178.29,
-      "FT": 132.07,
-      "WW": 116.22,
-      "BS": 99.05
+      "FN": 291.13,
+      "MW": 178.65,
+      "FT": 132.33,
+      "WW": 116.45,
+      "BS": 99.25
     },
     "stattrak_multiplier": 1.75
   },
@@ -33441,67 +33375,67 @@
   },
   "sticker_slab_hello_aug_gold": {
     "market_hash_name": "Sticker Slab | Hello AUG (Gold) (Field-Tested)",
-    "current_price_usd": 25,
+    "current_price_usd": 25.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      25,
-      25
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04
     ],
     "wears": {
-      "FN": 55,
-      "MW": 33.75,
-      "FT": 25,
-      "WW": 22,
-      "BS": 18.75
+      "FN": 55.09,
+      "MW": 33.8,
+      "FT": 25.04,
+      "WW": 22.04,
+      "BS": 18.78
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_aug_gold": {
     "market_hash_name": "Sticker Slab | Hello AUG (Gold) (Field-Tested)",
-    "current_price_usd": 25,
+    "current_price_usd": 25.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      25,
-      25
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04
     ],
     "wears": {
-      "FN": 55,
-      "MW": 33.75,
-      "FT": 25,
-      "WW": 22,
-      "BS": 18.75
+      "FN": 55.09,
+      "MW": 33.8,
+      "FT": 25.04,
+      "WW": 22.04,
+      "BS": 18.78
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_aug_gold": {
     "market_hash_name": "Sticker Slab | Hello AUG (Gold) (Field-Tested)",
-    "current_price_usd": 25,
+    "current_price_usd": 25.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      25,
-      25
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04,
+      25.04
     ],
     "wears": {
-      "FN": 55,
-      "MW": 33.75,
-      "FT": 25,
-      "WW": 22,
-      "BS": 18.75
+      "FN": 55.09,
+      "MW": 33.8,
+      "FT": 25.04,
+      "WW": 22.04,
+      "BS": 18.78
     },
     "stattrak_multiplier": 1.75
   },
@@ -33903,67 +33837,67 @@
   },
   "sticker_slab_hello_awp_gold": {
     "market_hash_name": "Sticker Slab | Hello AWP (Gold) (Field-Tested)",
-    "current_price_usd": 148.51,
+    "current_price_usd": 148.73,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73
     ],
     "wears": {
-      "FN": 326.72,
-      "MW": 200.49,
-      "FT": 148.51,
-      "WW": 130.69,
-      "BS": 111.38
+      "FN": 327.21,
+      "MW": 200.79,
+      "FT": 148.73,
+      "WW": 130.88,
+      "BS": 111.55
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_awp_gold": {
     "market_hash_name": "Sticker Slab | Hello AWP (Gold) (Field-Tested)",
-    "current_price_usd": 148.51,
+    "current_price_usd": 148.73,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73
     ],
     "wears": {
-      "FN": 326.72,
-      "MW": 200.49,
-      "FT": 148.51,
-      "WW": 130.69,
-      "BS": 111.38
+      "FN": 327.21,
+      "MW": 200.79,
+      "FT": 148.73,
+      "WW": 130.88,
+      "BS": 111.55
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_awp_gold": {
     "market_hash_name": "Sticker Slab | Hello AWP (Gold) (Field-Tested)",
-    "current_price_usd": 148.51,
+    "current_price_usd": 148.73,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51,
-      148.51
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73,
+      148.73
     ],
     "wears": {
-      "FN": 326.72,
-      "MW": 200.49,
-      "FT": 148.51,
-      "WW": 130.69,
-      "BS": 111.38
+      "FN": 327.21,
+      "MW": 200.79,
+      "FT": 148.73,
+      "WW": 130.88,
+      "BS": 111.55
     },
     "stattrak_multiplier": 1.75
   },
@@ -37985,7 +37919,7 @@
       282.18
     ],
     "wears": {
-      "FN": 1704.66,
+      "FN": 1550,
       "MW": 739,
       "FT": 282.18,
       "WW": 229.34,
@@ -38007,7 +37941,7 @@
       282.18
     ],
     "wears": {
-      "FN": 1704.66,
+      "FN": 1550,
       "MW": 739,
       "FT": 282.18,
       "WW": 229.34,
@@ -38029,7 +37963,7 @@
       282.18
     ],
     "wears": {
-      "FN": 1704.66,
+      "FN": 1550,
       "MW": 739,
       "FT": 282.18,
       "WW": 229.34,
@@ -38051,7 +37985,7 @@
       282.18
     ],
     "wears": {
-      "FN": 1704.66,
+      "FN": 1550,
       "MW": 739,
       "FT": 282.18,
       "WW": 229.34,
@@ -40933,7 +40867,7 @@
       175.91
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185.07,
       "FT": 175.91,
       "WW": 163.22,
@@ -40955,7 +40889,7 @@
       175.91
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185.07,
       "FT": 175.91,
       "WW": 163.22,
@@ -40977,7 +40911,7 @@
       175.91
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185.07,
       "FT": 175.91,
       "WW": 163.22,
@@ -40999,7 +40933,7 @@
       175.91
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185.07,
       "FT": 175.91,
       "WW": 163.22,
@@ -42099,7 +42033,7 @@
       202
     ],
     "wears": {
-      "FN": 310,
+      "FN": 245,
       "MW": 221.7,
       "FT": 202,
       "WW": 187.34,
@@ -42121,7 +42055,7 @@
       202
     ],
     "wears": {
-      "FN": 310,
+      "FN": 245,
       "MW": 221.7,
       "FT": 202,
       "WW": 187.34,
@@ -42143,7 +42077,7 @@
       202
     ],
     "wears": {
-      "FN": 310,
+      "FN": 245,
       "MW": 221.7,
       "FT": 202,
       "WW": 187.34,
@@ -42165,7 +42099,7 @@
       202
     ],
     "wears": {
-      "FN": 310,
+      "FN": 245,
       "MW": 221.7,
       "FT": 202,
       "WW": 187.34,
@@ -43331,7 +43265,7 @@
       505.83
     ],
     "wears": {
-      "FN": 3050,
+      "FN": 2875,
       "MW": 822.25,
       "FT": 505.83,
       "WW": 442.75,
@@ -43353,7 +43287,7 @@
       505.83
     ],
     "wears": {
-      "FN": 3050,
+      "FN": 2875,
       "MW": 822.25,
       "FT": 505.83,
       "WW": 442.75,
@@ -43375,7 +43309,7 @@
       505.83
     ],
     "wears": {
-      "FN": 3050,
+      "FN": 2875,
       "MW": 822.25,
       "FT": 505.83,
       "WW": 442.75,
@@ -43397,7 +43331,7 @@
       505.83
     ],
     "wears": {
-      "FN": 3050,
+      "FN": 2875,
       "MW": 822.25,
       "FT": 505.83,
       "WW": 442.75,
@@ -43507,7 +43441,7 @@
       281.6
     ],
     "wears": {
-      "FN": 740,
+      "FN": 735,
       "MW": 585.03,
       "FT": 281.6,
       "WW": 558.83,
@@ -43529,7 +43463,7 @@
       281.6
     ],
     "wears": {
-      "FN": 740,
+      "FN": 735,
       "MW": 585.03,
       "FT": 281.6,
       "WW": 558.83,
@@ -43551,7 +43485,7 @@
       281.6
     ],
     "wears": {
-      "FN": 740,
+      "FN": 735,
       "MW": 585.03,
       "FT": 281.6,
       "WW": 558.83,
@@ -43573,7 +43507,7 @@
       281.6
     ],
     "wears": {
-      "FN": 740,
+      "FN": 735,
       "MW": 585.03,
       "FT": 281.6,
       "WW": 558.83,
@@ -44189,7 +44123,7 @@
       97.75
     ],
     "wears": {
-      "FN": 191.67,
+      "FN": 189.22,
       "MW": 114.23,
       "FT": 97.75,
       "WW": 99.04,
@@ -44211,7 +44145,7 @@
       97.75
     ],
     "wears": {
-      "FN": 191.67,
+      "FN": 189.22,
       "MW": 114.23,
       "FT": 97.75,
       "WW": 99.04,
@@ -44233,7 +44167,7 @@
       97.75
     ],
     "wears": {
-      "FN": 191.67,
+      "FN": 189.22,
       "MW": 114.23,
       "FT": 97.75,
       "WW": 99.04,
@@ -44255,7 +44189,7 @@
       97.75
     ],
     "wears": {
-      "FN": 191.67,
+      "FN": 189.22,
       "MW": 114.23,
       "FT": 97.75,
       "WW": 99.04,
@@ -44805,7 +44739,7 @@
       160.01
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 194.18,
       "FT": 160.01,
       "WW": 178.72,
@@ -44827,7 +44761,7 @@
       160.01
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 194.18,
       "FT": 160.01,
       "WW": 178.72,
@@ -44849,7 +44783,7 @@
       160.01
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 194.18,
       "FT": 160.01,
       "WW": 178.72,
@@ -44871,7 +44805,7 @@
       160.01
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 194.18,
       "FT": 160.01,
       "WW": 178.72,
@@ -44881,7 +44815,7 @@
   },
   "talon_knife_fade": {
     "market_hash_name": "★ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 830,
+    "current_price_usd": 829.95,
     "price_change_24h_percent": 0.4,
     "historical_7d_prices": [
       1108.06,
@@ -44894,16 +44828,16 @@
     ],
     "wears": {
       "FN": 1156.52,
-      "MW": 830,
-      "FT": 830,
-      "WW": 730.4,
-      "BS": 622.5
+      "MW": 829.95,
+      "FT": 829.95,
+      "WW": 730.36,
+      "BS": 622.46
     },
     "stattrak_multiplier": 1.75
   },
   "talon_fade": {
     "market_hash_name": "★ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 830,
+    "current_price_usd": 829.95,
     "price_change_24h_percent": 0.4,
     "historical_7d_prices": [
       1108.06,
@@ -44916,16 +44850,16 @@
     ],
     "wears": {
       "FN": 1156.52,
-      "MW": 830,
-      "FT": 830,
-      "WW": 730.4,
-      "BS": 622.5
+      "MW": 829.95,
+      "FT": 829.95,
+      "WW": 730.36,
+      "BS": 622.46
     },
     "stattrak_multiplier": 1.75
   },
   "knife_talon_knife_fade": {
     "market_hash_name": "★ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 830,
+    "current_price_usd": 829.95,
     "price_change_24h_percent": 0.4,
     "historical_7d_prices": [
       1108.06,
@@ -44938,16 +44872,16 @@
     ],
     "wears": {
       "FN": 1156.52,
-      "MW": 830,
-      "FT": 830,
-      "WW": 730.4,
-      "BS": 622.5
+      "MW": 829.95,
+      "FT": 829.95,
+      "WW": 730.36,
+      "BS": 622.46
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_talon_knife_fade": {
     "market_hash_name": "★ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 830,
+    "current_price_usd": 829.95,
     "price_change_24h_percent": 0.4,
     "historical_7d_prices": [
       1108.06,
@@ -44960,10 +44894,10 @@
     ],
     "wears": {
       "FN": 1156.52,
-      "MW": 830,
-      "FT": 830,
-      "WW": 730.4,
-      "BS": 622.5
+      "MW": 829.95,
+      "FT": 829.95,
+      "WW": 730.36,
+      "BS": 622.46
     },
     "stattrak_multiplier": 1.75
   },
@@ -45311,7 +45245,7 @@
       569.78
     ],
     "wears": {
-      "FN": 570,
+      "FN": 569.89,
       "MW": 666.9,
       "FT": 569.78,
       "WW": 473.56,
@@ -45333,7 +45267,7 @@
       569.78
     ],
     "wears": {
-      "FN": 570,
+      "FN": 569.89,
       "MW": 666.9,
       "FT": 569.78,
       "WW": 473.56,
@@ -45355,7 +45289,7 @@
       569.78
     ],
     "wears": {
-      "FN": 570,
+      "FN": 569.89,
       "MW": 666.9,
       "FT": 569.78,
       "WW": 473.56,
@@ -45377,7 +45311,7 @@
       569.78
     ],
     "wears": {
-      "FN": 570,
+      "FN": 569.89,
       "MW": 666.9,
       "FT": 569.78,
       "WW": 473.56,
@@ -46421,89 +46355,89 @@
   },
   "stattrak™_talon_knife_fade": {
     "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 1320,
+    "current_price_usd": 1199.99,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1203.27,
       1166.8,
       1130.32,
-      1225.16,
-      1320,
-      1320,
-      1320
+      1165.16,
+      1199.99,
+      1199.99,
+      1199.99
     ],
     "wears": {
       "FN": 1130.32,
-      "MW": 1320,
-      "FT": 1320,
-      "WW": 1161.6,
-      "BS": 990
+      "MW": 1199.99,
+      "FT": 1199.99,
+      "WW": 1055.99,
+      "BS": 899.99
     },
     "stattrak_multiplier": 1.75
   },
   "stattrak™_talon_fade": {
     "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 1320,
+    "current_price_usd": 1199.99,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1203.27,
       1166.8,
       1130.32,
-      1225.16,
-      1320,
-      1320,
-      1320
+      1165.16,
+      1199.99,
+      1199.99,
+      1199.99
     ],
     "wears": {
       "FN": 1130.32,
-      "MW": 1320,
-      "FT": 1320,
-      "WW": 1161.6,
-      "BS": 990
+      "MW": 1199.99,
+      "FT": 1199.99,
+      "WW": 1055.99,
+      "BS": 899.99
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_talon_knife_fade": {
     "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 1320,
+    "current_price_usd": 1199.99,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1203.27,
       1166.8,
       1130.32,
-      1225.16,
-      1320,
-      1320,
-      1320
+      1165.16,
+      1199.99,
+      1199.99,
+      1199.99
     ],
     "wears": {
       "FN": 1130.32,
-      "MW": 1320,
-      "FT": 1320,
-      "WW": 1161.6,
-      "BS": 990
+      "MW": 1199.99,
+      "FT": 1199.99,
+      "WW": 1055.99,
+      "BS": 899.99
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_talon_knife_fade": {
     "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Field-Tested)",
-    "current_price_usd": 1320,
+    "current_price_usd": 1199.99,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1203.27,
       1166.8,
       1130.32,
-      1225.16,
-      1320,
-      1320,
-      1320
+      1165.16,
+      1199.99,
+      1199.99,
+      1199.99
     ],
     "wears": {
       "FN": 1130.32,
-      "MW": 1320,
-      "FT": 1320,
-      "WW": 1161.6,
-      "BS": 990
+      "MW": 1199.99,
+      "FT": 1199.99,
+      "WW": 1055.99,
+      "BS": 899.99
     },
     "stattrak_multiplier": 1.75
   },
@@ -48061,7 +47995,7 @@
       227.35
     ],
     "wears": {
-      "FN": 7936.36,
+      "FN": 7947.94,
       "MW": 463.82,
       "FT": 227.35,
       "WW": 163.88,
@@ -48083,7 +48017,7 @@
       227.35
     ],
     "wears": {
-      "FN": 7936.36,
+      "FN": 7947.94,
       "MW": 463.82,
       "FT": 227.35,
       "WW": 163.88,
@@ -48105,7 +48039,7 @@
       227.35
     ],
     "wears": {
-      "FN": 7936.36,
+      "FN": 7947.94,
       "MW": 463.82,
       "FT": 227.35,
       "WW": 163.88,
@@ -48127,7 +48061,7 @@
       227.35
     ],
     "wears": {
-      "FN": 7936.36,
+      "FN": 7947.94,
       "MW": 463.82,
       "FT": 227.35,
       "WW": 163.88,
@@ -48479,7 +48413,7 @@
       192.7
     ],
     "wears": {
-      "FN": 337.65,
+      "FN": 292.66,
       "MW": 286.8,
       "FT": 192.7,
       "WW": 261.06,
@@ -48501,7 +48435,7 @@
       192.7
     ],
     "wears": {
-      "FN": 337.65,
+      "FN": 292.66,
       "MW": 286.8,
       "FT": 192.7,
       "WW": 261.06,
@@ -48523,7 +48457,7 @@
       192.7
     ],
     "wears": {
-      "FN": 337.65,
+      "FN": 292.66,
       "MW": 286.8,
       "FT": 192.7,
       "WW": 261.06,
@@ -48545,7 +48479,7 @@
       192.7
     ],
     "wears": {
-      "FN": 337.65,
+      "FN": 292.66,
       "MW": 286.8,
       "FT": 192.7,
       "WW": 261.06,
@@ -48567,7 +48501,7 @@
       147.87
     ],
     "wears": {
-      "FN": 370.23,
+      "FN": 370.77,
       "MW": 264.5,
       "FT": 147.87,
       "WW": 180.4,
@@ -48589,7 +48523,7 @@
       147.87
     ],
     "wears": {
-      "FN": 370.23,
+      "FN": 370.77,
       "MW": 264.5,
       "FT": 147.87,
       "WW": 180.4,
@@ -48611,7 +48545,7 @@
       147.87
     ],
     "wears": {
-      "FN": 370.23,
+      "FN": 370.77,
       "MW": 264.5,
       "FT": 147.87,
       "WW": 180.4,
@@ -48633,7 +48567,7 @@
       147.87
     ],
     "wears": {
-      "FN": 370.23,
+      "FN": 370.77,
       "MW": 264.5,
       "FT": 147.87,
       "WW": 180.4,
@@ -48655,7 +48589,7 @@
       640.55
     ],
     "wears": {
-      "FN": 8333.23,
+      "FN": 8345.39,
       "MW": 787.75,
       "FT": 640.55,
       "WW": 387.23,
@@ -48677,7 +48611,7 @@
       640.55
     ],
     "wears": {
-      "FN": 8333.23,
+      "FN": 8345.39,
       "MW": 787.75,
       "FT": 640.55,
       "WW": 387.23,
@@ -48699,7 +48633,7 @@
       640.55
     ],
     "wears": {
-      "FN": 8333.23,
+      "FN": 8345.39,
       "MW": 787.75,
       "FT": 640.55,
       "WW": 387.23,
@@ -48721,7 +48655,7 @@
       640.55
     ],
     "wears": {
-      "FN": 8333.23,
+      "FN": 8345.39,
       "MW": 787.75,
       "FT": 640.55,
       "WW": 387.23,
@@ -56695,89 +56629,89 @@
   },
   "stattrak™_stiletto_knife_doppler": {
     "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Field-Tested)",
-    "current_price_usd": 677.04,
-    "price_change_24h_percent": 6,
+    "current_price_usd": 655.93,
+    "price_change_24h_percent": 2.7,
     "historical_7d_prices": [
       707.95,
       685.84,
       663.73,
       651.33,
       638.92,
-      657.98,
-      677.04
+      647.42,
+      655.93
     ],
     "wears": {
       "FN": 638.92,
-      "MW": 677.04,
-      "FT": 677.04,
-      "WW": 595.8,
-      "BS": 507.78
+      "MW": 655.93,
+      "FT": 655.93,
+      "WW": 577.22,
+      "BS": 491.95
     },
     "stattrak_multiplier": 1.75
   },
   "stattrak™_stiletto_doppler": {
     "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Field-Tested)",
-    "current_price_usd": 677.04,
-    "price_change_24h_percent": 6,
+    "current_price_usd": 655.93,
+    "price_change_24h_percent": 2.7,
     "historical_7d_prices": [
       707.95,
       685.84,
       663.73,
       651.33,
       638.92,
-      657.98,
-      677.04
+      647.42,
+      655.93
     ],
     "wears": {
       "FN": 638.92,
-      "MW": 677.04,
-      "FT": 677.04,
-      "WW": 595.8,
-      "BS": 507.78
+      "MW": 655.93,
+      "FT": 655.93,
+      "WW": 577.22,
+      "BS": 491.95
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_stiletto_knife_doppler": {
     "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Field-Tested)",
-    "current_price_usd": 677.04,
-    "price_change_24h_percent": 6,
+    "current_price_usd": 655.93,
+    "price_change_24h_percent": 2.7,
     "historical_7d_prices": [
       707.95,
       685.84,
       663.73,
       651.33,
       638.92,
-      657.98,
-      677.04
+      647.42,
+      655.93
     ],
     "wears": {
       "FN": 638.92,
-      "MW": 677.04,
-      "FT": 677.04,
-      "WW": 595.8,
-      "BS": 507.78
+      "MW": 655.93,
+      "FT": 655.93,
+      "WW": 577.22,
+      "BS": 491.95
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_stiletto_knife_doppler": {
     "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Field-Tested)",
-    "current_price_usd": 677.04,
-    "price_change_24h_percent": 6,
+    "current_price_usd": 655.93,
+    "price_change_24h_percent": 2.7,
     "historical_7d_prices": [
       707.95,
       685.84,
       663.73,
       651.33,
       638.92,
-      657.98,
-      677.04
+      647.42,
+      655.93
     ],
     "wears": {
       "FN": 638.92,
-      "MW": 677.04,
-      "FT": 677.04,
-      "WW": 595.8,
-      "BS": 507.78
+      "MW": 655.93,
+      "FT": 655.93,
+      "WW": 577.22,
+      "BS": 491.95
     },
     "stattrak_multiplier": 1.75
   },
@@ -59919,7 +59853,7 @@
       243.82
     ],
     "wears": {
-      "FN": 396.65,
+      "FN": 393.68,
       "MW": 364.59,
       "FT": 243.82,
       "WW": 250.36,
@@ -59941,7 +59875,7 @@
       243.82
     ],
     "wears": {
-      "FN": 396.65,
+      "FN": 393.68,
       "MW": 364.59,
       "FT": 243.82,
       "WW": 250.36,
@@ -59963,7 +59897,7 @@
       243.82
     ],
     "wears": {
-      "FN": 396.65,
+      "FN": 393.68,
       "MW": 364.59,
       "FT": 243.82,
       "WW": 250.36,
@@ -61331,7 +61265,7 @@
       "MW": 670.58,
       "FT": 629.96,
       "WW": 498.11,
-      "BS": 361.6
+      "BS": 347
     },
     "stattrak_multiplier": 1.75
   },
@@ -61353,7 +61287,7 @@
       "MW": 670.58,
       "FT": 629.96,
       "WW": 498.11,
-      "BS": 361.6
+      "BS": 347
     },
     "stattrak_multiplier": 1.75
   },
@@ -61375,7 +61309,7 @@
       "MW": 670.58,
       "FT": 629.96,
       "WW": 498.11,
-      "BS": 361.6
+      "BS": 347
     },
     "stattrak_multiplier": 1.75
   },
@@ -61393,7 +61327,7 @@
       950.57
     ],
     "wears": {
-      "FN": 3939.42,
+      "FN": 1969.71,
       "MW": 1123.25,
       "FT": 950.57,
       "WW": 789.06,
@@ -61415,7 +61349,7 @@
       950.57
     ],
     "wears": {
-      "FN": 3939.42,
+      "FN": 1969.71,
       "MW": 1123.25,
       "FT": 950.57,
       "WW": 789.06,
@@ -61437,7 +61371,7 @@
       950.57
     ],
     "wears": {
-      "FN": 3939.42,
+      "FN": 1969.71,
       "MW": 1123.25,
       "FT": 950.57,
       "WW": 789.06,
@@ -63131,7 +63065,7 @@
       96.33
     ],
     "wears": {
-      "FN": 159.69,
+      "FN": 159.49,
       "MW": 105,
       "FT": 96.33,
       "WW": 91.97,
@@ -63153,7 +63087,7 @@
       96.33
     ],
     "wears": {
-      "FN": 159.69,
+      "FN": 159.49,
       "MW": 105,
       "FT": 96.33,
       "WW": 91.97,
@@ -63175,7 +63109,7 @@
       96.33
     ],
     "wears": {
-      "FN": 159.69,
+      "FN": 159.49,
       "MW": 105,
       "FT": 96.33,
       "WW": 91.97,
@@ -63197,7 +63131,7 @@
       96.33
     ],
     "wears": {
-      "FN": 159.69,
+      "FN": 159.49,
       "MW": 105,
       "FT": 96.33,
       "WW": 91.97,
@@ -63747,7 +63681,7 @@
       96.85
     ],
     "wears": {
-      "FN": 372.02,
+      "FN": 372.56,
       "MW": 117.62,
       "FT": 96.85,
       "WW": 96.24,
@@ -63769,7 +63703,7 @@
       96.85
     ],
     "wears": {
-      "FN": 372.02,
+      "FN": 372.56,
       "MW": 117.62,
       "FT": 96.85,
       "WW": 96.24,
@@ -63791,7 +63725,7 @@
       96.85
     ],
     "wears": {
-      "FN": 372.02,
+      "FN": 372.56,
       "MW": 117.62,
       "FT": 96.85,
       "WW": 96.24,
@@ -63813,7 +63747,7 @@
       96.85
     ],
     "wears": {
-      "FN": 372.02,
+      "FN": 372.56,
       "MW": 117.62,
       "FT": 96.85,
       "WW": 96.24,
@@ -64322,7 +64256,7 @@
       "FN": 620,
       "MW": 100.02,
       "FT": 103.45,
-      "WW": 74.95,
+      "WW": 75.65,
       "BS": 87.14
     },
     "stattrak_multiplier": 1.75
@@ -64344,7 +64278,7 @@
       "FN": 620,
       "MW": 100.02,
       "FT": 103.45,
-      "WW": 74.95,
+      "WW": 75.65,
       "BS": 87.14
     },
     "stattrak_multiplier": 1.75
@@ -64366,7 +64300,7 @@
       "FN": 620,
       "MW": 100.02,
       "FT": 103.45,
-      "WW": 74.95,
+      "WW": 75.65,
       "BS": 87.14
     },
     "stattrak_multiplier": 1.75
@@ -64388,7 +64322,7 @@
       "FN": 620,
       "MW": 100.02,
       "FT": 103.45,
-      "WW": 74.95,
+      "WW": 75.65,
       "BS": 87.14
     },
     "stattrak_multiplier": 1.75
@@ -66104,7 +66038,7 @@
       "FN": 528.37,
       "MW": 626.88,
       "FT": 467.37,
-      "WW": 1487.93,
+      "WW": 1490.1,
       "BS": 290
     },
     "stattrak_multiplier": 1.75
@@ -66126,7 +66060,7 @@
       "FN": 528.37,
       "MW": 626.88,
       "FT": 467.37,
-      "WW": 1487.93,
+      "WW": 1490.1,
       "BS": 290
     },
     "stattrak_multiplier": 1.75
@@ -66148,7 +66082,7 @@
       "FN": 528.37,
       "MW": 626.88,
       "FT": 467.37,
-      "WW": 1487.93,
+      "WW": 1490.1,
       "BS": 290
     },
     "stattrak_multiplier": 1.75
@@ -66595,21 +66529,21 @@
   },
   "mp9_wild_lily": {
     "market_hash_name": "MP9 | Wild Lily (Field-Tested)",
-    "current_price_usd": 1929,
+    "current_price_usd": 1919,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1929,
-      1929,
-      1929,
-      1929,
-      1929,
-      1929,
-      1929
+      1919,
+      1919,
+      1919,
+      1919,
+      1919,
+      1919,
+      1919
     ],
     "wears": {
-      "FN": 2320.74,
-      "MW": 2250,
-      "FT": 1929,
+      "FN": 2310.95,
+      "MW": 2255,
+      "FT": 1919,
       "WW": 134.25,
       "BS": 3337.32
     },
@@ -66617,21 +66551,21 @@
   },
   "knife_mp9_wild_lily": {
     "market_hash_name": "MP9 | Wild Lily (Field-Tested)",
-    "current_price_usd": 1929,
+    "current_price_usd": 1919,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1929,
-      1929,
-      1929,
-      1929,
-      1929,
-      1929,
-      1929
+      1919,
+      1919,
+      1919,
+      1919,
+      1919,
+      1919,
+      1919
     ],
     "wears": {
-      "FN": 2320.74,
-      "MW": 2250,
-      "FT": 1929,
+      "FN": 2310.95,
+      "MW": 2255,
+      "FT": 1919,
       "WW": 134.25,
       "BS": 3337.32
     },
@@ -66639,21 +66573,21 @@
   },
   "gloves_mp9_wild_lily": {
     "market_hash_name": "MP9 | Wild Lily (Field-Tested)",
-    "current_price_usd": 1929,
+    "current_price_usd": 1919,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1929,
-      1929,
-      1929,
-      1929,
-      1929,
-      1929,
-      1929
+      1919,
+      1919,
+      1919,
+      1919,
+      1919,
+      1919,
+      1919
     ],
     "wears": {
-      "FN": 2320.74,
-      "MW": 2250,
-      "FT": 1929,
+      "FN": 2310.95,
+      "MW": 2255,
+      "FT": 1919,
       "WW": 134.25,
       "BS": 3337.32
     },
@@ -67123,67 +67057,67 @@
   },
   "awp_the_prince": {
     "market_hash_name": "AWP | The Prince (Field-Tested)",
-    "current_price_usd": 1688.03,
+    "current_price_usd": 1661.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53
     ],
     "wears": {
-      "FN": 2490,
-      "MW": 1895,
-      "FT": 1688.03,
+      "FN": 2450,
+      "MW": 1883.77,
+      "FT": 1661.53,
       "WW": 1744.04,
-      "BS": 1575.41
+      "BS": 1660.55
     },
     "stattrak_multiplier": 1.75
   },
   "knife_awp_the_prince": {
     "market_hash_name": "AWP | The Prince (Field-Tested)",
-    "current_price_usd": 1688.03,
+    "current_price_usd": 1661.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53
     ],
     "wears": {
-      "FN": 2490,
-      "MW": 1895,
-      "FT": 1688.03,
+      "FN": 2450,
+      "MW": 1883.77,
+      "FT": 1661.53,
       "WW": 1744.04,
-      "BS": 1575.41
+      "BS": 1660.55
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_awp_the_prince": {
     "market_hash_name": "AWP | The Prince (Field-Tested)",
-    "current_price_usd": 1688.03,
+    "current_price_usd": 1661.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03,
-      1688.03
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53,
+      1661.53
     ],
     "wears": {
-      "FN": 2490,
-      "MW": 1895,
-      "FT": 1688.03,
+      "FN": 2450,
+      "MW": 1883.77,
+      "FT": 1661.53,
       "WW": 1744.04,
-      "BS": 1575.41
+      "BS": 1660.55
     },
     "stattrak_multiplier": 1.75
   },
@@ -68392,8 +68326,8 @@
       "FN": 536,
       "MW": 421.41,
       "FT": 386.7,
-      "WW": 337.76,
-      "BS": 494.05
+      "WW": 289.86,
+      "BS": 457
     },
     "stattrak_multiplier": 1.75
   },
@@ -68414,8 +68348,8 @@
       "FN": 536,
       "MW": 421.41,
       "FT": 386.7,
-      "WW": 337.76,
-      "BS": 494.05
+      "WW": 289.86,
+      "BS": 457
     },
     "stattrak_multiplier": 1.75
   },
@@ -68436,8 +68370,8 @@
       "FN": 536,
       "MW": 421.41,
       "FT": 386.7,
-      "WW": 337.76,
-      "BS": 494.05
+      "WW": 289.86,
+      "BS": 457
     },
     "stattrak_multiplier": 1.75
   },
@@ -68458,8 +68392,8 @@
       "FN": 594.87,
       "MW": 390.81,
       "FT": 444.01,
-      "WW": 1419.45,
-      "BS": 1500
+      "WW": 350,
+      "BS": 500
     },
     "stattrak_multiplier": 1.75
   },
@@ -68480,8 +68414,8 @@
       "FN": 594.87,
       "MW": 390.81,
       "FT": 444.01,
-      "WW": 1419.45,
-      "BS": 1500
+      "WW": 350,
+      "BS": 500
     },
     "stattrak_multiplier": 1.75
   },
@@ -68502,8 +68436,8 @@
       "FN": 594.87,
       "MW": 390.81,
       "FT": 444.01,
-      "WW": 1419.45,
-      "BS": 1500
+      "WW": 350,
+      "BS": 500
     },
     "stattrak_multiplier": 1.75
   },
@@ -69071,7 +69005,7 @@
       120.3
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 165.69,
       "FT": 120.3,
       "WW": 122.28,
@@ -69093,7 +69027,7 @@
       120.3
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 165.69,
       "FT": 120.3,
       "WW": 122.28,
@@ -69115,7 +69049,7 @@
       120.3
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 165.69,
       "FT": 120.3,
       "WW": 122.28,
@@ -69137,7 +69071,7 @@
       120.3
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 165.69,
       "FT": 120.3,
       "WW": 122.28,
@@ -69712,8 +69646,8 @@
       "FN": 14200,
       "MW": 9825.01,
       "FT": 1848.11,
-      "WW": 5019.69,
-      "BS": 3684.55
+      "WW": 4900,
+      "BS": 3687.75
     },
     "stattrak_multiplier": 1.75
   },
@@ -69734,8 +69668,8 @@
       "FN": 14200,
       "MW": 9825.01,
       "FT": 1848.11,
-      "WW": 5019.69,
-      "BS": 3684.55
+      "WW": 4900,
+      "BS": 3687.75
     },
     "stattrak_multiplier": 1.75
   },
@@ -69756,8 +69690,8 @@
       "FN": 14200,
       "MW": 9825.01,
       "FT": 1848.11,
-      "WW": 5019.69,
-      "BS": 3684.55
+      "WW": 4900,
+      "BS": 3687.75
     },
     "stattrak_multiplier": 1.75
   },
@@ -69778,8 +69712,8 @@
       "FN": 14200,
       "MW": 9825.01,
       "FT": 1848.11,
-      "WW": 5019.69,
-      "BS": 3684.55
+      "WW": 4900,
+      "BS": 3687.75
     },
     "stattrak_multiplier": 1.75
   },
@@ -71139,7 +71073,7 @@
       165.88
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 218.7,
       "FT": 165.88,
       "WW": 155.09,
@@ -71161,7 +71095,7 @@
       165.88
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 218.7,
       "FT": 165.88,
       "WW": 155.09,
@@ -71183,7 +71117,7 @@
       165.88
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 218.7,
       "FT": 165.88,
       "WW": 155.09,
@@ -71205,7 +71139,7 @@
       165.88
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 218.7,
       "FT": 165.88,
       "WW": 155.09,
@@ -72880,8 +72814,8 @@
       "FN": 488.41,
       "MW": 600,
       "FT": 607.78,
-      "WW": 17.86,
-      "BS": 14.88
+      "WW": 17.88,
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -72902,8 +72836,8 @@
       "FN": 488.41,
       "MW": 600,
       "FT": 607.78,
-      "WW": 17.86,
-      "BS": 14.88
+      "WW": 17.88,
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -72924,8 +72858,8 @@
       "FN": 488.41,
       "MW": 600,
       "FT": 607.78,
-      "WW": 17.86,
-      "BS": 14.88
+      "WW": 17.88,
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -73034,7 +72968,7 @@
       "FN": 511.77,
       "MW": 476.23,
       "FT": 447.41,
-      "WW": 17.86,
+      "WW": 17.88,
       "BS": 343.28
     },
     "stattrak_multiplier": 1.75
@@ -73056,7 +72990,7 @@
       "FN": 511.77,
       "MW": 476.23,
       "FT": 447.41,
-      "WW": 17.86,
+      "WW": 17.88,
       "BS": 343.28
     },
     "stattrak_multiplier": 1.75
@@ -73078,7 +73012,7 @@
       "FN": 511.77,
       "MW": 476.23,
       "FT": 447.41,
-      "WW": 17.86,
+      "WW": 17.88,
       "BS": 343.28
     },
     "stattrak_multiplier": 1.75
@@ -73100,7 +73034,7 @@
       "FN": 511.77,
       "MW": 476.23,
       "FT": 447.41,
-      "WW": 17.86,
+      "WW": 17.88,
       "BS": 343.28
     },
     "stattrak_multiplier": 1.75
@@ -73122,7 +73056,7 @@
       "FN": 511.77,
       "MW": 476.23,
       "FT": 447.41,
-      "WW": 17.86,
+      "WW": 17.88,
       "BS": 343.28
     },
     "stattrak_multiplier": 1.75
@@ -73141,7 +73075,7 @@
       330.71
     ],
     "wears": {
-      "FN": 634.07,
+      "FN": 633.13,
       "MW": 386.73,
       "FT": 330.71,
       "WW": 303.74,
@@ -73163,7 +73097,7 @@
       330.71
     ],
     "wears": {
-      "FN": 634.07,
+      "FN": 633.13,
       "MW": 386.73,
       "FT": 330.71,
       "WW": 303.74,
@@ -73185,7 +73119,7 @@
       330.71
     ],
     "wears": {
-      "FN": 634.07,
+      "FN": 633.13,
       "MW": 386.73,
       "FT": 330.71,
       "WW": 303.74,
@@ -73207,7 +73141,7 @@
       330.71
     ],
     "wears": {
-      "FN": 634.07,
+      "FN": 633.13,
       "MW": 386.73,
       "FT": 330.71,
       "WW": 303.74,
@@ -73232,7 +73166,7 @@
       "FN": 208.38,
       "MW": 146.04,
       "FT": 126.45,
-      "WW": 11.9,
+      "WW": 11.92,
       "BS": 348.9
     },
     "stattrak_multiplier": 1.75
@@ -73254,7 +73188,7 @@
       "FN": 208.38,
       "MW": 146.04,
       "FT": 126.45,
-      "WW": 11.9,
+      "WW": 11.92,
       "BS": 348.9
     },
     "stattrak_multiplier": 1.75
@@ -73276,7 +73210,7 @@
       "FN": 208.38,
       "MW": 146.04,
       "FT": 126.45,
-      "WW": 11.9,
+      "WW": 11.92,
       "BS": 348.9
     },
     "stattrak_multiplier": 1.75
@@ -74267,7 +74201,7 @@
       "MW": 616.3,
       "FT": 623.97,
       "WW": 510.13,
-      "BS": 375.59
+      "BS": 549
     },
     "stattrak_multiplier": 1.75
   },
@@ -74289,7 +74223,7 @@
       "MW": 616.3,
       "FT": 623.97,
       "WW": 510.13,
-      "BS": 375.59
+      "BS": 549
     },
     "stattrak_multiplier": 1.75
   },
@@ -74311,7 +74245,7 @@
       "MW": 616.3,
       "FT": 623.97,
       "WW": 510.13,
-      "BS": 375.59
+      "BS": 549
     },
     "stattrak_multiplier": 1.75
   },
@@ -74333,7 +74267,7 @@
       "MW": 616.3,
       "FT": 623.97,
       "WW": 510.13,
-      "BS": 375.59
+      "BS": 549
     },
     "stattrak_multiplier": 1.75
   },
@@ -74993,7 +74927,7 @@
       "MW": 146.79,
       "FT": 125.66,
       "WW": 288.88,
-      "BS": 7.44
+      "BS": 7.45
     },
     "stattrak_multiplier": 1.75
   },
@@ -75015,7 +74949,7 @@
       "MW": 146.79,
       "FT": 125.66,
       "WW": 288.88,
-      "BS": 7.44
+      "BS": 7.45
     },
     "stattrak_multiplier": 1.75
   },
@@ -75037,7 +74971,7 @@
       "MW": 146.79,
       "FT": 125.66,
       "WW": 288.88,
-      "BS": 7.44
+      "BS": 7.45
     },
     "stattrak_multiplier": 1.75
   },
@@ -78585,21 +78519,21 @@
   },
   "sport_gloves_superconductor": {
     "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
-    "current_price_usd": 1715,
+    "current_price_usd": 1745.07,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07
     ],
     "wears": {
       "FN": 10750,
       "MW": 2500,
-      "FT": 1715,
+      "FT": 1745.07,
       "WW": 1722.4,
       "BS": 1287.58
     },
@@ -78607,21 +78541,21 @@
   },
   "knife_sport_gloves_superconductor": {
     "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
-    "current_price_usd": 1715,
+    "current_price_usd": 1745.07,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07
     ],
     "wears": {
       "FN": 10750,
       "MW": 2500,
-      "FT": 1715,
+      "FT": 1745.07,
       "WW": 1722.4,
       "BS": 1287.58
     },
@@ -78629,21 +78563,21 @@
   },
   "sport_superconductor": {
     "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
-    "current_price_usd": 1715,
+    "current_price_usd": 1745.07,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07
     ],
     "wears": {
       "FN": 10750,
       "MW": 2500,
-      "FT": 1715,
+      "FT": 1745.07,
       "WW": 1722.4,
       "BS": 1287.58
     },
@@ -78651,21 +78585,21 @@
   },
   "gloves_sport_gloves_superconductor": {
     "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
-    "current_price_usd": 1715,
+    "current_price_usd": 1745.07,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715,
-      1715
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07,
+      1745.07
     ],
     "wears": {
       "FN": 10750,
       "MW": 2500,
-      "FT": 1715,
+      "FT": 1745.07,
       "WW": 1722.4,
       "BS": 1287.58
     },
@@ -80094,10 +80028,10 @@
     ],
     "wears": {
       "FN": 29300,
-      "MW": 6935.45,
+      "MW": 6966,
       "FT": 1874.38,
       "WW": 3062.94,
-      "BS": 2062.84
+      "BS": 2052.95
     },
     "stattrak_multiplier": 1.75
   },
@@ -80116,10 +80050,10 @@
     ],
     "wears": {
       "FN": 29300,
-      "MW": 6935.45,
+      "MW": 6966,
       "FT": 1874.38,
       "WW": 3062.94,
-      "BS": 2062.84
+      "BS": 2052.95
     },
     "stattrak_multiplier": 1.75
   },
@@ -80138,10 +80072,10 @@
     ],
     "wears": {
       "FN": 29300,
-      "MW": 6935.45,
+      "MW": 6966,
       "FT": 1874.38,
       "WW": 3062.94,
-      "BS": 2062.84
+      "BS": 2052.95
     },
     "stattrak_multiplier": 1.75
   },
@@ -80160,10 +80094,10 @@
     ],
     "wears": {
       "FN": 29300,
-      "MW": 6935.45,
+      "MW": 6966,
       "FT": 1874.38,
       "WW": 3062.94,
-      "BS": 2062.84
+      "BS": 2052.95
     },
     "stattrak_multiplier": 1.75
   },
@@ -80247,7 +80181,7 @@
       201.05
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185,
       "FT": 201.05,
       "WW": 140,
@@ -80269,7 +80203,7 @@
       201.05
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185,
       "FT": 201.05,
       "WW": 140,
@@ -80291,7 +80225,7 @@
       201.05
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 185,
       "FT": 201.05,
       "WW": 140,
@@ -84937,7 +84871,7 @@
       "MW": 111.22,
       "FT": 98.52,
       "WW": 117.79,
-      "BS": 250
+      "BS": 65.31
     },
     "stattrak_multiplier": 1.75
   },
@@ -84959,7 +84893,7 @@
       "MW": 111.22,
       "FT": 98.52,
       "WW": 117.79,
-      "BS": 250
+      "BS": 65.31
     },
     "stattrak_multiplier": 1.75
   },
@@ -84981,7 +84915,7 @@
       "MW": 111.22,
       "FT": 98.52,
       "WW": 117.79,
-      "BS": 250
+      "BS": 65.31
     },
     "stattrak_multiplier": 1.75
   },
@@ -85053,7 +84987,7 @@
   },
   "m4a1_s_blue_phosphor": {
     "market_hash_name": "M4A1-S | Blue Phosphor (Field-Tested)",
-    "current_price_usd": 610,
+    "current_price_usd": 619,
     "price_change_24h_percent": -5.2,
     "historical_7d_prices": [
       905.52,
@@ -85066,16 +85000,16 @@
     ],
     "wears": {
       "FN": 813.19,
-      "MW": 610,
-      "FT": 610,
-      "WW": 536.8,
-      "BS": 457.5
+      "MW": 619,
+      "FT": 619,
+      "WW": 544.72,
+      "BS": 464.25
     },
     "stattrak_multiplier": 1.75
   },
   "m4a1s_blue_phosphor": {
     "market_hash_name": "M4A1-S | Blue Phosphor (Field-Tested)",
-    "current_price_usd": 610,
+    "current_price_usd": 619,
     "price_change_24h_percent": -5.2,
     "historical_7d_prices": [
       905.52,
@@ -85088,16 +85022,16 @@
     ],
     "wears": {
       "FN": 813.19,
-      "MW": 610,
-      "FT": 610,
-      "WW": 536.8,
-      "BS": 457.5
+      "MW": 619,
+      "FT": 619,
+      "WW": 544.72,
+      "BS": 464.25
     },
     "stattrak_multiplier": 1.75
   },
   "knife_m4a1_s_blue_phosphor": {
     "market_hash_name": "M4A1-S | Blue Phosphor (Field-Tested)",
-    "current_price_usd": 610,
+    "current_price_usd": 619,
     "price_change_24h_percent": -5.2,
     "historical_7d_prices": [
       905.52,
@@ -85110,16 +85044,16 @@
     ],
     "wears": {
       "FN": 813.19,
-      "MW": 610,
-      "FT": 610,
-      "WW": 536.8,
-      "BS": 457.5
+      "MW": 619,
+      "FT": 619,
+      "WW": 544.72,
+      "BS": 464.25
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_m4a1_s_blue_phosphor": {
     "market_hash_name": "M4A1-S | Blue Phosphor (Field-Tested)",
-    "current_price_usd": 610,
+    "current_price_usd": 619,
     "price_change_24h_percent": -5.2,
     "historical_7d_prices": [
       905.52,
@@ -85132,10 +85066,10 @@
     ],
     "wears": {
       "FN": 813.19,
-      "MW": 610,
-      "FT": 610,
-      "WW": 536.8,
-      "BS": 457.5
+      "MW": 619,
+      "FT": 619,
+      "WW": 544.72,
+      "BS": 464.25
     },
     "stattrak_multiplier": 1.75
   },
@@ -86451,7 +86385,7 @@
       560.31
     ],
     "wears": {
-      "FN": 2757.89,
+      "FN": 2532.97,
       "MW": 1294.12,
       "FT": 560.31,
       "WW": 438.73,
@@ -86473,7 +86407,7 @@
       560.31
     ],
     "wears": {
-      "FN": 2757.89,
+      "FN": 2532.97,
       "MW": 1294.12,
       "FT": 560.31,
       "WW": 438.73,
@@ -86495,7 +86429,7 @@
       560.31
     ],
     "wears": {
-      "FN": 2757.89,
+      "FN": 2532.97,
       "MW": 1294.12,
       "FT": 560.31,
       "WW": 438.73,
@@ -86517,7 +86451,7 @@
       560.31
     ],
     "wears": {
-      "FN": 2757.89,
+      "FN": 2532.97,
       "MW": 1294.12,
       "FT": 560.31,
       "WW": 438.73,
@@ -86913,7 +86847,7 @@
       188.21
     ],
     "wears": {
-      "FN": 1150,
+      "FN": 1149.99,
       "MW": 509.85,
       "FT": 188.21,
       "WW": 181.85,
@@ -86935,7 +86869,7 @@
       188.21
     ],
     "wears": {
-      "FN": 1150,
+      "FN": 1149.99,
       "MW": 509.85,
       "FT": 188.21,
       "WW": 181.85,
@@ -86957,7 +86891,7 @@
       188.21
     ],
     "wears": {
-      "FN": 1150,
+      "FN": 1149.99,
       "MW": 509.85,
       "FT": 188.21,
       "WW": 181.85,
@@ -86979,7 +86913,7 @@
       188.21
     ],
     "wears": {
-      "FN": 1150,
+      "FN": 1149.99,
       "MW": 509.85,
       "FT": 188.21,
       "WW": 181.85,
@@ -87444,7 +87378,7 @@
       "FN": 422.78,
       "MW": 384.99,
       "FT": 188,
-      "WW": 208.33,
+      "WW": 208.63,
       "BS": 177.01
     },
     "stattrak_multiplier": 1.75
@@ -87466,7 +87400,7 @@
       "FN": 422.78,
       "MW": 384.99,
       "FT": 188,
-      "WW": 208.33,
+      "WW": 208.63,
       "BS": 177.01
     },
     "stattrak_multiplier": 1.75
@@ -87488,7 +87422,7 @@
       "FN": 422.78,
       "MW": 384.99,
       "FT": 188,
-      "WW": 208.33,
+      "WW": 208.63,
       "BS": 177.01
     },
     "stattrak_multiplier": 1.75
@@ -87837,7 +87771,7 @@
       1229.04
     ],
     "wears": {
-      "FN": 1772,
+      "FN": 1800,
       "MW": 1797.1,
       "FT": 1229.04,
       "WW": 732.34,
@@ -87859,7 +87793,7 @@
       1229.04
     ],
     "wears": {
-      "FN": 1772,
+      "FN": 1800,
       "MW": 1797.1,
       "FT": 1229.04,
       "WW": 732.34,
@@ -87881,7 +87815,7 @@
       1229.04
     ],
     "wears": {
-      "FN": 1772,
+      "FN": 1800,
       "MW": 1797.1,
       "FT": 1229.04,
       "WW": 732.34,
@@ -87903,7 +87837,7 @@
       1229.04
     ],
     "wears": {
-      "FN": 1772,
+      "FN": 1800,
       "MW": 1797.1,
       "FT": 1229.04,
       "WW": 732.34,
@@ -88013,7 +87947,7 @@
       211.24
     ],
     "wears": {
-      "FN": 1593.73,
+      "FN": 1476.6,
       "MW": 557.35,
       "FT": 211.24,
       "WW": 180.15,
@@ -88035,7 +87969,7 @@
       211.24
     ],
     "wears": {
-      "FN": 1593.73,
+      "FN": 1476.6,
       "MW": 557.35,
       "FT": 211.24,
       "WW": 180.15,
@@ -88057,7 +87991,7 @@
       211.24
     ],
     "wears": {
-      "FN": 1593.73,
+      "FN": 1476.6,
       "MW": 557.35,
       "FT": 211.24,
       "WW": 180.15,
@@ -88079,7 +88013,7 @@
       211.24
     ],
     "wears": {
-      "FN": 1593.73,
+      "FN": 1476.6,
       "MW": 557.35,
       "FT": 211.24,
       "WW": 180.15,
@@ -91954,7 +91888,7 @@
       "FN": 78.61,
       "MW": 49.19,
       "FT": 46.32,
-      "WW": 41.47,
+      "WW": 41.06,
       "BS": 40.88
     },
     "stattrak_multiplier": 1.75
@@ -91976,7 +91910,7 @@
       "FN": 78.61,
       "MW": 49.19,
       "FT": 46.32,
-      "WW": 41.47,
+      "WW": 41.06,
       "BS": 40.88
     },
     "stattrak_multiplier": 1.75
@@ -91998,7 +91932,7 @@
       "FN": 78.61,
       "MW": 49.19,
       "FT": 46.32,
-      "WW": 41.47,
+      "WW": 41.06,
       "BS": 40.88
     },
     "stattrak_multiplier": 1.75
@@ -95845,8 +95779,8 @@
       1725
     ],
     "wears": {
-      "FN": 1812.15,
-      "MW": 1357.93,
+      "FN": 1809.17,
+      "MW": 1350,
       "FT": 1725,
       "WW": 1801.51,
       "BS": 1751.77
@@ -95867,8 +95801,8 @@
       1725
     ],
     "wears": {
-      "FN": 1812.15,
-      "MW": 1357.93,
+      "FN": 1809.17,
+      "MW": 1350,
       "FT": 1725,
       "WW": 1801.51,
       "BS": 1751.77
@@ -95889,8 +95823,8 @@
       1725
     ],
     "wears": {
-      "FN": 1812.15,
-      "MW": 1357.93,
+      "FN": 1809.17,
+      "MW": 1350,
       "FT": 1725,
       "WW": 1801.51,
       "BS": 1751.77
@@ -95911,8 +95845,8 @@
       1725
     ],
     "wears": {
-      "FN": 1812.15,
-      "MW": 1357.93,
+      "FN": 1809.17,
+      "MW": 1350,
       "FT": 1725,
       "WW": 1801.51,
       "BS": 1751.77
@@ -100490,7 +100424,7 @@
       "FN": 963.83,
       "MW": 950,
       "FT": 849.91,
-      "WW": 569.16,
+      "WW": 569.14,
       "BS": 716.54
     },
     "stattrak_multiplier": 1.75
@@ -100512,7 +100446,7 @@
       "FN": 963.83,
       "MW": 950,
       "FT": 849.91,
-      "WW": 569.16,
+      "WW": 569.14,
       "BS": 716.54
     },
     "stattrak_multiplier": 1.75
@@ -100534,7 +100468,7 @@
       "FN": 963.83,
       "MW": 950,
       "FT": 849.91,
-      "WW": 569.16,
+      "WW": 569.14,
       "BS": 716.54
     },
     "stattrak_multiplier": 1.75
@@ -100556,7 +100490,7 @@
       "FN": 963.83,
       "MW": 950,
       "FT": 849.91,
-      "WW": 569.16,
+      "WW": 569.14,
       "BS": 716.54
     },
     "stattrak_multiplier": 1.75
@@ -119363,7 +119297,7 @@
       76.1
     ],
     "wears": {
-      "FN": 780,
+      "FN": 700,
       "MW": 166.5,
       "FT": 76.1,
       "WW": 46.84,
@@ -119385,7 +119319,7 @@
       76.1
     ],
     "wears": {
-      "FN": 780,
+      "FN": 700,
       "MW": 166.5,
       "FT": 76.1,
       "WW": 46.84,
@@ -119407,7 +119341,7 @@
       76.1
     ],
     "wears": {
-      "FN": 780,
+      "FN": 700,
       "MW": 166.5,
       "FT": 76.1,
       "WW": 46.84,
@@ -127657,7 +127591,7 @@
       549.77
     ],
     "wears": {
-      "FN": 575.89,
+      "FN": 576.73,
       "MW": 567.67,
       "FT": 549.77,
       "WW": 655,
@@ -127679,7 +127613,7 @@
       549.77
     ],
     "wears": {
-      "FN": 575.89,
+      "FN": 576.73,
       "MW": 567.67,
       "FT": 549.77,
       "WW": 655,
@@ -127701,7 +127635,7 @@
       549.77
     ],
     "wears": {
-      "FN": 575.89,
+      "FN": 576.73,
       "MW": 567.67,
       "FT": 549.77,
       "WW": 655,
@@ -128889,7 +128823,7 @@
       177.87
     ],
     "wears": {
-      "FN": 391.31,
+      "FN": 1950,
       "MW": 197.17,
       "FT": 177.87,
       "WW": 176.97,
@@ -128911,7 +128845,7 @@
       177.87
     ],
     "wears": {
-      "FN": 391.31,
+      "FN": 1950,
       "MW": 197.17,
       "FT": 177.87,
       "WW": 176.97,
@@ -128933,7 +128867,7 @@
       177.87
     ],
     "wears": {
-      "FN": 391.31,
+      "FN": 1950,
       "MW": 197.17,
       "FT": 177.87,
       "WW": 176.97,
@@ -128955,7 +128889,7 @@
       623
     ],
     "wears": {
-      "FN": 650,
+      "FN": 600,
       "MW": 975.27,
       "FT": 623,
       "WW": 121.48,
@@ -128977,7 +128911,7 @@
       623
     ],
     "wears": {
-      "FN": 650,
+      "FN": 600,
       "MW": 975.27,
       "FT": 623,
       "WW": 121.48,
@@ -128999,7 +128933,7 @@
       623
     ],
     "wears": {
-      "FN": 650,
+      "FN": 600,
       "MW": 975.27,
       "FT": 623,
       "WW": 121.48,
@@ -129021,7 +128955,7 @@
       623
     ],
     "wears": {
-      "FN": 650,
+      "FN": 600,
       "MW": 975.27,
       "FT": 623,
       "WW": 121.48,
@@ -129879,7 +129813,7 @@
       71.49
     ],
     "wears": {
-      "FN": 66.96,
+      "FN": 67.06,
       "MW": 78.19,
       "FT": 71.49,
       "WW": 73.18,
@@ -129901,7 +129835,7 @@
       71.49
     ],
     "wears": {
-      "FN": 66.96,
+      "FN": 67.06,
       "MW": 78.19,
       "FT": 71.49,
       "WW": 73.18,
@@ -129923,7 +129857,7 @@
       71.49
     ],
     "wears": {
-      "FN": 66.96,
+      "FN": 67.06,
       "MW": 78.19,
       "FT": 71.49,
       "WW": 73.18,
@@ -129945,7 +129879,7 @@
       71.49
     ],
     "wears": {
-      "FN": 66.96,
+      "FN": 67.06,
       "MW": 78.19,
       "FT": 71.49,
       "WW": 73.18,
@@ -132849,7 +132783,7 @@
       663.95
     ],
     "wears": {
-      "FN": 895,
+      "FN": 1010,
       "MW": 752.23,
       "FT": 663.95,
       "WW": 637.37,
@@ -132871,7 +132805,7 @@
       663.95
     ],
     "wears": {
-      "FN": 895,
+      "FN": 1010,
       "MW": 752.23,
       "FT": 663.95,
       "WW": 637.37,
@@ -132893,7 +132827,7 @@
       663.95
     ],
     "wears": {
-      "FN": 895,
+      "FN": 1010,
       "MW": 752.23,
       "FT": 663.95,
       "WW": 637.37,
@@ -132915,7 +132849,7 @@
       663.95
     ],
     "wears": {
-      "FN": 895,
+      "FN": 1010,
       "MW": 752.23,
       "FT": 663.95,
       "WW": 637.37,
@@ -133003,7 +132937,7 @@
       596.56
     ],
     "wears": {
-      "FN": 684.29,
+      "FN": 685.29,
       "MW": 603.76,
       "FT": 596.56,
       "WW": 639.37,
@@ -133025,7 +132959,7 @@
       596.56
     ],
     "wears": {
-      "FN": 684.29,
+      "FN": 685.29,
       "MW": 603.76,
       "FT": 596.56,
       "WW": 639.37,
@@ -133047,7 +132981,7 @@
       596.56
     ],
     "wears": {
-      "FN": 684.29,
+      "FN": 685.29,
       "MW": 603.76,
       "FT": 596.56,
       "WW": 639.37,
@@ -133069,7 +133003,7 @@
       596.56
     ],
     "wears": {
-      "FN": 684.29,
+      "FN": 685.29,
       "MW": 603.76,
       "FT": 596.56,
       "WW": 639.37,
@@ -138107,8 +138041,8 @@
       1402.35
     ],
     "wears": {
-      "FN": 3784.99,
-      "MW": 1520,
+      "FN": 3750,
+      "MW": 1500,
       "FT": 1402.35,
       "WW": 1100,
       "BS": 1032.14
@@ -138129,8 +138063,8 @@
       1402.35
     ],
     "wears": {
-      "FN": 3784.99,
-      "MW": 1520,
+      "FN": 3750,
+      "MW": 1500,
       "FT": 1402.35,
       "WW": 1100,
       "BS": 1032.14
@@ -138151,8 +138085,8 @@
       1402.35
     ],
     "wears": {
-      "FN": 3784.99,
-      "MW": 1520,
+      "FN": 3750,
+      "MW": 1500,
       "FT": 1402.35,
       "WW": 1100,
       "BS": 1032.14
@@ -138173,8 +138107,8 @@
       1402.35
     ],
     "wears": {
-      "FN": 3784.99,
-      "MW": 1520,
+      "FN": 3750,
+      "MW": 1500,
       "FT": 1402.35,
       "WW": 1100,
       "BS": 1032.14
@@ -138792,7 +138726,7 @@
       "FN": 386.56,
       "MW": 255.78,
       "FT": 359,
-      "WW": 14.88,
+      "WW": 14.9,
       "BS": 269.25
     },
     "stattrak_multiplier": 1.75
@@ -138814,7 +138748,7 @@
       "FN": 386.56,
       "MW": 255.78,
       "FT": 359,
-      "WW": 14.88,
+      "WW": 14.9,
       "BS": 269.25
     },
     "stattrak_multiplier": 1.75
@@ -138836,7 +138770,7 @@
       "FN": 386.56,
       "MW": 255.78,
       "FT": 359,
-      "WW": 14.88,
+      "WW": 14.9,
       "BS": 269.25
     },
     "stattrak_multiplier": 1.75
@@ -139119,7 +139053,7 @@
       154.45
     ],
     "wears": {
-      "FN": 660.28,
+      "FN": 654.07,
       "MW": 251.28,
       "FT": 154.45,
       "WW": 150.18,
@@ -139141,7 +139075,7 @@
       154.45
     ],
     "wears": {
-      "FN": 660.28,
+      "FN": 654.07,
       "MW": 251.28,
       "FT": 154.45,
       "WW": 150.18,
@@ -139163,7 +139097,7 @@
       154.45
     ],
     "wears": {
-      "FN": 660.28,
+      "FN": 654.07,
       "MW": 251.28,
       "FT": 154.45,
       "WW": 150.18,
@@ -139185,7 +139119,7 @@
       154.45
     ],
     "wears": {
-      "FN": 660.28,
+      "FN": 654.07,
       "MW": 251.28,
       "FT": 154.45,
       "WW": 150.18,
@@ -140131,7 +140065,7 @@
       83.82
     ],
     "wears": {
-      "FN": 670.55,
+      "FN": 659.84,
       "MW": 93.13,
       "FT": 83.82,
       "WW": 82.12,
@@ -140153,7 +140087,7 @@
       83.82
     ],
     "wears": {
-      "FN": 670.55,
+      "FN": 659.84,
       "MW": 93.13,
       "FT": 83.82,
       "WW": 82.12,
@@ -140175,7 +140109,7 @@
       83.82
     ],
     "wears": {
-      "FN": 670.55,
+      "FN": 659.84,
       "MW": 93.13,
       "FT": 83.82,
       "WW": 82.12,
@@ -140197,7 +140131,7 @@
       83.82
     ],
     "wears": {
-      "FN": 670.55,
+      "FN": 659.84,
       "MW": 93.13,
       "FT": 83.82,
       "WW": 82.12,
@@ -140329,7 +140263,7 @@
       79.14
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 156.48,
       "MW": 80.34,
       "FT": 79.14,
       "WW": 80.56,
@@ -140351,7 +140285,7 @@
       79.14
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 156.48,
       "MW": 80.34,
       "FT": 79.14,
       "WW": 80.56,
@@ -140373,7 +140307,7 @@
       79.14
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 156.48,
       "MW": 80.34,
       "FT": 79.14,
       "WW": 80.56,
@@ -140395,7 +140329,7 @@
       79.14
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 156.48,
       "MW": 80.34,
       "FT": 79.14,
       "WW": 80.56,
@@ -140549,7 +140483,7 @@
       1292
     ],
     "wears": {
-      "FN": 1475,
+      "FN": 1528.97,
       "MW": 1748.26,
       "FT": 1292,
       "WW": 1136.96,
@@ -140571,7 +140505,7 @@
       1292
     ],
     "wears": {
-      "FN": 1475,
+      "FN": 1528.97,
       "MW": 1748.26,
       "FT": 1292,
       "WW": 1136.96,
@@ -140593,7 +140527,7 @@
       1292
     ],
     "wears": {
-      "FN": 1475,
+      "FN": 1528.97,
       "MW": 1748.26,
       "FT": 1292,
       "WW": 1136.96,
@@ -140615,7 +140549,7 @@
       1292
     ],
     "wears": {
-      "FN": 1475,
+      "FN": 1528.97,
       "MW": 1748.26,
       "FT": 1292,
       "WW": 1136.96,
@@ -141175,67 +141109,67 @@
   },
   "cz75_auto_chalice": {
     "market_hash_name": "CZ75-Auto | Chalice (Field-Tested)",
-    "current_price_usd": 29.76,
+    "current_price_usd": 29.8,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       591.95,
-      310.86,
-      29.76,
-      29.76,
-      29.76,
-      29.76,
-      29.76
+      310.88,
+      29.8,
+      29.8,
+      29.8,
+      29.8,
+      29.8
     ],
     "wears": {
       "FN": 591.95,
-      "MW": 29.76,
-      "FT": 29.76,
-      "WW": 26.19,
-      "BS": 22.32
+      "MW": 29.8,
+      "FT": 29.8,
+      "WW": 26.22,
+      "BS": 22.35
     },
     "stattrak_multiplier": 1.75
   },
   "knife_cz75_auto_chalice": {
     "market_hash_name": "CZ75-Auto | Chalice (Field-Tested)",
-    "current_price_usd": 29.76,
+    "current_price_usd": 29.8,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       591.95,
-      310.86,
-      29.76,
-      29.76,
-      29.76,
-      29.76,
-      29.76
+      310.88,
+      29.8,
+      29.8,
+      29.8,
+      29.8,
+      29.8
     ],
     "wears": {
       "FN": 591.95,
-      "MW": 29.76,
-      "FT": 29.76,
-      "WW": 26.19,
-      "BS": 22.32
+      "MW": 29.8,
+      "FT": 29.8,
+      "WW": 26.22,
+      "BS": 22.35
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_cz75_auto_chalice": {
     "market_hash_name": "CZ75-Auto | Chalice (Field-Tested)",
-    "current_price_usd": 29.76,
+    "current_price_usd": 29.8,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       591.95,
-      310.86,
-      29.76,
-      29.76,
-      29.76,
-      29.76,
-      29.76
+      310.88,
+      29.8,
+      29.8,
+      29.8,
+      29.8,
+      29.8
     ],
     "wears": {
       "FN": 591.95,
-      "MW": 29.76,
-      "FT": 29.76,
-      "WW": 26.19,
-      "BS": 22.32
+      "MW": 29.8,
+      "FT": 29.8,
+      "WW": 26.22,
+      "BS": 22.35
     },
     "stattrak_multiplier": 1.75
   },
@@ -142485,7 +142419,7 @@
       446.24
     ],
     "wears": {
-      "FN": 902.35,
+      "FN": 894.88,
       "MW": 520.1,
       "FT": 446.24,
       "WW": 390.32,
@@ -142507,7 +142441,7 @@
       446.24
     ],
     "wears": {
-      "FN": 902.35,
+      "FN": 894.88,
       "MW": 520.1,
       "FT": 446.24,
       "WW": 390.32,
@@ -142529,7 +142463,7 @@
       446.24
     ],
     "wears": {
-      "FN": 902.35,
+      "FN": 894.88,
       "MW": 520.1,
       "FT": 446.24,
       "WW": 390.32,
@@ -142551,7 +142485,7 @@
       446.24
     ],
     "wears": {
-      "FN": 902.35,
+      "FN": 894.88,
       "MW": 520.1,
       "FT": 446.24,
       "WW": 390.32,
@@ -144381,7 +144315,7 @@
       "MW": 743.85,
       "FT": 726.09,
       "WW": 521.45,
-      "BS": 460.28
+      "BS": 455.81
     },
     "stattrak_multiplier": 1.75
   },
@@ -144403,7 +144337,7 @@
       "MW": 743.85,
       "FT": 726.09,
       "WW": 521.45,
-      "BS": 460.28
+      "BS": 455.81
     },
     "stattrak_multiplier": 1.75
   },
@@ -144425,7 +144359,7 @@
       "MW": 743.85,
       "FT": 726.09,
       "WW": 521.45,
-      "BS": 460.28
+      "BS": 455.81
     },
     "stattrak_multiplier": 1.75
   },
@@ -147401,67 +147335,67 @@
   },
   "stattrak™_bayonet_fade": {
     "market_hash_name": "★ StatTrak™ Bayonet | Fade (Field-Tested)",
-    "current_price_usd": 666,
-    "price_change_24h_percent": 37.9,
+    "current_price_usd": 800,
+    "price_change_24h_percent": 65.6,
     "historical_7d_prices": [
       612.9,
       620.96,
       629.02,
       556.01,
       483,
-      574.5,
-      666
+      641.5,
+      800
     ],
     "wears": {
       "FN": 483,
-      "MW": 666,
-      "FT": 666,
-      "WW": 586.08,
-      "BS": 499.5
+      "MW": 800,
+      "FT": 800,
+      "WW": 704,
+      "BS": 600
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_bayonet_fade": {
     "market_hash_name": "★ StatTrak™ Bayonet | Fade (Field-Tested)",
-    "current_price_usd": 666,
-    "price_change_24h_percent": 37.9,
+    "current_price_usd": 800,
+    "price_change_24h_percent": 65.6,
     "historical_7d_prices": [
       612.9,
       620.96,
       629.02,
       556.01,
       483,
-      574.5,
-      666
+      641.5,
+      800
     ],
     "wears": {
       "FN": 483,
-      "MW": 666,
-      "FT": 666,
-      "WW": 586.08,
-      "BS": 499.5
+      "MW": 800,
+      "FT": 800,
+      "WW": 704,
+      "BS": 600
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_bayonet_fade": {
     "market_hash_name": "★ StatTrak™ Bayonet | Fade (Field-Tested)",
-    "current_price_usd": 666,
-    "price_change_24h_percent": 37.9,
+    "current_price_usd": 800,
+    "price_change_24h_percent": 65.6,
     "historical_7d_prices": [
       612.9,
       620.96,
       629.02,
       556.01,
       483,
-      574.5,
-      666
+      641.5,
+      800
     ],
     "wears": {
       "FN": 483,
-      "MW": 666,
-      "FT": 666,
-      "WW": 586.08,
-      "BS": 499.5
+      "MW": 800,
+      "FT": 800,
+      "WW": 704,
+      "BS": 600
     },
     "stattrak_multiplier": 1.75
   },
@@ -147549,7 +147483,7 @@
       "MW": 453.18,
       "FT": 423.61,
       "WW": 451.36,
-      "BS": 293.88
+      "BS": 291.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -147571,7 +147505,7 @@
       "MW": 453.18,
       "FT": 423.61,
       "WW": 451.36,
-      "BS": 293.88
+      "BS": 291.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -147593,7 +147527,7 @@
       "MW": 453.18,
       "FT": 423.61,
       "WW": 451.36,
-      "BS": 293.88
+      "BS": 291.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -149217,7 +149151,7 @@
       68.72
     ],
     "wears": {
-      "FN": 980,
+      "FN": 929.19,
       "MW": 232.85,
       "FT": 68.72,
       "WW": 50,
@@ -149239,7 +149173,7 @@
       68.72
     ],
     "wears": {
-      "FN": 980,
+      "FN": 929.19,
       "MW": 232.85,
       "FT": 68.72,
       "WW": 50,
@@ -149261,7 +149195,7 @@
       68.72
     ],
     "wears": {
-      "FN": 980,
+      "FN": 929.19,
       "MW": 232.85,
       "FT": 68.72,
       "WW": 50,
@@ -150405,7 +150339,7 @@
       156.71
     ],
     "wears": {
-      "FN": 317.83,
+      "FN": 326.07,
       "MW": 198.28,
       "FT": 156.71,
       "WW": 137.9,
@@ -150427,7 +150361,7 @@
       156.71
     ],
     "wears": {
-      "FN": 317.83,
+      "FN": 326.07,
       "MW": 198.28,
       "FT": 156.71,
       "WW": 137.9,
@@ -150449,7 +150383,7 @@
       156.71
     ],
     "wears": {
-      "FN": 317.83,
+      "FN": 326.07,
       "MW": 198.28,
       "FT": 156.71,
       "WW": 137.9,
@@ -155267,7 +155201,7 @@
       20.47
     ],
     "wears": {
-      "FN": 287.82,
+      "FN": 281.59,
       "MW": 51.57,
       "FT": 20.47,
       "WW": 16.68,
@@ -155289,7 +155223,7 @@
       20.47
     ],
     "wears": {
-      "FN": 287.82,
+      "FN": 281.59,
       "MW": 51.57,
       "FT": 20.47,
       "WW": 16.68,
@@ -155311,7 +155245,7 @@
       20.47
     ],
     "wears": {
-      "FN": 287.82,
+      "FN": 281.59,
       "MW": 51.57,
       "FT": 20.47,
       "WW": 16.68,
@@ -156323,7 +156257,7 @@
       713.31
     ],
     "wears": {
-      "FN": 4055.96,
+      "FN": 4038.76,
       "MW": 1051.36,
       "FT": 713.31,
       "WW": 600.12,
@@ -156345,7 +156279,7 @@
       713.31
     ],
     "wears": {
-      "FN": 4055.96,
+      "FN": 4038.76,
       "MW": 1051.36,
       "FT": 713.31,
       "WW": 600.12,
@@ -156367,7 +156301,7 @@
       713.31
     ],
     "wears": {
-      "FN": 4055.96,
+      "FN": 4038.76,
       "MW": 1051.36,
       "FT": 713.31,
       "WW": 600.12,
@@ -156697,7 +156631,7 @@
       394.4
     ],
     "wears": {
-      "FN": 1116.06,
+      "FN": 1117.69,
       "MW": 417.36,
       "FT": 394.4,
       "WW": 391,
@@ -156719,7 +156653,7 @@
       394.4
     ],
     "wears": {
-      "FN": 1116.06,
+      "FN": 1117.69,
       "MW": 417.36,
       "FT": 394.4,
       "WW": 391,
@@ -156741,7 +156675,7 @@
       394.4
     ],
     "wears": {
-      "FN": 1116.06,
+      "FN": 1117.69,
       "MW": 417.36,
       "FT": 394.4,
       "WW": 391,
@@ -156829,7 +156763,7 @@
       480.93
     ],
     "wears": {
-      "FN": 1050.08,
+      "FN": 1039.68,
       "MW": 656.63,
       "FT": 480.93,
       "WW": 480.93,
@@ -156851,7 +156785,7 @@
       480.93
     ],
     "wears": {
-      "FN": 1050.08,
+      "FN": 1039.68,
       "MW": 656.63,
       "FT": 480.93,
       "WW": 480.93,
@@ -156873,7 +156807,7 @@
       480.93
     ],
     "wears": {
-      "FN": 1050.08,
+      "FN": 1039.68,
       "MW": 656.63,
       "FT": 480.93,
       "WW": 480.93,
@@ -158219,7 +158153,7 @@
       "MW": 93.94,
       "FT": 79.35,
       "WW": 96.47,
-      "BS": 178.42
+      "BS": 178.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -158241,7 +158175,7 @@
       "MW": 93.94,
       "FT": 79.35,
       "WW": 96.47,
-      "BS": 178.42
+      "BS": 178.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -158263,7 +158197,7 @@
       "MW": 93.94,
       "FT": 79.35,
       "WW": 96.47,
-      "BS": 178.42
+      "BS": 178.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -158285,7 +158219,7 @@
       "MW": 93.94,
       "FT": 79.35,
       "WW": 96.47,
-      "BS": 178.42
+      "BS": 178.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -158357,89 +158291,89 @@
   },
   "stattrak™_gut_knife_gamma_doppler": {
     "market_hash_name": "★ StatTrak™ Gut Knife | Gamma Doppler (Field-Tested)",
-    "current_price_usd": 104.17,
-    "price_change_24h_percent": -57.9,
+    "current_price_usd": 104.32,
+    "price_change_24h_percent": -57.8,
     "historical_7d_prices": [
       278.45,
       270.52,
       262.58,
       255.02,
       247.47,
-      175.82,
-      104.17
+      175.9,
+      104.32
     ],
     "wears": {
       "FN": 247.47,
-      "MW": 104.17,
-      "FT": 104.17,
-      "WW": 91.67,
-      "BS": 78.13
+      "MW": 104.32,
+      "FT": 104.32,
+      "WW": 91.8,
+      "BS": 78.24
     },
     "stattrak_multiplier": 1.75
   },
   "stattrak™_gut_gamma_doppler": {
     "market_hash_name": "★ StatTrak™ Gut Knife | Gamma Doppler (Field-Tested)",
-    "current_price_usd": 104.17,
-    "price_change_24h_percent": -57.9,
+    "current_price_usd": 104.32,
+    "price_change_24h_percent": -57.8,
     "historical_7d_prices": [
       278.45,
       270.52,
       262.58,
       255.02,
       247.47,
-      175.82,
-      104.17
+      175.9,
+      104.32
     ],
     "wears": {
       "FN": 247.47,
-      "MW": 104.17,
-      "FT": 104.17,
-      "WW": 91.67,
-      "BS": 78.13
+      "MW": 104.32,
+      "FT": 104.32,
+      "WW": 91.8,
+      "BS": 78.24
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_gut_knife_gamma_doppler": {
     "market_hash_name": "★ StatTrak™ Gut Knife | Gamma Doppler (Field-Tested)",
-    "current_price_usd": 104.17,
-    "price_change_24h_percent": -57.9,
+    "current_price_usd": 104.32,
+    "price_change_24h_percent": -57.8,
     "historical_7d_prices": [
       278.45,
       270.52,
       262.58,
       255.02,
       247.47,
-      175.82,
-      104.17
+      175.9,
+      104.32
     ],
     "wears": {
       "FN": 247.47,
-      "MW": 104.17,
-      "FT": 104.17,
-      "WW": 91.67,
-      "BS": 78.13
+      "MW": 104.32,
+      "FT": 104.32,
+      "WW": 91.8,
+      "BS": 78.24
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_gut_knife_gamma_doppler": {
     "market_hash_name": "★ StatTrak™ Gut Knife | Gamma Doppler (Field-Tested)",
-    "current_price_usd": 104.17,
-    "price_change_24h_percent": -57.9,
+    "current_price_usd": 104.32,
+    "price_change_24h_percent": -57.8,
     "historical_7d_prices": [
       278.45,
       270.52,
       262.58,
       255.02,
       247.47,
-      175.82,
-      104.17
+      175.9,
+      104.32
     ],
     "wears": {
       "FN": 247.47,
-      "MW": 104.17,
-      "FT": 104.17,
-      "WW": 91.67,
-      "BS": 78.13
+      "MW": 104.32,
+      "FT": 104.32,
+      "WW": 91.8,
+      "BS": 78.24
     },
     "stattrak_multiplier": 1.75
   },
@@ -158875,7 +158809,7 @@
       855.51
     ],
     "wears": {
-      "FN": 699.99,
+      "FN": 689.99,
       "MW": 1150,
       "FT": 855.51,
       "WW": 200.97,
@@ -158897,7 +158831,7 @@
       855.51
     ],
     "wears": {
-      "FN": 699.99,
+      "FN": 689.99,
       "MW": 1150,
       "FT": 855.51,
       "WW": 200.97,
@@ -158919,7 +158853,7 @@
       855.51
     ],
     "wears": {
-      "FN": 699.99,
+      "FN": 689.99,
       "MW": 1150,
       "FT": 855.51,
       "WW": 200.97,
@@ -158941,7 +158875,7 @@
       855.51
     ],
     "wears": {
-      "FN": 699.99,
+      "FN": 689.99,
       "MW": 1150,
       "FT": 855.51,
       "WW": 200.97,
@@ -158963,7 +158897,7 @@
       329.51
     ],
     "wears": {
-      "FN": 451.03,
+      "FN": 447.65,
       "MW": 409.5,
       "FT": 329.51,
       "WW": 128.21,
@@ -158985,7 +158919,7 @@
       329.51
     ],
     "wears": {
-      "FN": 451.03,
+      "FN": 447.65,
       "MW": 409.5,
       "FT": 329.51,
       "WW": 128.21,
@@ -159007,7 +158941,7 @@
       329.51
     ],
     "wears": {
-      "FN": 451.03,
+      "FN": 447.65,
       "MW": 409.5,
       "FT": 329.51,
       "WW": 128.21,
@@ -159029,7 +158963,7 @@
       329.51
     ],
     "wears": {
-      "FN": 451.03,
+      "FN": 447.65,
       "MW": 409.5,
       "FT": 329.51,
       "WW": 128.21,
@@ -159381,11 +159315,11 @@
       1849.82
     ],
     "wears": {
-      "FN": 22100,
+      "FN": 22088.88,
       "MW": 1850.17,
       "FT": 1849.82,
-      "WW": 2809.99,
-      "BS": 1903.42
+      "WW": 2825.62,
+      "BS": 1876.39
     },
     "stattrak_multiplier": 1.75
   },
@@ -159403,11 +159337,11 @@
       1849.82
     ],
     "wears": {
-      "FN": 22100,
+      "FN": 22088.88,
       "MW": 1850.17,
       "FT": 1849.82,
-      "WW": 2809.99,
-      "BS": 1903.42
+      "WW": 2825.62,
+      "BS": 1876.39
     },
     "stattrak_multiplier": 1.75
   },
@@ -159425,11 +159359,11 @@
       1849.82
     ],
     "wears": {
-      "FN": 22100,
+      "FN": 22088.88,
       "MW": 1850.17,
       "FT": 1849.82,
-      "WW": 2809.99,
-      "BS": 1903.42
+      "WW": 2825.62,
+      "BS": 1876.39
     },
     "stattrak_multiplier": 1.75
   },
@@ -159447,11 +159381,11 @@
       1849.82
     ],
     "wears": {
-      "FN": 22100,
+      "FN": 22088.88,
       "MW": 1850.17,
       "FT": 1849.82,
-      "WW": 2809.99,
-      "BS": 1903.42
+      "WW": 2825.62,
+      "BS": 1876.39
     },
     "stattrak_multiplier": 1.75
   },
@@ -159536,7 +159470,7 @@
     ],
     "wears": {
       "FN": 2095.98,
-      "MW": 1134.59,
+      "MW": 1250,
       "FT": 1760.25,
       "WW": 345,
       "BS": 271.52
@@ -159558,7 +159492,7 @@
     ],
     "wears": {
       "FN": 2095.98,
-      "MW": 1134.59,
+      "MW": 1250,
       "FT": 1760.25,
       "WW": 345,
       "BS": 271.52
@@ -159580,7 +159514,7 @@
     ],
     "wears": {
       "FN": 2095.98,
-      "MW": 1134.59,
+      "MW": 1250,
       "FT": 1760.25,
       "WW": 345,
       "BS": 271.52
@@ -159602,7 +159536,7 @@
     ],
     "wears": {
       "FN": 2095.98,
-      "MW": 1134.59,
+      "MW": 1250,
       "FT": 1760.25,
       "WW": 345,
       "BS": 271.52
@@ -160525,7 +160459,7 @@
       80.5
     ],
     "wears": {
-      "FN": 71.43,
+      "FN": 71.53,
       "MW": 94.45,
       "FT": 80.5,
       "WW": 72.82,
@@ -160547,7 +160481,7 @@
       80.5
     ],
     "wears": {
-      "FN": 71.43,
+      "FN": 71.53,
       "MW": 94.45,
       "FT": 80.5,
       "WW": 72.82,
@@ -160569,7 +160503,7 @@
       80.5
     ],
     "wears": {
-      "FN": 71.43,
+      "FN": 71.53,
       "MW": 94.45,
       "FT": 80.5,
       "WW": 72.82,
@@ -160591,7 +160525,7 @@
       80.5
     ],
     "wears": {
-      "FN": 71.43,
+      "FN": 71.53,
       "MW": 94.45,
       "FT": 80.5,
       "WW": 72.82,
@@ -161585,7 +161519,7 @@
       "MW": 257.85,
       "FT": 243.47,
       "WW": 256.23,
-      "BS": 283.62
+      "BS": 281.41
     },
     "stattrak_multiplier": 1.75
   },
@@ -161607,7 +161541,7 @@
       "MW": 257.85,
       "FT": 243.47,
       "WW": 256.23,
-      "BS": 283.62
+      "BS": 281.41
     },
     "stattrak_multiplier": 1.75
   },
@@ -161629,7 +161563,7 @@
       "MW": 257.85,
       "FT": 243.47,
       "WW": 256.23,
-      "BS": 283.62
+      "BS": 281.41
     },
     "stattrak_multiplier": 1.75
   },
@@ -162043,7 +161977,7 @@
       621.85
     ],
     "wears": {
-      "FN": 777,
+      "FN": 767,
       "MW": 630,
       "FT": 621.85,
       "WW": 535.97,
@@ -162065,7 +161999,7 @@
       621.85
     ],
     "wears": {
-      "FN": 777,
+      "FN": 767,
       "MW": 630,
       "FT": 621.85,
       "WW": 535.97,
@@ -162087,7 +162021,7 @@
       621.85
     ],
     "wears": {
-      "FN": 777,
+      "FN": 767,
       "MW": 630,
       "FT": 621.85,
       "WW": 535.97,
@@ -162725,7 +162659,7 @@
       93.32
     ],
     "wears": {
-      "FN": 463.31,
+      "FN": 460.58,
       "MW": 133.58,
       "FT": 93.32,
       "WW": 85.54,
@@ -162747,7 +162681,7 @@
       93.32
     ],
     "wears": {
-      "FN": 463.31,
+      "FN": 460.58,
       "MW": 133.58,
       "FT": 93.32,
       "WW": 85.54,
@@ -162769,7 +162703,7 @@
       93.32
     ],
     "wears": {
-      "FN": 463.31,
+      "FN": 460.58,
       "MW": 133.58,
       "FT": 93.32,
       "WW": 85.54,
@@ -166871,67 +166805,67 @@
   },
   "dreamhack_2013_souvenir_package": {
     "market_hash_name": "DreamHack 2013 Souvenir Package",
-    "current_price_usd": 910,
+    "current_price_usd": 900,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      910,
-      910,
-      910,
-      910,
-      910,
-      910,
-      910
+      900,
+      900,
+      900,
+      900,
+      900,
+      900,
+      900
     ],
     "wears": {
-      "FN": 910,
-      "MW": 910,
-      "FT": 910,
-      "WW": 910,
-      "BS": 910
+      "FN": 900,
+      "MW": 900,
+      "FT": 900,
+      "WW": 900,
+      "BS": 900
     },
     "stattrak_multiplier": 1
   },
   "knife_dreamhack_2013_souvenir_package": {
     "market_hash_name": "DreamHack 2013 Souvenir Package (Field-Tested)",
-    "current_price_usd": 910,
+    "current_price_usd": 900,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      910,
-      910,
-      910,
-      910,
-      910,
-      910,
-      910
+      900,
+      900,
+      900,
+      900,
+      900,
+      900,
+      900
     ],
     "wears": {
-      "FN": 2002,
-      "MW": 1228.5,
-      "FT": 910,
-      "WW": 800.8,
-      "BS": 682.5
+      "FN": 1980,
+      "MW": 1215,
+      "FT": 900,
+      "WW": 792,
+      "BS": 675
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_dreamhack_2013_souvenir_package": {
     "market_hash_name": "DreamHack 2013 Souvenir Package (Field-Tested)",
-    "current_price_usd": 910,
+    "current_price_usd": 900,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      910,
-      910,
-      910,
-      910,
-      910,
-      910,
-      910
+      900,
+      900,
+      900,
+      900,
+      900,
+      900,
+      900
     ],
     "wears": {
-      "FN": 2002,
-      "MW": 1228.5,
-      "FT": 910,
-      "WW": 800.8,
-      "BS": 682.5
+      "FN": 1980,
+      "MW": 1215,
+      "FT": 900,
+      "WW": 792,
+      "BS": 675
     },
     "stattrak_multiplier": 1.75
   },
@@ -168213,67 +168147,67 @@
   },
   "stattrak™_bayonet_tiger_tooth": {
     "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Field-Tested)",
-    "current_price_usd": 393.76,
-    "price_change_24h_percent": -15.6,
+    "current_price_usd": 389.84,
+    "price_change_24h_percent": -16.5,
     "historical_7d_prices": [
       485.51,
       476.42,
       467.33,
       466.98,
       466.62,
-      430.19,
-      393.76
+      428.23,
+      389.84
     ],
     "wears": {
       "FN": 466.62,
-      "MW": 393.76,
-      "FT": 393.76,
-      "WW": 346.51,
-      "BS": 295.32
+      "MW": 389.84,
+      "FT": 389.84,
+      "WW": 343.06,
+      "BS": 292.38
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_bayonet_tiger_tooth": {
     "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Field-Tested)",
-    "current_price_usd": 393.76,
-    "price_change_24h_percent": -15.6,
+    "current_price_usd": 389.84,
+    "price_change_24h_percent": -16.5,
     "historical_7d_prices": [
       485.51,
       476.42,
       467.33,
       466.98,
       466.62,
-      430.19,
-      393.76
+      428.23,
+      389.84
     ],
     "wears": {
       "FN": 466.62,
-      "MW": 393.76,
-      "FT": 393.76,
-      "WW": 346.51,
-      "BS": 295.32
+      "MW": 389.84,
+      "FT": 389.84,
+      "WW": 343.06,
+      "BS": 292.38
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_bayonet_tiger_tooth": {
     "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Field-Tested)",
-    "current_price_usd": 393.76,
-    "price_change_24h_percent": -15.6,
+    "current_price_usd": 389.84,
+    "price_change_24h_percent": -16.5,
     "historical_7d_prices": [
       485.51,
       476.42,
       467.33,
       466.98,
       466.62,
-      430.19,
-      393.76
+      428.23,
+      389.84
     ],
     "wears": {
       "FN": 466.62,
-      "MW": 393.76,
-      "FT": 393.76,
-      "WW": 346.51,
-      "BS": 295.32
+      "MW": 389.84,
+      "FT": 389.84,
+      "WW": 343.06,
+      "BS": 292.38
     },
     "stattrak_multiplier": 1.75
   },
@@ -171063,7 +170997,7 @@
       24.57
     ],
     "wears": {
-      "FN": 198,
+      "FN": 193.02,
       "MW": 63.9,
       "FT": 24.57,
       "WW": 31.7,
@@ -171085,7 +171019,7 @@
       24.57
     ],
     "wears": {
-      "FN": 198,
+      "FN": 193.02,
       "MW": 63.9,
       "FT": 24.57,
       "WW": 31.7,
@@ -171107,7 +171041,7 @@
       24.57
     ],
     "wears": {
-      "FN": 198,
+      "FN": 193.02,
       "MW": 63.9,
       "FT": 24.57,
       "WW": 31.7,
@@ -171792,7 +171726,7 @@
       "FN": 216.69,
       "MW": 54.99,
       "FT": 22.59,
-      "WW": 56.39,
+      "WW": 56.21,
       "BS": 19.3
     },
     "stattrak_multiplier": 1.75
@@ -171814,7 +171748,7 @@
       "FN": 216.69,
       "MW": 54.99,
       "FT": 22.59,
-      "WW": 56.39,
+      "WW": 56.21,
       "BS": 19.3
     },
     "stattrak_multiplier": 1.75
@@ -171836,7 +171770,7 @@
       "FN": 216.69,
       "MW": 54.99,
       "FT": 22.59,
-      "WW": 56.39,
+      "WW": 56.21,
       "BS": 19.3
     },
     "stattrak_multiplier": 1.75
@@ -172493,7 +172427,7 @@
       21.96
     ],
     "wears": {
-      "FN": 393.93,
+      "FN": 375,
       "MW": 40.41,
       "FT": 21.96,
       "WW": 30.71,
@@ -172515,7 +172449,7 @@
       21.96
     ],
     "wears": {
-      "FN": 393.93,
+      "FN": 375,
       "MW": 40.41,
       "FT": 21.96,
       "WW": 30.71,
@@ -172537,7 +172471,7 @@
       21.96
     ],
     "wears": {
-      "FN": 393.93,
+      "FN": 375,
       "MW": 40.41,
       "FT": 21.96,
       "WW": 30.71,
@@ -172647,7 +172581,7 @@
       370.48
     ],
     "wears": {
-      "FN": 459.15,
+      "FN": 455.23,
       "MW": 480.45,
       "FT": 370.48,
       "WW": 344.61,
@@ -172669,7 +172603,7 @@
       370.48
     ],
     "wears": {
-      "FN": 459.15,
+      "FN": 455.23,
       "MW": 480.45,
       "FT": 370.48,
       "WW": 344.61,
@@ -172691,7 +172625,7 @@
       370.48
     ],
     "wears": {
-      "FN": 459.15,
+      "FN": 455.23,
       "MW": 480.45,
       "FT": 370.48,
       "WW": 344.61,
@@ -173571,7 +173505,7 @@
       183.19
     ],
     "wears": {
-      "FN": 595.23,
+      "FN": 596.1,
       "MW": 211.24,
       "FT": 183.19,
       "WW": 156.77,
@@ -173593,7 +173527,7 @@
       183.19
     ],
     "wears": {
-      "FN": 595.23,
+      "FN": 596.1,
       "MW": 211.24,
       "FT": 183.19,
       "WW": 156.77,
@@ -173615,7 +173549,7 @@
       183.19
     ],
     "wears": {
-      "FN": 595.23,
+      "FN": 596.1,
       "MW": 211.24,
       "FT": 183.19,
       "WW": 156.77,
@@ -173637,7 +173571,7 @@
       183.19
     ],
     "wears": {
-      "FN": 595.23,
+      "FN": 596.1,
       "MW": 211.24,
       "FT": 183.19,
       "WW": 156.77,
@@ -173901,7 +173835,7 @@
       1033.64
     ],
     "wears": {
-      "FN": 1000,
+      "FN": 877.34,
       "MW": 910,
       "FT": 1033.64,
       "WW": 399.47,
@@ -173923,7 +173857,7 @@
       1033.64
     ],
     "wears": {
-      "FN": 1000,
+      "FN": 877.34,
       "MW": 910,
       "FT": 1033.64,
       "WW": 399.47,
@@ -173945,7 +173879,7 @@
       1033.64
     ],
     "wears": {
-      "FN": 1000,
+      "FN": 877.34,
       "MW": 910,
       "FT": 1033.64,
       "WW": 399.47,
@@ -174210,7 +174144,7 @@
     ],
     "wears": {
       "FN": 2450,
-      "MW": 1155,
+      "MW": 1140,
       "FT": 1800,
       "WW": 654.39,
       "BS": 414.27
@@ -174232,7 +174166,7 @@
     ],
     "wears": {
       "FN": 2450,
-      "MW": 1155,
+      "MW": 1140,
       "FT": 1800,
       "WW": 654.39,
       "BS": 414.27
@@ -174254,7 +174188,7 @@
     ],
     "wears": {
       "FN": 2450,
-      "MW": 1155,
+      "MW": 1140,
       "FT": 1800,
       "WW": 654.39,
       "BS": 414.27
@@ -174276,7 +174210,7 @@
     ],
     "wears": {
       "FN": 2450,
-      "MW": 1155,
+      "MW": 1140,
       "FT": 1800,
       "WW": 654.39,
       "BS": 414.27
@@ -174297,7 +174231,7 @@
       543.28
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 74.51,
       "MW": 475,
       "FT": 543.28,
       "WW": 496.19,
@@ -174319,7 +174253,7 @@
       543.28
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 74.51,
       "MW": 475,
       "FT": 543.28,
       "WW": 496.19,
@@ -174341,7 +174275,7 @@
       543.28
     ],
     "wears": {
-      "FN": 74.4,
+      "FN": 74.51,
       "MW": 475,
       "FT": 543.28,
       "WW": 496.19,
@@ -174364,10 +174298,10 @@
     ],
     "wears": {
       "FN": 630.25,
-      "MW": 450.91,
+      "MW": 448.47,
       "FT": 500.02,
       "WW": 475.05,
-      "BS": 393.79
+      "BS": 393.32
     },
     "stattrak_multiplier": 1.75
   },
@@ -174386,10 +174320,10 @@
     ],
     "wears": {
       "FN": 630.25,
-      "MW": 450.91,
+      "MW": 448.47,
       "FT": 500.02,
       "WW": 475.05,
-      "BS": 393.79
+      "BS": 393.32
     },
     "stattrak_multiplier": 1.75
   },
@@ -174408,10 +174342,10 @@
     ],
     "wears": {
       "FN": 630.25,
-      "MW": 450.91,
+      "MW": 448.47,
       "FT": 500.02,
       "WW": 475.05,
-      "BS": 393.79
+      "BS": 393.32
     },
     "stattrak_multiplier": 1.75
   },
@@ -175005,7 +174939,7 @@
       "MW": 628.22,
       "FT": 642.19,
       "WW": 563.96,
-      "BS": 453
+      "BS": 452.02
     },
     "stattrak_multiplier": 1.75
   },
@@ -175027,7 +174961,7 @@
       "MW": 628.22,
       "FT": 642.19,
       "WW": 563.96,
-      "BS": 453
+      "BS": 452.02
     },
     "stattrak_multiplier": 1.75
   },
@@ -175049,7 +174983,7 @@
       "MW": 628.22,
       "FT": 642.19,
       "WW": 563.96,
-      "BS": 453
+      "BS": 452.02
     },
     "stattrak_multiplier": 1.75
   },
@@ -176035,7 +175969,7 @@
       1103.43
     ],
     "wears": {
-      "FN": 1711.29,
+      "FN": 1713.79,
       "MW": 1345.56,
       "FT": 1103.43,
       "WW": 1461.09,
@@ -176057,7 +175991,7 @@
       1103.43
     ],
     "wears": {
-      "FN": 1711.29,
+      "FN": 1713.79,
       "MW": 1345.56,
       "FT": 1103.43,
       "WW": 1461.09,
@@ -176079,7 +176013,7 @@
       1103.43
     ],
     "wears": {
-      "FN": 1711.29,
+      "FN": 1713.79,
       "MW": 1345.56,
       "FT": 1103.43,
       "WW": 1461.09,
@@ -176101,7 +176035,7 @@
       1103.43
     ],
     "wears": {
-      "FN": 1711.29,
+      "FN": 1713.79,
       "MW": 1345.56,
       "FT": 1103.43,
       "WW": 1461.09,
@@ -176123,7 +176057,7 @@
       459.18
     ],
     "wears": {
-      "FN": 1010.2,
+      "FN": 20000,
       "MW": 520,
       "FT": 459.18,
       "WW": 383.27,
@@ -176145,7 +176079,7 @@
       459.18
     ],
     "wears": {
-      "FN": 1010.2,
+      "FN": 20000,
       "MW": 520,
       "FT": 459.18,
       "WW": 383.27,
@@ -176167,7 +176101,7 @@
       459.18
     ],
     "wears": {
-      "FN": 1010.2,
+      "FN": 20000,
       "MW": 520,
       "FT": 459.18,
       "WW": 383.27,
@@ -178345,7 +178279,7 @@
       454.7
     ],
     "wears": {
-      "FN": 654.75,
+      "FN": 655.71,
       "MW": 521.01,
       "FT": 454.7,
       "WW": 399.5,
@@ -178367,7 +178301,7 @@
       454.7
     ],
     "wears": {
-      "FN": 654.75,
+      "FN": 655.71,
       "MW": 521.01,
       "FT": 454.7,
       "WW": 399.5,
@@ -178389,7 +178323,7 @@
       454.7
     ],
     "wears": {
-      "FN": 654.75,
+      "FN": 655.71,
       "MW": 521.01,
       "FT": 454.7,
       "WW": 399.5,
@@ -178499,7 +178433,7 @@
       262.67
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 291.88,
       "FT": 262.67,
       "WW": 200.01,
@@ -178521,7 +178455,7 @@
       262.67
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 291.88,
       "FT": 262.67,
       "WW": 200.01,
@@ -178543,7 +178477,7 @@
       262.67
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 291.88,
       "FT": 262.67,
       "WW": 200.01,
@@ -178722,7 +178656,7 @@
       "FN": 823.31,
       "MW": 411.26,
       "FT": 374.23,
-      "WW": 290.17,
+      "WW": 290.6,
       "BS": 394.08
     },
     "stattrak_multiplier": 1.75
@@ -178744,7 +178678,7 @@
       "FN": 823.31,
       "MW": 411.26,
       "FT": 374.23,
-      "WW": 290.17,
+      "WW": 290.6,
       "BS": 394.08
     },
     "stattrak_multiplier": 1.75
@@ -178766,7 +178700,7 @@
       "FN": 823.31,
       "MW": 411.26,
       "FT": 374.23,
-      "WW": 290.17,
+      "WW": 290.6,
       "BS": 394.08
     },
     "stattrak_multiplier": 1.75
@@ -178852,7 +178786,7 @@
     ],
     "wears": {
       "FN": 1551.49,
-      "MW": 954.39,
+      "MW": 954.41,
       "FT": 1242.9,
       "WW": 1215.23,
       "BS": 888.88
@@ -178874,7 +178808,7 @@
     ],
     "wears": {
       "FN": 1551.49,
-      "MW": 954.39,
+      "MW": 954.41,
       "FT": 1242.9,
       "WW": 1215.23,
       "BS": 888.88
@@ -178896,7 +178830,7 @@
     ],
     "wears": {
       "FN": 1551.49,
-      "MW": 954.39,
+      "MW": 954.41,
       "FT": 1242.9,
       "WW": 1215.23,
       "BS": 888.88
@@ -178918,7 +178852,7 @@
     ],
     "wears": {
       "FN": 1551.49,
-      "MW": 954.39,
+      "MW": 954.41,
       "FT": 1242.9,
       "WW": 1215.23,
       "BS": 888.88
@@ -179207,7 +179141,7 @@
       "MW": 181.93,
       "FT": 172.39,
       "WW": 159.03,
-      "BS": 14.88
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -179229,7 +179163,7 @@
       "MW": 181.93,
       "FT": 172.39,
       "WW": 159.03,
-      "BS": 14.88
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -179251,7 +179185,7 @@
       "MW": 181.93,
       "FT": 172.39,
       "WW": 159.03,
-      "BS": 14.88
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -179273,7 +179207,7 @@
       "MW": 181.93,
       "FT": 172.39,
       "WW": 159.03,
-      "BS": 14.88
+      "BS": 14.9
     },
     "stattrak_multiplier": 1.75
   },
@@ -179886,7 +179820,7 @@
     ],
     "wears": {
       "FN": 1452,
-      "MW": 609.96,
+      "MW": 610.85,
       "FT": 660,
       "WW": 652.67,
       "BS": 525.2
@@ -179908,7 +179842,7 @@
     ],
     "wears": {
       "FN": 1452,
-      "MW": 609.96,
+      "MW": 610.85,
       "FT": 660,
       "WW": 652.67,
       "BS": 525.2
@@ -179930,10 +179864,76 @@
     ],
     "wears": {
       "FN": 1452,
-      "MW": 609.96,
+      "MW": 610.85,
       "FT": 660,
       "WW": 652.67,
       "BS": 525.2
+    },
+    "stattrak_multiplier": 1.75
+  },
+  "stattrak™_shadow_daggers_forest_ddpat": {
+    "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
+    "current_price_usd": 58.2,
+    "price_change_24h_percent": 0,
+    "historical_7d_prices": [
+      79.43,
+      74.99,
+      70.55,
+      64.38,
+      58.2,
+      58.2,
+      58.2
+    ],
+    "wears": {
+      "FN": 128.04,
+      "MW": 71.35,
+      "FT": 58.2,
+      "WW": 80.2,
+      "BS": 63.25
+    },
+    "stattrak_multiplier": 1.75
+  },
+  "knife_stattrak™_shadow_daggers_forest_ddpat": {
+    "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
+    "current_price_usd": 58.2,
+    "price_change_24h_percent": 0,
+    "historical_7d_prices": [
+      79.43,
+      74.99,
+      70.55,
+      64.38,
+      58.2,
+      58.2,
+      58.2
+    ],
+    "wears": {
+      "FN": 128.04,
+      "MW": 71.35,
+      "FT": 58.2,
+      "WW": 80.2,
+      "BS": 63.25
+    },
+    "stattrak_multiplier": 1.75
+  },
+  "gloves_stattrak™_shadow_daggers_forest_ddpat": {
+    "market_hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
+    "current_price_usd": 58.2,
+    "price_change_24h_percent": 0,
+    "historical_7d_prices": [
+      79.43,
+      74.99,
+      70.55,
+      64.38,
+      58.2,
+      58.2,
+      58.2
+    ],
+    "wears": {
+      "FN": 128.04,
+      "MW": 71.35,
+      "FT": 58.2,
+      "WW": 80.2,
+      "BS": 63.25
     },
     "stattrak_multiplier": 1.75
   },
@@ -180105,7 +180105,7 @@
       1226.38
     ],
     "wears": {
-      "FN": 1567.86,
+      "FN": 1560,
       "MW": 1632.57,
       "FT": 1226.38,
       "WW": 1057.6,
@@ -180127,7 +180127,7 @@
       1226.38
     ],
     "wears": {
-      "FN": 1567.86,
+      "FN": 1560,
       "MW": 1632.57,
       "FT": 1226.38,
       "WW": 1057.6,
@@ -180149,7 +180149,7 @@
       1226.38
     ],
     "wears": {
-      "FN": 1567.86,
+      "FN": 1560,
       "MW": 1632.57,
       "FT": 1226.38,
       "WW": 1057.6,
@@ -180678,7 +180678,7 @@
     ],
     "wears": {
       "FN": 10801.23,
-      "MW": 879,
+      "MW": 878.95,
       "FT": 649.72,
       "WW": 561.6,
       "BS": 713.16
@@ -180700,7 +180700,7 @@
     ],
     "wears": {
       "FN": 10801.23,
-      "MW": 879,
+      "MW": 878.95,
       "FT": 649.72,
       "WW": 561.6,
       "BS": 713.16
@@ -180722,7 +180722,7 @@
     ],
     "wears": {
       "FN": 10801.23,
-      "MW": 879,
+      "MW": 878.95,
       "FT": 649.72,
       "WW": 561.6,
       "BS": 713.16
@@ -180963,7 +180963,7 @@
       115
     ],
     "wears": {
-      "FN": 273.39,
+      "FN": 272.51,
       "MW": 154.5,
       "FT": 115,
       "WW": 120.2,
@@ -180985,7 +180985,7 @@
       115
     ],
     "wears": {
-      "FN": 273.39,
+      "FN": 272.51,
       "MW": 154.5,
       "FT": 115,
       "WW": 120.2,
@@ -181007,7 +181007,7 @@
       115
     ],
     "wears": {
-      "FN": 273.39,
+      "FN": 272.51,
       "MW": 154.5,
       "FT": 115,
       "WW": 120.2,
@@ -181029,7 +181029,7 @@
       115
     ],
     "wears": {
-      "FN": 273.39,
+      "FN": 272.51,
       "MW": 154.5,
       "FT": 115,
       "WW": 120.2,
@@ -181360,9 +181360,9 @@
     ],
     "wears": {
       "FN": 5362.35,
-      "MW": 2729.43,
+      "MW": 2667.92,
       "FT": 1834.7,
-      "WW": 990,
+      "WW": 955,
       "BS": 491.56
     },
     "stattrak_multiplier": 1.75
@@ -181382,9 +181382,9 @@
     ],
     "wears": {
       "FN": 5362.35,
-      "MW": 2729.43,
+      "MW": 2667.92,
       "FT": 1834.7,
-      "WW": 990,
+      "WW": 955,
       "BS": 491.56
     },
     "stattrak_multiplier": 1.75
@@ -181404,9 +181404,9 @@
     ],
     "wears": {
       "FN": 5362.35,
-      "MW": 2729.43,
+      "MW": 2667.92,
       "FT": 1834.7,
-      "WW": 990,
+      "WW": 955,
       "BS": 491.56
     },
     "stattrak_multiplier": 1.75
@@ -181426,9 +181426,9 @@
     ],
     "wears": {
       "FN": 5362.35,
-      "MW": 2729.43,
+      "MW": 2667.92,
       "FT": 1834.7,
-      "WW": 990,
+      "WW": 955,
       "BS": 491.56
     },
     "stattrak_multiplier": 1.75
@@ -181513,7 +181513,7 @@
       81.77
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 99.84,
       "FT": 81.77,
       "WW": 91.32,
@@ -181535,7 +181535,7 @@
       81.77
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 99.84,
       "FT": 81.77,
       "WW": 91.32,
@@ -181557,7 +181557,7 @@
       81.77
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 99.84,
       "FT": 81.77,
       "WW": 91.32,
@@ -181579,7 +181579,7 @@
       81.77
     ],
     "wears": {
-      "FN": 14.88,
+      "FN": 14.9,
       "MW": 99.84,
       "FT": 81.77,
       "WW": 91.32,
@@ -181655,7 +181655,7 @@
   },
   "stattrak™_m9_bayonet_tiger_tooth": {
     "market_hash_name": "★ StatTrak™ M9 Bayonet | Tiger Tooth (Field-Tested)",
-    "current_price_usd": 950,
+    "current_price_usd": 645,
     "price_change_24h_percent": -9.5,
     "historical_7d_prices": [
       973.93,
@@ -181668,16 +181668,16 @@
     ],
     "wears": {
       "FN": 912.19,
-      "MW": 950,
-      "FT": 950,
-      "WW": 836,
-      "BS": 712.5
+      "MW": 645,
+      "FT": 645,
+      "WW": 567.6,
+      "BS": 483.75
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_m9_bayonet_tiger_tooth": {
     "market_hash_name": "★ StatTrak™ M9 Bayonet | Tiger Tooth (Field-Tested)",
-    "current_price_usd": 950,
+    "current_price_usd": 645,
     "price_change_24h_percent": -9.5,
     "historical_7d_prices": [
       973.93,
@@ -181690,16 +181690,16 @@
     ],
     "wears": {
       "FN": 912.19,
-      "MW": 950,
-      "FT": 950,
-      "WW": 836,
-      "BS": 712.5
+      "MW": 645,
+      "FT": 645,
+      "WW": 567.6,
+      "BS": 483.75
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_m9_bayonet_tiger_tooth": {
     "market_hash_name": "★ StatTrak™ M9 Bayonet | Tiger Tooth (Field-Tested)",
-    "current_price_usd": 950,
+    "current_price_usd": 645,
     "price_change_24h_percent": -9.5,
     "historical_7d_prices": [
       973.93,
@@ -181712,10 +181712,10 @@
     ],
     "wears": {
       "FN": 912.19,
-      "MW": 950,
-      "FT": 950,
-      "WW": 836,
-      "BS": 712.5
+      "MW": 645,
+      "FT": 645,
+      "WW": 567.6,
+      "BS": 483.75
     },
     "stattrak_multiplier": 1.75
   },
@@ -182309,7 +182309,7 @@
       "MW": 931.64,
       "FT": 886.95,
       "WW": 990.01,
-      "BS": 245.53
+      "BS": 245.89
     },
     "stattrak_multiplier": 1.75
   },
@@ -182331,7 +182331,7 @@
       "MW": 931.64,
       "FT": 886.95,
       "WW": 990.01,
-      "BS": 245.53
+      "BS": 245.89
     },
     "stattrak_multiplier": 1.75
   },
@@ -182353,7 +182353,7 @@
       "MW": 931.64,
       "FT": 886.95,
       "WW": 990.01,
-      "BS": 245.53
+      "BS": 245.89
     },
     "stattrak_multiplier": 1.75
   },
@@ -182679,7 +182679,7 @@
       315.7
     ],
     "wears": {
-      "FN": 650,
+      "FN": 1222,
       "MW": 363.16,
       "FT": 315.7,
       "WW": 345.47,
@@ -182701,7 +182701,7 @@
       315.7
     ],
     "wears": {
-      "FN": 650,
+      "FN": 1222,
       "MW": 363.16,
       "FT": 315.7,
       "WW": 345.47,
@@ -182723,7 +182723,7 @@
       315.7
     ],
     "wears": {
-      "FN": 650,
+      "FN": 1222,
       "MW": 363.16,
       "FT": 315.7,
       "WW": 345.47,
@@ -182988,7 +182988,7 @@
     ],
     "wears": {
       "FN": 2199,
-      "MW": 1022,
+      "MW": 1017,
       "FT": 1697.8,
       "WW": 533.83,
       "BS": 229.38
@@ -183010,7 +183010,7 @@
     ],
     "wears": {
       "FN": 2199,
-      "MW": 1022,
+      "MW": 1017,
       "FT": 1697.8,
       "WW": 533.83,
       "BS": 229.38
@@ -183032,7 +183032,7 @@
     ],
     "wears": {
       "FN": 2199,
-      "MW": 1022,
+      "MW": 1017,
       "FT": 1697.8,
       "WW": 533.83,
       "BS": 229.38
@@ -183054,7 +183054,7 @@
     ],
     "wears": {
       "FN": 2199,
-      "MW": 1022,
+      "MW": 1017,
       "FT": 1697.8,
       "WW": 533.83,
       "BS": 229.38
@@ -183141,7 +183141,7 @@
       205.46
     ],
     "wears": {
-      "FN": 12537.86,
+      "FN": 12497.84,
       "MW": 225.17,
       "FT": 205.46,
       "WW": 185.1,
@@ -183163,7 +183163,7 @@
       205.46
     ],
     "wears": {
-      "FN": 12537.86,
+      "FN": 12497.84,
       "MW": 225.17,
       "FT": 205.46,
       "WW": 185.1,
@@ -183185,7 +183185,7 @@
       205.46
     ],
     "wears": {
-      "FN": 12537.86,
+      "FN": 12497.84,
       "MW": 225.17,
       "FT": 205.46,
       "WW": 185.1,
@@ -183207,7 +183207,7 @@
       205.46
     ],
     "wears": {
-      "FN": 12537.86,
+      "FN": 12497.84,
       "MW": 225.17,
       "FT": 205.46,
       "WW": 185.1,
@@ -183585,7 +183585,7 @@
       "MW": 799.36,
       "FT": 631.55,
       "WW": 451.58,
-      "BS": 491.07
+      "BS": 491.78
     },
     "stattrak_multiplier": 1.75
   },
@@ -183607,7 +183607,7 @@
       "MW": 799.36,
       "FT": 631.55,
       "WW": 451.58,
-      "BS": 491.07
+      "BS": 491.78
     },
     "stattrak_multiplier": 1.75
   },
@@ -183629,7 +183629,7 @@
       "MW": 799.36,
       "FT": 631.55,
       "WW": 451.58,
-      "BS": 491.07
+      "BS": 491.78
     },
     "stattrak_multiplier": 1.75
   },
@@ -183826,8 +183826,8 @@
       "FN": 945.88,
       "MW": 709.74,
       "FT": 703.33,
-      "WW": 476.18,
-      "BS": 468.74
+      "WW": 476.88,
+      "BS": 469.43
     },
     "stattrak_multiplier": 1.75
   },
@@ -183848,8 +183848,8 @@
       "FN": 945.88,
       "MW": 709.74,
       "FT": 703.33,
-      "WW": 476.18,
-      "BS": 468.74
+      "WW": 476.88,
+      "BS": 469.43
     },
     "stattrak_multiplier": 1.75
   },
@@ -183870,8 +183870,8 @@
       "FN": 945.88,
       "MW": 709.74,
       "FT": 703.33,
-      "WW": 476.18,
-      "BS": 468.74
+      "WW": 476.88,
+      "BS": 469.43
     },
     "stattrak_multiplier": 1.75
   },
@@ -183890,7 +183890,7 @@
     ],
     "wears": {
       "FN": 4320,
-      "MW": 1350,
+      "MW": 1331,
       "FT": 1820.91,
       "WW": 900,
       "BS": 506.58
@@ -183912,7 +183912,7 @@
     ],
     "wears": {
       "FN": 4320,
-      "MW": 1350,
+      "MW": 1331,
       "FT": 1820.91,
       "WW": 900,
       "BS": 506.58
@@ -183934,7 +183934,7 @@
     ],
     "wears": {
       "FN": 4320,
-      "MW": 1350,
+      "MW": 1331,
       "FT": 1820.91,
       "WW": 900,
       "BS": 506.58
@@ -183956,7 +183956,7 @@
     ],
     "wears": {
       "FN": 4320,
-      "MW": 1350,
+      "MW": 1331,
       "FT": 1820.91,
       "WW": 900,
       "BS": 506.58
@@ -184471,67 +184471,67 @@
   },
   "esl_one_cologne_2014_dust_ii_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Dust II Souvenir Package",
-    "current_price_usd": 175,
+    "current_price_usd": 170,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      175,
-      175,
-      175,
-      175,
-      175,
-      175,
-      175
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170
     ],
     "wears": {
-      "FN": 175,
-      "MW": 175,
-      "FT": 175,
-      "WW": 175,
-      "BS": 175
+      "FN": 170,
+      "MW": 170,
+      "FT": 170,
+      "WW": 170,
+      "BS": 170
     },
     "stattrak_multiplier": 1
   },
   "knife_esl_one_cologne_2014_dust_ii_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Dust II Souvenir Package (Field-Tested)",
-    "current_price_usd": 175,
+    "current_price_usd": 170,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      175,
-      175,
-      175,
-      175,
-      175,
-      175,
-      175
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170
     ],
     "wears": {
-      "FN": 385,
-      "MW": 236.25,
-      "FT": 175,
-      "WW": 154,
-      "BS": 131.25
+      "FN": 374,
+      "MW": 229.5,
+      "FT": 170,
+      "WW": 149.6,
+      "BS": 127.5
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_esl_one_cologne_2014_dust_ii_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Dust II Souvenir Package (Field-Tested)",
-    "current_price_usd": 175,
+    "current_price_usd": 170,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      175,
-      175,
-      175,
-      175,
-      175,
-      175,
-      175
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170
     ],
     "wears": {
-      "FN": 385,
-      "MW": 236.25,
-      "FT": 175,
-      "WW": 154,
-      "BS": 131.25
+      "FN": 374,
+      "MW": 229.5,
+      "FT": 170,
+      "WW": 149.6,
+      "BS": 127.5
     },
     "stattrak_multiplier": 1.75
   },
@@ -184553,7 +184553,7 @@
       "MW": 922.03,
       "FT": 1049.06,
       "WW": 1029.11,
-      "BS": 669.49
+      "BS": 670.46
     },
     "stattrak_multiplier": 1.75
   },
@@ -184575,7 +184575,7 @@
       "MW": 922.03,
       "FT": 1049.06,
       "WW": 1029.11,
-      "BS": 669.49
+      "BS": 670.46
     },
     "stattrak_multiplier": 1.75
   },
@@ -184597,7 +184597,7 @@
       "MW": 922.03,
       "FT": 1049.06,
       "WW": 1029.11,
-      "BS": 669.49
+      "BS": 670.46
     },
     "stattrak_multiplier": 1.75
   },
@@ -184801,67 +184801,67 @@
   },
   "stattrak™_shadow_daggers_fade": {
     "market_hash_name": "★ StatTrak™ Shadow Daggers | Fade (Field-Tested)",
-    "current_price_usd": 121.72,
-    "price_change_24h_percent": -53.9,
+    "current_price_usd": 121.9,
+    "price_change_24h_percent": -53.8,
     "historical_7d_prices": [
       262.7,
       265.91,
       269.12,
       266.62,
       264.11,
-      192.92,
-      121.72
+      193.01,
+      121.9
     ],
     "wears": {
       "FN": 264.11,
-      "MW": 121.72,
-      "FT": 121.72,
-      "WW": 107.11,
-      "BS": 91.29
+      "MW": 121.9,
+      "FT": 121.9,
+      "WW": 107.27,
+      "BS": 91.43
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_shadow_daggers_fade": {
     "market_hash_name": "★ StatTrak™ Shadow Daggers | Fade (Field-Tested)",
-    "current_price_usd": 121.72,
-    "price_change_24h_percent": -53.9,
+    "current_price_usd": 121.9,
+    "price_change_24h_percent": -53.8,
     "historical_7d_prices": [
       262.7,
       265.91,
       269.12,
       266.62,
       264.11,
-      192.92,
-      121.72
+      193.01,
+      121.9
     ],
     "wears": {
       "FN": 264.11,
-      "MW": 121.72,
-      "FT": 121.72,
-      "WW": 107.11,
-      "BS": 91.29
+      "MW": 121.9,
+      "FT": 121.9,
+      "WW": 107.27,
+      "BS": 91.43
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_shadow_daggers_fade": {
     "market_hash_name": "★ StatTrak™ Shadow Daggers | Fade (Field-Tested)",
-    "current_price_usd": 121.72,
-    "price_change_24h_percent": -53.9,
+    "current_price_usd": 121.9,
+    "price_change_24h_percent": -53.8,
     "historical_7d_prices": [
       262.7,
       265.91,
       269.12,
       266.62,
       264.11,
-      192.92,
-      121.72
+      193.01,
+      121.9
     ],
     "wears": {
       "FN": 264.11,
-      "MW": 121.72,
-      "FT": 121.72,
-      "WW": 107.11,
-      "BS": 91.29
+      "MW": 121.9,
+      "FT": 121.9,
+      "WW": 107.27,
+      "BS": 91.43
     },
     "stattrak_multiplier": 1.75
   },
@@ -185012,7 +185012,7 @@
     ],
     "wears": {
       "FN": 25000,
-      "MW": 1085,
+      "MW": 1250,
       "FT": 1061.32,
       "WW": 642.01,
       "BS": 955.01
@@ -185034,7 +185034,7 @@
     ],
     "wears": {
       "FN": 25000,
-      "MW": 1085,
+      "MW": 1250,
       "FT": 1061.32,
       "WW": 642.01,
       "BS": 955.01
@@ -185056,7 +185056,7 @@
     ],
     "wears": {
       "FN": 25000,
-      "MW": 1085,
+      "MW": 1250,
       "FT": 1061.32,
       "WW": 642.01,
       "BS": 955.01
@@ -186715,67 +186715,67 @@
   },
   "awp_medusa": {
     "market_hash_name": "AWP | Medusa (Field-Tested)",
-    "current_price_usd": 1957.94,
+    "current_price_usd": 1965.81,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1839.88,
-      1898.91,
-      1957.94,
-      1957.94,
-      1957.94,
-      1957.94,
-      1957.94
+      1902.85,
+      1965.81,
+      1965.81,
+      1965.81,
+      1965.81,
+      1965.81
     ],
     "wears": {
       "FN": 4850,
       "MW": 2560,
-      "FT": 1957.94,
+      "FT": 1965.81,
       "WW": 1839.88,
-      "BS": 1681.46
+      "BS": 1660
     },
     "stattrak_multiplier": 1.75
   },
   "knife_awp_medusa": {
     "market_hash_name": "AWP | Medusa (Field-Tested)",
-    "current_price_usd": 1957.94,
+    "current_price_usd": 1965.81,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1839.88,
-      1898.91,
-      1957.94,
-      1957.94,
-      1957.94,
-      1957.94,
-      1957.94
+      1902.85,
+      1965.81,
+      1965.81,
+      1965.81,
+      1965.81,
+      1965.81
     ],
     "wears": {
       "FN": 4850,
       "MW": 2560,
-      "FT": 1957.94,
+      "FT": 1965.81,
       "WW": 1839.88,
-      "BS": 1681.46
+      "BS": 1660
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_awp_medusa": {
     "market_hash_name": "AWP | Medusa (Field-Tested)",
-    "current_price_usd": 1957.94,
+    "current_price_usd": 1965.81,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1839.88,
-      1898.91,
-      1957.94,
-      1957.94,
-      1957.94,
-      1957.94,
-      1957.94
+      1902.85,
+      1965.81,
+      1965.81,
+      1965.81,
+      1965.81,
+      1965.81
     ],
     "wears": {
       "FN": 4850,
       "MW": 2560,
-      "FT": 1957.94,
+      "FT": 1965.81,
       "WW": 1839.88,
-      "BS": 1681.46
+      "BS": 1660
     },
     "stattrak_multiplier": 1.75
   },
@@ -187057,10 +187057,10 @@
       688.78
     ],
     "wears": {
-      "FN": 1281.9,
+      "FN": 1280.9,
       "MW": 1082.83,
       "FT": 688.78,
-      "WW": 449.28,
+      "WW": 443.75,
       "BS": 674.76
     },
     "stattrak_multiplier": 1.75
@@ -187079,10 +187079,10 @@
       688.78
     ],
     "wears": {
-      "FN": 1281.9,
+      "FN": 1280.9,
       "MW": 1082.83,
       "FT": 688.78,
-      "WW": 449.28,
+      "WW": 443.75,
       "BS": 674.76
     },
     "stattrak_multiplier": 1.75
@@ -187101,10 +187101,10 @@
       688.78
     ],
     "wears": {
-      "FN": 1281.9,
+      "FN": 1280.9,
       "MW": 1082.83,
       "FT": 688.78,
-      "WW": 449.28,
+      "WW": 443.75,
       "BS": 674.76
     },
     "stattrak_multiplier": 1.75
@@ -187727,67 +187727,67 @@
   },
   "esl_one_cologne_2014_nuke_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Nuke Souvenir Package",
-    "current_price_usd": 650,
+    "current_price_usd": 600,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      650,
-      650,
-      650,
-      650,
-      650,
-      650,
-      650
+      600,
+      600,
+      600,
+      600,
+      600,
+      600,
+      600
     ],
     "wears": {
-      "FN": 650,
-      "MW": 650,
-      "FT": 650,
-      "WW": 650,
-      "BS": 650
+      "FN": 600,
+      "MW": 600,
+      "FT": 600,
+      "WW": 600,
+      "BS": 600
     },
     "stattrak_multiplier": 1
   },
   "knife_esl_one_cologne_2014_nuke_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Nuke Souvenir Package (Field-Tested)",
-    "current_price_usd": 650,
+    "current_price_usd": 600,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      650,
-      650,
-      650,
-      650,
-      650,
-      650,
-      650
+      600,
+      600,
+      600,
+      600,
+      600,
+      600,
+      600
     ],
     "wears": {
-      "FN": 1430,
-      "MW": 877.5,
-      "FT": 650,
-      "WW": 572,
-      "BS": 487.5
+      "FN": 1320,
+      "MW": 810,
+      "FT": 600,
+      "WW": 528,
+      "BS": 450
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_esl_one_cologne_2014_nuke_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Nuke Souvenir Package (Field-Tested)",
-    "current_price_usd": 650,
+    "current_price_usd": 600,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      650,
-      650,
-      650,
-      650,
-      650,
-      650,
-      650
+      600,
+      600,
+      600,
+      600,
+      600,
+      600,
+      600
     ],
     "wears": {
-      "FN": 1430,
-      "MW": 877.5,
-      "FT": 650,
-      "WW": 572,
-      "BS": 487.5
+      "FN": 1320,
+      "MW": 810,
+      "FT": 600,
+      "WW": 528,
+      "BS": 450
     },
     "stattrak_multiplier": 1.75
   },
@@ -187871,7 +187871,7 @@
       1155.67
     ],
     "wears": {
-      "FN": 1802,
+      "FN": 1798,
       "MW": 1725,
       "FT": 1155.67,
       "WW": 1037.45,
@@ -187893,7 +187893,7 @@
       1155.67
     ],
     "wears": {
-      "FN": 1802,
+      "FN": 1798,
       "MW": 1725,
       "FT": 1155.67,
       "WW": 1037.45,
@@ -187915,7 +187915,7 @@
       1155.67
     ],
     "wears": {
-      "FN": 1802,
+      "FN": 1798,
       "MW": 1725,
       "FT": 1155.67,
       "WW": 1037.45,
@@ -187938,7 +187938,7 @@
     ],
     "wears": {
       "FN": 1150,
-      "MW": 818,
+      "MW": 817.95,
       "FT": 771.53,
       "WW": 788.99,
       "BS": 680.33
@@ -187960,7 +187960,7 @@
     ],
     "wears": {
       "FN": 1150,
-      "MW": 818,
+      "MW": 817.95,
       "FT": 771.53,
       "WW": 788.99,
       "BS": 680.33
@@ -187982,7 +187982,7 @@
     ],
     "wears": {
       "FN": 1150,
-      "MW": 818,
+      "MW": 817.95,
       "FT": 771.53,
       "WW": 788.99,
       "BS": 680.33
@@ -189333,67 +189333,67 @@
   },
   "karambit_fade": {
     "market_hash_name": "★ Karambit | Fade (Field-Tested)",
-    "current_price_usd": 1859,
+    "current_price_usd": 1875,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1874.11,
-      1866.55,
-      1859,
-      1859,
-      1859,
-      1859,
-      1859
+      1874.55,
+      1875,
+      1875,
+      1875,
+      1875,
+      1875
     ],
     "wears": {
       "FN": 1874.11,
-      "MW": 1859,
-      "FT": 1859,
-      "WW": 1635.92,
-      "BS": 1394.25
+      "MW": 1875,
+      "FT": 1875,
+      "WW": 1650,
+      "BS": 1406.25
     },
     "stattrak_multiplier": 1.75
   },
   "knife_karambit_fade": {
     "market_hash_name": "★ Karambit | Fade (Field-Tested)",
-    "current_price_usd": 1859,
+    "current_price_usd": 1875,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1874.11,
-      1866.55,
-      1859,
-      1859,
-      1859,
-      1859,
-      1859
+      1874.55,
+      1875,
+      1875,
+      1875,
+      1875,
+      1875
     ],
     "wears": {
       "FN": 1874.11,
-      "MW": 1859,
-      "FT": 1859,
-      "WW": 1635.92,
-      "BS": 1394.25
+      "MW": 1875,
+      "FT": 1875,
+      "WW": 1650,
+      "BS": 1406.25
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_karambit_fade": {
     "market_hash_name": "★ Karambit | Fade (Field-Tested)",
-    "current_price_usd": 1859,
+    "current_price_usd": 1875,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1874.11,
-      1866.55,
-      1859,
-      1859,
-      1859,
-      1859,
-      1859
+      1874.55,
+      1875,
+      1875,
+      1875,
+      1875,
+      1875
     ],
     "wears": {
       "FN": 1874.11,
-      "MW": 1859,
-      "FT": 1859,
-      "WW": 1635.92,
-      "BS": 1394.25
+      "MW": 1875,
+      "FT": 1875,
+      "WW": 1650,
+      "BS": 1406.25
     },
     "stattrak_multiplier": 1.75
   },
@@ -190823,7 +190823,7 @@
       "MW": 8499,
       "FT": 6009.37,
       "WW": 5481.94,
-      "BS": 4344
+      "BS": 4344.91
     },
     "stattrak_multiplier": 1.75
   },
@@ -190845,7 +190845,7 @@
       "MW": 8499,
       "FT": 6009.37,
       "WW": 5481.94,
-      "BS": 4344
+      "BS": 4344.91
     },
     "stattrak_multiplier": 1.75
   },
@@ -190867,7 +190867,7 @@
       "MW": 8499,
       "FT": 6009.37,
       "WW": 5481.94,
-      "BS": 4344
+      "BS": 4344.91
     },
     "stattrak_multiplier": 1.75
   },
@@ -192186,7 +192186,7 @@
       "FN": 1354.73,
       "MW": 908.07,
       "FT": 960.99,
-      "WW": 684.52,
+      "WW": 685.51,
       "BS": 772.81
     },
     "stattrak_multiplier": 1.75
@@ -192208,7 +192208,7 @@
       "FN": 1354.73,
       "MW": 908.07,
       "FT": 960.99,
-      "WW": 684.52,
+      "WW": 685.51,
       "BS": 772.81
     },
     "stattrak_multiplier": 1.75
@@ -192230,7 +192230,7 @@
       "FN": 1354.73,
       "MW": 908.07,
       "FT": 960.99,
-      "WW": 684.52,
+      "WW": 685.51,
       "BS": 772.81
     },
     "stattrak_multiplier": 1.75
@@ -192252,7 +192252,7 @@
       "FN": 1354.73,
       "MW": 908.07,
       "FT": 960.99,
-      "WW": 684.52,
+      "WW": 685.51,
       "BS": 772.81
     },
     "stattrak_multiplier": 1.75
@@ -192667,7 +192667,7 @@
       2539
     ],
     "wears": {
-      "FN": 2035,
+      "FN": 2026,
       "MW": 2539,
       "FT": 2539,
       "WW": 2234.32,
@@ -192689,7 +192689,7 @@
       2539
     ],
     "wears": {
-      "FN": 2035,
+      "FN": 2026,
       "MW": 2539,
       "FT": 2539,
       "WW": 2234.32,
@@ -192711,7 +192711,7 @@
       2539
     ],
     "wears": {
-      "FN": 2035,
+      "FN": 2026,
       "MW": 2539,
       "FT": 2539,
       "WW": 2234.32,
@@ -192733,7 +192733,7 @@
       2539
     ],
     "wears": {
-      "FN": 2035,
+      "FN": 2026,
       "MW": 2539,
       "FT": 2539,
       "WW": 2234.32,
@@ -192912,7 +192912,7 @@
       "FN": 2500,
       "MW": 1342.91,
       "FT": 816.9,
-      "WW": 630,
+      "WW": 623,
       "BS": 694.66
     },
     "stattrak_multiplier": 1.75
@@ -192934,7 +192934,7 @@
       "FN": 2500,
       "MW": 1342.91,
       "FT": 816.9,
-      "WW": 630,
+      "WW": 623,
       "BS": 694.66
     },
     "stattrak_multiplier": 1.75
@@ -192956,7 +192956,7 @@
       "FN": 2500,
       "MW": 1342.91,
       "FT": 816.9,
-      "WW": 630,
+      "WW": 623,
       "BS": 694.66
     },
     "stattrak_multiplier": 1.75
@@ -192978,7 +192978,7 @@
       "FN": 2500,
       "MW": 1342.91,
       "FT": 816.9,
-      "WW": 630,
+      "WW": 623,
       "BS": 694.66
     },
     "stattrak_multiplier": 1.75
@@ -193645,88 +193645,88 @@
   },
   "stattrak™_butterfly_knife_rust_coat": {
     "market_hash_name": "★ StatTrak™ Butterfly Knife | Rust Coat (Field-Tested)",
-    "current_price_usd": 589.99,
+    "current_price_usd": 569,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       749.68,
       741.09,
       732.49,
-      661.24,
-      589.99,
-      589.99,
-      589.99
+      650.75,
+      569,
+      569,
+      569
     ],
     "wears": {
-      "FN": 1297.98,
-      "MW": 796.49,
-      "FT": 589.99,
-      "WW": 589.99,
+      "FN": 1251.8,
+      "MW": 768.15,
+      "FT": 569,
+      "WW": 569,
       "BS": 732.49
     },
     "stattrak_multiplier": 1.75
   },
   "stattrak™_butterfly_rust_coat": {
     "market_hash_name": "★ StatTrak™ Butterfly Knife | Rust Coat (Field-Tested)",
-    "current_price_usd": 589.99,
+    "current_price_usd": 569,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       749.68,
       741.09,
       732.49,
-      661.24,
-      589.99,
-      589.99,
-      589.99
+      650.75,
+      569,
+      569,
+      569
     ],
     "wears": {
-      "FN": 1297.98,
-      "MW": 796.49,
-      "FT": 589.99,
-      "WW": 589.99,
+      "FN": 1251.8,
+      "MW": 768.15,
+      "FT": 569,
+      "WW": 569,
       "BS": 732.49
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_butterfly_knife_rust_coat": {
     "market_hash_name": "★ StatTrak™ Butterfly Knife | Rust Coat (Field-Tested)",
-    "current_price_usd": 589.99,
+    "current_price_usd": 569,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       749.68,
       741.09,
       732.49,
-      661.24,
-      589.99,
-      589.99,
-      589.99
+      650.75,
+      569,
+      569,
+      569
     ],
     "wears": {
-      "FN": 1297.98,
-      "MW": 796.49,
-      "FT": 589.99,
-      "WW": 589.99,
+      "FN": 1251.8,
+      "MW": 768.15,
+      "FT": 569,
+      "WW": 569,
       "BS": 732.49
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_butterfly_knife_rust_coat": {
     "market_hash_name": "★ StatTrak™ Butterfly Knife | Rust Coat (Field-Tested)",
-    "current_price_usd": 589.99,
+    "current_price_usd": 569,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       749.68,
       741.09,
       732.49,
-      661.24,
-      589.99,
-      589.99,
-      589.99
+      650.75,
+      569,
+      569,
+      569
     ],
     "wears": {
-      "FN": 1297.98,
-      "MW": 796.49,
-      "FT": 589.99,
-      "WW": 589.99,
+      "FN": 1251.8,
+      "MW": 768.15,
+      "FT": 569,
+      "WW": 569,
       "BS": 732.49
     },
     "stattrak_multiplier": 1.75
@@ -194041,67 +194041,67 @@
   },
   "stattrak™_karambit_marble_fade": {
     "market_hash_name": "★ StatTrak™ Karambit | Marble Fade (Field-Tested)",
-    "current_price_usd": 1380,
+    "current_price_usd": 1500,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1667.49,
       1509.38,
       1351.26,
-      1365.63,
-      1380,
-      1380,
-      1380
+      1425.63,
+      1500,
+      1500,
+      1500
     ],
     "wears": {
       "FN": 1351.26,
-      "MW": 1380,
-      "FT": 1380,
-      "WW": 1214.4,
-      "BS": 1035
+      "MW": 1500,
+      "FT": 1500,
+      "WW": 1320,
+      "BS": 1125
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_karambit_marble_fade": {
     "market_hash_name": "★ StatTrak™ Karambit | Marble Fade (Field-Tested)",
-    "current_price_usd": 1380,
+    "current_price_usd": 1500,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1667.49,
       1509.38,
       1351.26,
-      1365.63,
-      1380,
-      1380,
-      1380
+      1425.63,
+      1500,
+      1500,
+      1500
     ],
     "wears": {
       "FN": 1351.26,
-      "MW": 1380,
-      "FT": 1380,
-      "WW": 1214.4,
-      "BS": 1035
+      "MW": 1500,
+      "FT": 1500,
+      "WW": 1320,
+      "BS": 1125
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_karambit_marble_fade": {
     "market_hash_name": "★ StatTrak™ Karambit | Marble Fade (Field-Tested)",
-    "current_price_usd": 1380,
+    "current_price_usd": 1500,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
       1667.49,
       1509.38,
       1351.26,
-      1365.63,
-      1380,
-      1380,
-      1380
+      1425.63,
+      1500,
+      1500,
+      1500
     ],
     "wears": {
       "FN": 1351.26,
-      "MW": 1380,
-      "FT": 1380,
-      "WW": 1214.4,
-      "BS": 1035
+      "MW": 1500,
+      "FT": 1500,
+      "WW": 1320,
+      "BS": 1125
     },
     "stattrak_multiplier": 1.75
   },
@@ -194899,67 +194899,67 @@
   },
   "stattrak™_karambit_fade": {
     "market_hash_name": "★ StatTrak™ Karambit | Fade (Field-Tested)",
-    "current_price_usd": 892.85,
+    "current_price_usd": 894.15,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15
     ],
     "wears": {
-      "FN": 1686.89,
-      "MW": 892.85,
-      "FT": 892.85,
-      "WW": 785.71,
-      "BS": 669.64
+      "FN": 1675.87,
+      "MW": 894.15,
+      "FT": 894.15,
+      "WW": 786.85,
+      "BS": 670.61
     },
     "stattrak_multiplier": 1.75
   },
   "knife_stattrak™_karambit_fade": {
     "market_hash_name": "★ StatTrak™ Karambit | Fade (Field-Tested)",
-    "current_price_usd": 892.85,
+    "current_price_usd": 894.15,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15
     ],
     "wears": {
-      "FN": 1686.89,
-      "MW": 892.85,
-      "FT": 892.85,
-      "WW": 785.71,
-      "BS": 669.64
+      "FN": 1675.87,
+      "MW": 894.15,
+      "FT": 894.15,
+      "WW": 786.85,
+      "BS": 670.61
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_stattrak™_karambit_fade": {
     "market_hash_name": "★ StatTrak™ Karambit | Fade (Field-Tested)",
-    "current_price_usd": 892.85,
+    "current_price_usd": 894.15,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85,
-      892.85
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15,
+      894.15
     ],
     "wears": {
-      "FN": 1686.89,
-      "MW": 892.85,
-      "FT": 892.85,
-      "WW": 785.71,
-      "BS": 669.64
+      "FN": 1675.87,
+      "MW": 894.15,
+      "FT": 894.15,
+      "WW": 786.85,
+      "BS": 670.61
     },
     "stattrak_multiplier": 1.75
   },
@@ -198441,155 +198441,155 @@
   },
   "sticker_slab_knife_club": {
     "market_hash_name": "Sticker Slab | Knife Club (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
   "sticker_slab_club": {
     "market_hash_name": "Sticker Slab | Knife Club (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_knife_club": {
     "market_hash_name": "Sticker Slab | Knife Club (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_knife_club": {
     "market_hash_name": "Sticker Slab | Knife Club (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
   "sticker_slab_bukawp": {
     "market_hash_name": "Sticker Slab | BukAWP (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_bukawp": {
     "market_hash_name": "Sticker Slab | BukAWP (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_bukawp": {
     "market_hash_name": "Sticker Slab | BukAWP (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
@@ -198793,67 +198793,67 @@
   },
   "sticker_slab_hello_mp9": {
     "market_hash_name": "Sticker Slab | Hello MP9 (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_mp9": {
     "market_hash_name": "Sticker Slab | Hello MP9 (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_mp9": {
     "market_hash_name": "Sticker Slab | Hello MP9 (Field-Tested)",
-    "current_price_usd": 19.17,
+    "current_price_usd": 19.19,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17,
-      19.17
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19,
+      19.19
     ],
     "wears": {
-      "FN": 42.17,
-      "MW": 25.88,
-      "FT": 19.17,
-      "WW": 16.87,
-      "BS": 14.38
+      "FN": 42.22,
+      "MW": 25.91,
+      "FT": 19.19,
+      "WW": 16.89,
+      "BS": 14.39
     },
     "stattrak_multiplier": 1.75
   },
@@ -198991,67 +198991,67 @@
   },
   "sticker_slab_hello_mp9_gold": {
     "market_hash_name": "Sticker Slab | Hello MP9 (Gold) (Field-Tested)",
-    "current_price_usd": 25.14,
+    "current_price_usd": 25.17,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17
     ],
     "wears": {
-      "FN": 55.31,
-      "MW": 33.94,
-      "FT": 25.14,
-      "WW": 22.12,
-      "BS": 18.86
+      "FN": 55.37,
+      "MW": 33.98,
+      "FT": 25.17,
+      "WW": 22.15,
+      "BS": 18.88
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_mp9_gold": {
     "market_hash_name": "Sticker Slab | Hello MP9 (Gold) (Field-Tested)",
-    "current_price_usd": 25.14,
+    "current_price_usd": 25.17,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17
     ],
     "wears": {
-      "FN": 55.31,
-      "MW": 33.94,
-      "FT": 25.14,
-      "WW": 22.12,
-      "BS": 18.86
+      "FN": 55.37,
+      "MW": 33.98,
+      "FT": 25.17,
+      "WW": 22.15,
+      "BS": 18.88
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_mp9_gold": {
     "market_hash_name": "Sticker Slab | Hello MP9 (Gold) (Field-Tested)",
-    "current_price_usd": 25.14,
+    "current_price_usd": 25.17,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14,
-      25.14
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17,
+      25.17
     ],
     "wears": {
-      "FN": 55.31,
-      "MW": 33.94,
-      "FT": 25.14,
-      "WW": 22.12,
-      "BS": 18.86
+      "FN": 55.37,
+      "MW": 33.98,
+      "FT": 25.17,
+      "WW": 22.15,
+      "BS": 18.88
     },
     "stattrak_multiplier": 1.75
   },
@@ -203007,7 +203007,7 @@
       158.87
     ],
     "wears": {
-      "FN": 805.42,
+      "FN": 778.94,
       "MW": 300.39,
       "FT": 158.87,
       "WW": 134.36,
@@ -203029,7 +203029,7 @@
       158.87
     ],
     "wears": {
-      "FN": 805.42,
+      "FN": 778.94,
       "MW": 300.39,
       "FT": 158.87,
       "WW": 134.36,
@@ -203051,7 +203051,7 @@
       158.87
     ],
     "wears": {
-      "FN": 805.42,
+      "FN": 778.94,
       "MW": 300.39,
       "FT": 158.87,
       "WW": 134.36,
@@ -203073,7 +203073,7 @@
       158.87
     ],
     "wears": {
-      "FN": 805.42,
+      "FN": 778.94,
       "MW": 300.39,
       "FT": 158.87,
       "WW": 134.36,
@@ -203095,7 +203095,7 @@
       238.49
     ],
     "wears": {
-      "FN": 1090.33,
+      "FN": 1660,
       "MW": 497.81,
       "FT": 238.49,
       "WW": 218.9,
@@ -203117,7 +203117,7 @@
       238.49
     ],
     "wears": {
-      "FN": 1090.33,
+      "FN": 1660,
       "MW": 497.81,
       "FT": 238.49,
       "WW": 218.9,
@@ -203139,7 +203139,7 @@
       238.49
     ],
     "wears": {
-      "FN": 1090.33,
+      "FN": 1660,
       "MW": 497.81,
       "FT": 238.49,
       "WW": 218.9,
@@ -203161,7 +203161,7 @@
       238.49
     ],
     "wears": {
-      "FN": 1090.33,
+      "FN": 1660,
       "MW": 497.81,
       "FT": 238.49,
       "WW": 218.9,
@@ -203183,7 +203183,7 @@
       356.38
     ],
     "wears": {
-      "FN": 1851,
+      "FN": 1850,
       "MW": 1521,
       "FT": 356.38,
       "WW": 717.92,
@@ -203205,7 +203205,7 @@
       356.38
     ],
     "wears": {
-      "FN": 1851,
+      "FN": 1850,
       "MW": 1521,
       "FT": 356.38,
       "WW": 717.92,
@@ -203227,7 +203227,7 @@
       356.38
     ],
     "wears": {
-      "FN": 1851,
+      "FN": 1850,
       "MW": 1521,
       "FT": 356.38,
       "WW": 717.92,
@@ -203249,7 +203249,7 @@
       356.38
     ],
     "wears": {
-      "FN": 1851,
+      "FN": 1850,
       "MW": 1521,
       "FT": 356.38,
       "WW": 717.92,
@@ -203271,7 +203271,7 @@
       165.78
     ],
     "wears": {
-      "FN": 879.99,
+      "FN": 1053.93,
       "MW": 355.79,
       "FT": 165.78,
       "WW": 145.38,
@@ -203293,7 +203293,7 @@
       165.78
     ],
     "wears": {
-      "FN": 879.99,
+      "FN": 1053.93,
       "MW": 355.79,
       "FT": 165.78,
       "WW": 145.38,
@@ -203315,7 +203315,7 @@
       165.78
     ],
     "wears": {
-      "FN": 879.99,
+      "FN": 1053.93,
       "MW": 355.79,
       "FT": 165.78,
       "WW": 145.38,
@@ -203337,7 +203337,7 @@
       165.78
     ],
     "wears": {
-      "FN": 879.99,
+      "FN": 1053.93,
       "MW": 355.79,
       "FT": 165.78,
       "WW": 145.38,
@@ -203447,7 +203447,7 @@
       593.14
     ],
     "wears": {
-      "FN": 4649.6,
+      "FN": 4350,
       "MW": 1800,
       "FT": 593.14,
       "WW": 485,
@@ -203469,7 +203469,7 @@
       593.14
     ],
     "wears": {
-      "FN": 4649.6,
+      "FN": 4350,
       "MW": 1800,
       "FT": 593.14,
       "WW": 485,
@@ -203491,7 +203491,7 @@
       593.14
     ],
     "wears": {
-      "FN": 4649.6,
+      "FN": 4350,
       "MW": 1800,
       "FT": 593.14,
       "WW": 485,
@@ -203513,7 +203513,7 @@
       593.14
     ],
     "wears": {
-      "FN": 4649.6,
+      "FN": 4350,
       "MW": 1800,
       "FT": 593.14,
       "WW": 485,
@@ -203711,7 +203711,7 @@
       173.92
     ],
     "wears": {
-      "FN": 1159.99,
+      "FN": 1150,
       "MW": 380.44,
       "FT": 173.92,
       "WW": 158.86,
@@ -203733,7 +203733,7 @@
       173.92
     ],
     "wears": {
-      "FN": 1159.99,
+      "FN": 1150,
       "MW": 380.44,
       "FT": 173.92,
       "WW": 158.86,
@@ -203755,7 +203755,7 @@
       173.92
     ],
     "wears": {
-      "FN": 1159.99,
+      "FN": 1150,
       "MW": 380.44,
       "FT": 173.92,
       "WW": 158.86,
@@ -203777,7 +203777,7 @@
       173.92
     ],
     "wears": {
-      "FN": 1159.99,
+      "FN": 1150,
       "MW": 380.44,
       "FT": 173.92,
       "WW": 158.86,
@@ -203799,7 +203799,7 @@
       495.28
     ],
     "wears": {
-      "FN": 1479.38,
+      "FN": 1456.66,
       "MW": 994.31,
       "FT": 495.28,
       "WW": 389.32,
@@ -203821,7 +203821,7 @@
       495.28
     ],
     "wears": {
-      "FN": 1479.38,
+      "FN": 1456.66,
       "MW": 994.31,
       "FT": 495.28,
       "WW": 389.32,
@@ -203843,7 +203843,7 @@
       495.28
     ],
     "wears": {
-      "FN": 1479.38,
+      "FN": 1456.66,
       "MW": 994.31,
       "FT": 495.28,
       "WW": 389.32,
@@ -203865,7 +203865,7 @@
       495.28
     ],
     "wears": {
-      "FN": 1479.38,
+      "FN": 1456.66,
       "MW": 994.31,
       "FT": 495.28,
       "WW": 389.32,
@@ -203887,7 +203887,7 @@
       767.6
     ],
     "wears": {
-      "FN": 1649.99,
+      "FN": 1643.46,
       "MW": 1248.78,
       "FT": 767.6,
       "WW": 641.73,
@@ -203909,7 +203909,7 @@
       767.6
     ],
     "wears": {
-      "FN": 1649.99,
+      "FN": 1643.46,
       "MW": 1248.78,
       "FT": 767.6,
       "WW": 641.73,
@@ -203931,7 +203931,7 @@
       767.6
     ],
     "wears": {
-      "FN": 1649.99,
+      "FN": 1643.46,
       "MW": 1248.78,
       "FT": 767.6,
       "WW": 641.73,
@@ -203953,7 +203953,7 @@
       767.6
     ],
     "wears": {
-      "FN": 1649.99,
+      "FN": 1643.46,
       "MW": 1248.78,
       "FT": 767.6,
       "WW": 641.73,
@@ -204327,7 +204327,7 @@
       261.95
     ],
     "wears": {
-      "FN": 1591.06,
+      "FN": 1586.82,
       "MW": 700,
       "FT": 261.95,
       "WW": 192,
@@ -204349,7 +204349,7 @@
       261.95
     ],
     "wears": {
-      "FN": 1591.06,
+      "FN": 1586.82,
       "MW": 700,
       "FT": 261.95,
       "WW": 192,
@@ -204371,7 +204371,7 @@
       261.95
     ],
     "wears": {
-      "FN": 1591.06,
+      "FN": 1586.82,
       "MW": 700,
       "FT": 261.95,
       "WW": 192,
@@ -204393,7 +204393,7 @@
       261.95
     ],
     "wears": {
-      "FN": 1591.06,
+      "FN": 1586.82,
       "MW": 700,
       "FT": 261.95,
       "WW": 192,
@@ -204679,7 +204679,7 @@
       215.18
     ],
     "wears": {
-      "FN": 1874.99,
+      "FN": 1869.99,
       "MW": 960.01,
       "FT": 215.18,
       "WW": 226.71,
@@ -204701,7 +204701,7 @@
       215.18
     ],
     "wears": {
-      "FN": 1874.99,
+      "FN": 1869.99,
       "MW": 960.01,
       "FT": 215.18,
       "WW": 226.71,
@@ -204723,7 +204723,7 @@
       215.18
     ],
     "wears": {
-      "FN": 1874.99,
+      "FN": 1869.99,
       "MW": 960.01,
       "FT": 215.18,
       "WW": 226.71,
@@ -204745,7 +204745,7 @@
       215.18
     ],
     "wears": {
-      "FN": 1874.99,
+      "FN": 1869.99,
       "MW": 960.01,
       "FT": 215.18,
       "WW": 226.71,
@@ -204767,7 +204767,7 @@
       1436
     ],
     "wears": {
-      "FN": 4488,
+      "FN": 4374.4,
       "MW": 1700.36,
       "FT": 1436,
       "WW": 1151.01,
@@ -204789,7 +204789,7 @@
       1436
     ],
     "wears": {
-      "FN": 4488,
+      "FN": 4374.4,
       "MW": 1700.36,
       "FT": 1436,
       "WW": 1151.01,
@@ -204811,7 +204811,7 @@
       1436
     ],
     "wears": {
-      "FN": 4488,
+      "FN": 4374.4,
       "MW": 1700.36,
       "FT": 1436,
       "WW": 1151.01,
@@ -204833,7 +204833,7 @@
       1436
     ],
     "wears": {
-      "FN": 4488,
+      "FN": 4374.4,
       "MW": 1700.36,
       "FT": 1436,
       "WW": 1151.01,
@@ -204855,7 +204855,7 @@
       212.68
     ],
     "wears": {
-      "FN": 950,
+      "FN": 900,
       "MW": 382.53,
       "FT": 212.68,
       "WW": 172.19,
@@ -204877,7 +204877,7 @@
       212.68
     ],
     "wears": {
-      "FN": 950,
+      "FN": 900,
       "MW": 382.53,
       "FT": 212.68,
       "WW": 172.19,
@@ -204899,7 +204899,7 @@
       212.68
     ],
     "wears": {
-      "FN": 950,
+      "FN": 900,
       "MW": 382.53,
       "FT": 212.68,
       "WW": 172.19,
@@ -204921,7 +204921,7 @@
       212.68
     ],
     "wears": {
-      "FN": 950,
+      "FN": 900,
       "MW": 382.53,
       "FT": 212.68,
       "WW": 172.19,
@@ -205063,21 +205063,21 @@
   },
   "glock_18_ifrit_lattice": {
     "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
-    "current_price_usd": 2.4,
+    "current_price_usd": 2.43,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43
     ],
     "wears": {
       "FN": 25.01,
       "MW": 8.96,
-      "FT": 2.4,
+      "FT": 2.43,
       "WW": 2.35,
       "BS": 2.08
     },
@@ -205085,21 +205085,21 @@
   },
   "glock18_ifrit_lattice": {
     "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
-    "current_price_usd": 2.4,
+    "current_price_usd": 2.43,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43
     ],
     "wears": {
       "FN": 25.01,
       "MW": 8.96,
-      "FT": 2.4,
+      "FT": 2.43,
       "WW": 2.35,
       "BS": 2.08
     },
@@ -205107,21 +205107,21 @@
   },
   "glock_ifrit_lattice": {
     "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
-    "current_price_usd": 2.4,
+    "current_price_usd": 2.43,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43
     ],
     "wears": {
       "FN": 25.01,
       "MW": 8.96,
-      "FT": 2.4,
+      "FT": 2.43,
       "WW": 2.35,
       "BS": 2.08
     },
@@ -205129,21 +205129,21 @@
   },
   "knife_glock_18_ifrit_lattice": {
     "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
-    "current_price_usd": 2.4,
+    "current_price_usd": 2.43,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43
     ],
     "wears": {
       "FN": 25.01,
       "MW": 8.96,
-      "FT": 2.4,
+      "FT": 2.43,
       "WW": 2.35,
       "BS": 2.08
     },
@@ -205151,21 +205151,21 @@
   },
   "gloves_glock_18_ifrit_lattice": {
     "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
-    "current_price_usd": 2.4,
+    "current_price_usd": 2.43,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43,
+      2.43
     ],
     "wears": {
       "FN": 25.01,
       "MW": 8.96,
-      "FT": 2.4,
+      "FT": 2.43,
       "WW": 2.35,
       "BS": 2.08
     },
@@ -205239,87 +205239,87 @@
   },
   "m4a4_falak": {
     "market_hash_name": "M4A4 | Falak (Field-Tested)",
-    "current_price_usd": 21.14,
+    "current_price_usd": 21.09,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09
     ],
     "wears": {
       "FN": 128.96,
       "MW": 87.48,
-      "FT": 21.14,
+      "FT": 21.09,
       "WW": 17.68,
-      "BS": 13.85
+      "BS": 14.5
     },
     "stattrak_multiplier": 1.75
   },
   "knife_m4a4_falak": {
     "market_hash_name": "M4A4 | Falak (Field-Tested)",
-    "current_price_usd": 21.14,
+    "current_price_usd": 21.09,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09
     ],
     "wears": {
       "FN": 128.96,
       "MW": 87.48,
-      "FT": 21.14,
+      "FT": 21.09,
       "WW": 17.68,
-      "BS": 13.85
+      "BS": 14.5
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_m4a4_falak": {
     "market_hash_name": "M4A4 | Falak (Field-Tested)",
-    "current_price_usd": 21.14,
+    "current_price_usd": 21.09,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14,
-      21.14
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09,
+      21.09
     ],
     "wears": {
       "FN": 128.96,
       "MW": 87.48,
-      "FT": 21.14,
+      "FT": 21.09,
       "WW": 17.68,
-      "BS": 13.85
+      "BS": 14.5
     },
     "stattrak_multiplier": 1.75
   },
   "mac_10_arabesque_mosaic": {
     "market_hash_name": "MAC-10 | Arabesque Mosaic (Field-Tested)",
-    "current_price_usd": 0.28,
+    "current_price_usd": 0.29,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29
     ],
     "wears": {
       "FN": 4.99,
-      "MW": 0.66,
-      "FT": 0.28,
+      "MW": 0.68,
+      "FT": 0.29,
       "WW": 0.22,
       "BS": 0.22
     },
@@ -205327,21 +205327,21 @@
   },
   "knife_mac_10_arabesque_mosaic": {
     "market_hash_name": "MAC-10 | Arabesque Mosaic (Field-Tested)",
-    "current_price_usd": 0.28,
+    "current_price_usd": 0.29,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29
     ],
     "wears": {
       "FN": 4.99,
-      "MW": 0.66,
-      "FT": 0.28,
+      "MW": 0.68,
+      "FT": 0.29,
       "WW": 0.22,
       "BS": 0.22
     },
@@ -205349,21 +205349,21 @@
   },
   "gloves_mac_10_arabesque_mosaic": {
     "market_hash_name": "MAC-10 | Arabesque Mosaic (Field-Tested)",
-    "current_price_usd": 0.28,
+    "current_price_usd": 0.29,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28,
-      0.28
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29
     ],
     "wears": {
       "FN": 4.99,
-      "MW": 0.66,
-      "FT": 0.28,
+      "MW": 0.68,
+      "FT": 0.29,
       "WW": 0.22,
       "BS": 0.22
     },
@@ -205582,10 +205582,10 @@
     ],
     "wears": {
       "FN": 208.33,
-      "MW": 42.08,
+      "MW": 42.77,
       "FT": 29.77,
       "WW": 19,
-      "BS": 18.88
+      "BS": 18.69
     },
     "stattrak_multiplier": 1.75
   },
@@ -205604,10 +205604,10 @@
     ],
     "wears": {
       "FN": 208.33,
-      "MW": 42.08,
+      "MW": 42.77,
       "FT": 29.77,
       "WW": 19,
-      "BS": 18.88
+      "BS": 18.69
     },
     "stattrak_multiplier": 1.75
   },
@@ -205626,10 +205626,10 @@
     ],
     "wears": {
       "FN": 208.33,
-      "MW": 42.08,
+      "MW": 42.77,
       "FT": 29.77,
       "WW": 19,
-      "BS": 18.88
+      "BS": 18.69
     },
     "stattrak_multiplier": 1.75
   },
@@ -205648,10 +205648,10 @@
     ],
     "wears": {
       "FN": 208.33,
-      "MW": 42.08,
+      "MW": 42.77,
       "FT": 29.77,
       "WW": 19,
-      "BS": 18.88
+      "BS": 18.69
     },
     "stattrak_multiplier": 1.75
   },
@@ -205669,7 +205669,7 @@
       0.4
     ],
     "wears": {
-      "FN": 1.58,
+      "FN": 1.65,
       "MW": 0.99,
       "FT": 0.4,
       "WW": 0.24,
@@ -205691,7 +205691,7 @@
       0.4
     ],
     "wears": {
-      "FN": 1.58,
+      "FN": 1.65,
       "MW": 0.99,
       "FT": 0.4,
       "WW": 0.24,
@@ -205713,7 +205713,7 @@
       0.4
     ],
     "wears": {
-      "FN": 1.58,
+      "FN": 1.65,
       "MW": 0.99,
       "FT": 0.4,
       "WW": 0.24,
@@ -205735,7 +205735,7 @@
       3.96
     ],
     "wears": {
-      "FN": 11.8,
+      "FN": 11.6,
       "MW": 9.09,
       "FT": 3.96,
       "WW": 2.41,
@@ -205757,7 +205757,7 @@
       3.96
     ],
     "wears": {
-      "FN": 11.8,
+      "FN": 11.6,
       "MW": 9.09,
       "FT": 3.96,
       "WW": 2.41,
@@ -205779,7 +205779,7 @@
       3.96
     ],
     "wears": {
-      "FN": 11.8,
+      "FN": 11.6,
       "MW": 9.09,
       "FT": 3.96,
       "WW": 2.41,
@@ -205801,10 +205801,10 @@
       8.75
     ],
     "wears": {
-      "FN": 23.24,
+      "FN": 22.22,
       "MW": 15.72,
       "FT": 8.75,
-      "WW": 2.78,
+      "WW": 2.75,
       "BS": 4.97
     },
     "stattrak_multiplier": 1.75
@@ -205823,10 +205823,10 @@
       8.75
     ],
     "wears": {
-      "FN": 23.24,
+      "FN": 22.22,
       "MW": 15.72,
       "FT": 8.75,
-      "WW": 2.78,
+      "WW": 2.75,
       "BS": 4.97
     },
     "stattrak_multiplier": 1.75
@@ -205845,120 +205845,120 @@
       8.75
     ],
     "wears": {
-      "FN": 23.24,
+      "FN": 22.22,
       "MW": 15.72,
       "FT": 8.75,
-      "WW": 2.78,
+      "WW": 2.75,
       "BS": 4.97
     },
     "stattrak_multiplier": 1.75
   },
   "glock_18_ghost_protocol": {
     "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
-    "current_price_usd": 161.09,
+    "current_price_usd": 168,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09
+      168,
+      168,
+      168,
+      168,
+      168,
+      168,
+      168
     ],
     "wears": {
-      "FN": 514.98,
+      "FN": 529.98,
       "MW": 372.4,
-      "FT": 161.09,
-      "WW": 141.55,
+      "FT": 168,
+      "WW": 132.82,
       "BS": 103.97
     },
     "stattrak_multiplier": 1.75
   },
   "glock18_ghost_protocol": {
     "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
-    "current_price_usd": 161.09,
+    "current_price_usd": 168,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09
+      168,
+      168,
+      168,
+      168,
+      168,
+      168,
+      168
     ],
     "wears": {
-      "FN": 514.98,
+      "FN": 529.98,
       "MW": 372.4,
-      "FT": 161.09,
-      "WW": 141.55,
+      "FT": 168,
+      "WW": 132.82,
       "BS": 103.97
     },
     "stattrak_multiplier": 1.75
   },
   "glock_ghost_protocol": {
     "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
-    "current_price_usd": 161.09,
+    "current_price_usd": 168,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09
+      168,
+      168,
+      168,
+      168,
+      168,
+      168,
+      168
     ],
     "wears": {
-      "FN": 514.98,
+      "FN": 529.98,
       "MW": 372.4,
-      "FT": 161.09,
-      "WW": 141.55,
+      "FT": 168,
+      "WW": 132.82,
       "BS": 103.97
     },
     "stattrak_multiplier": 1.75
   },
   "knife_glock_18_ghost_protocol": {
     "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
-    "current_price_usd": 161.09,
+    "current_price_usd": 168,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09
+      168,
+      168,
+      168,
+      168,
+      168,
+      168,
+      168
     ],
     "wears": {
-      "FN": 514.98,
+      "FN": 529.98,
       "MW": 372.4,
-      "FT": 161.09,
-      "WW": 141.55,
+      "FT": 168,
+      "WW": 132.82,
       "BS": 103.97
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_glock_18_ghost_protocol": {
     "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
-    "current_price_usd": 161.09,
+    "current_price_usd": 168,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09,
-      161.09
+      168,
+      168,
+      168,
+      168,
+      168,
+      168,
+      168
     ],
     "wears": {
-      "FN": 514.98,
+      "FN": 529.98,
       "MW": 372.4,
-      "FT": 161.09,
-      "WW": 141.55,
+      "FT": 168,
+      "WW": 132.82,
       "BS": 103.97
     },
     "stattrak_multiplier": 1.75
@@ -205980,7 +205980,7 @@
       "FN": 6.44,
       "MW": 1.34,
       "FT": 0.52,
-      "WW": 0.27,
+      "WW": 0.28,
       "BS": 0.24
     },
     "stattrak_multiplier": 1.75
@@ -206002,7 +206002,7 @@
       "FN": 6.44,
       "MW": 1.34,
       "FT": 0.52,
-      "WW": 0.27,
+      "WW": 0.28,
       "BS": 0.24
     },
     "stattrak_multiplier": 1.75
@@ -206024,28 +206024,28 @@
       "FN": 6.44,
       "MW": 1.34,
       "FT": 0.52,
-      "WW": 0.27,
+      "WW": 0.28,
       "BS": 0.24
     },
     "stattrak_multiplier": 1.75
   },
   "dual_berettas_mystic_conjunction": {
     "market_hash_name": "Dual Berettas | Mystic Conjunction (Field-Tested)",
-    "current_price_usd": 0.04,
+    "current_price_usd": 0.05,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05
     ],
     "wears": {
       "FN": 0.8,
       "MW": 0.11,
-      "FT": 0.04,
+      "FT": 0.05,
       "WW": 0.03,
       "BS": 0.04
     },
@@ -206053,21 +206053,21 @@
   },
   "knife_dual_berettas_mystic_conjunction": {
     "market_hash_name": "Dual Berettas | Mystic Conjunction (Field-Tested)",
-    "current_price_usd": 0.04,
+    "current_price_usd": 0.05,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05
     ],
     "wears": {
       "FN": 0.8,
       "MW": 0.11,
-      "FT": 0.04,
+      "FT": 0.05,
       "WW": 0.03,
       "BS": 0.04
     },
@@ -206075,21 +206075,21 @@
   },
   "gloves_dual_berettas_mystic_conjunction": {
     "market_hash_name": "Dual Berettas | Mystic Conjunction (Field-Tested)",
-    "current_price_usd": 0.04,
+    "current_price_usd": 0.05,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04,
-      0.04
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05
     ],
     "wears": {
       "FN": 0.8,
       "MW": 0.11,
-      "FT": 0.04,
+      "FT": 0.05,
       "WW": 0.03,
       "BS": 0.04
     },
@@ -206163,21 +206163,21 @@
   },
   "r8_revolver_monarch": {
     "market_hash_name": "R8 Revolver | Monarch (Field-Tested)",
-    "current_price_usd": 0.29,
+    "current_price_usd": 0.31,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
     ],
     "wears": {
       "FN": 4.15,
       "MW": 0.62,
-      "FT": 0.29,
+      "FT": 0.31,
       "WW": 0.38,
       "BS": 0.2
     },
@@ -206185,21 +206185,21 @@
   },
   "knife_r8_revolver_monarch": {
     "market_hash_name": "R8 Revolver | Monarch (Field-Tested)",
-    "current_price_usd": 0.29,
+    "current_price_usd": 0.31,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
     ],
     "wears": {
       "FN": 4.15,
       "MW": 0.62,
-      "FT": 0.29,
+      "FT": 0.31,
       "WW": 0.38,
       "BS": 0.2
     },
@@ -206207,21 +206207,21 @@
   },
   "gloves_r8_revolver_monarch": {
     "market_hash_name": "R8 Revolver | Monarch (Field-Tested)",
-    "current_price_usd": 0.29,
+    "current_price_usd": 0.31,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29,
-      0.29
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
     ],
     "wears": {
       "FN": 4.15,
       "MW": 0.62,
-      "FT": 0.29,
+      "FT": 0.31,
       "WW": 0.38,
       "BS": 0.2
     },
@@ -206245,7 +206245,7 @@
       "MW": 64.69,
       "FT": 26.01,
       "WW": 17.34,
-      "BS": 11.68
+      "BS": 11.63
     },
     "stattrak_multiplier": 1.75
   },
@@ -206267,7 +206267,7 @@
       "MW": 64.69,
       "FT": 26.01,
       "WW": 17.34,
-      "BS": 11.68
+      "BS": 11.63
     },
     "stattrak_multiplier": 1.75
   },
@@ -206289,7 +206289,7 @@
       "MW": 64.69,
       "FT": 26.01,
       "WW": 17.34,
-      "BS": 11.68
+      "BS": 11.63
     },
     "stattrak_multiplier": 1.75
   },
@@ -206311,7 +206311,7 @@
       "MW": 64.69,
       "FT": 26.01,
       "WW": 17.34,
-      "BS": 11.68
+      "BS": 11.63
     },
     "stattrak_multiplier": 1.75
   },
@@ -206461,7 +206461,7 @@
       0.43
     ],
     "wears": {
-      "FN": 3.2,
+      "FN": 2.7,
       "MW": 1.06,
       "FT": 0.43,
       "WW": 0.22,
@@ -206483,7 +206483,7 @@
       0.43
     ],
     "wears": {
-      "FN": 3.2,
+      "FN": 2.7,
       "MW": 1.06,
       "FT": 0.43,
       "WW": 0.22,
@@ -206505,7 +206505,7 @@
       0.43
     ],
     "wears": {
-      "FN": 3.2,
+      "FN": 2.7,
       "MW": 1.06,
       "FT": 0.43,
       "WW": 0.22,
@@ -206659,8 +206659,8 @@
       0.03
     ],
     "wears": {
-      "FN": 0.57,
-      "MW": 0.09,
+      "FN": 0.56,
+      "MW": 0.1,
       "FT": 0.03,
       "WW": 0.04,
       "BS": 0.04
@@ -206681,8 +206681,8 @@
       0.03
     ],
     "wears": {
-      "FN": 0.57,
-      "MW": 0.09,
+      "FN": 0.56,
+      "MW": 0.1,
       "FT": 0.03,
       "WW": 0.04,
       "BS": 0.04
@@ -206703,8 +206703,8 @@
       0.03
     ],
     "wears": {
-      "FN": 0.57,
-      "MW": 0.09,
+      "FN": 0.56,
+      "MW": 0.1,
       "FT": 0.03,
       "WW": 0.04,
       "BS": 0.04
@@ -206779,67 +206779,67 @@
   },
   "usp_s_spiral_glitch": {
     "market_hash_name": "USP-S | Spiral Glitch (Field-Tested)",
-    "current_price_usd": 22.84,
+    "current_price_usd": 22.83,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83
     ],
     "wears": {
       "FN": 196.18,
-      "MW": 39.17,
-      "FT": 22.84,
+      "MW": 40.6,
+      "FT": 22.83,
       "WW": 21.74,
-      "BS": 17.1
+      "BS": 17.34
     },
     "stattrak_multiplier": 1.75
   },
   "knife_usp_s_spiral_glitch": {
     "market_hash_name": "USP-S | Spiral Glitch (Field-Tested)",
-    "current_price_usd": 22.84,
+    "current_price_usd": 22.83,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83
     ],
     "wears": {
       "FN": 196.18,
-      "MW": 39.17,
-      "FT": 22.84,
+      "MW": 40.6,
+      "FT": 22.83,
       "WW": 21.74,
-      "BS": 17.1
+      "BS": 17.34
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_usp_s_spiral_glitch": {
     "market_hash_name": "USP-S | Spiral Glitch (Field-Tested)",
-    "current_price_usd": 22.84,
+    "current_price_usd": 22.83,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84,
-      22.84
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83,
+      22.83
     ],
     "wears": {
       "FN": 196.18,
-      "MW": 39.17,
-      "FT": 22.84,
+      "MW": 40.6,
+      "FT": 22.83,
       "WW": 21.74,
-      "BS": 17.1
+      "BS": 17.34
     },
     "stattrak_multiplier": 1.75
   },
@@ -206857,7 +206857,7 @@
       195.99
     ],
     "wears": {
-      "FN": 522.26,
+      "FN": 539.91,
       "MW": 353.94,
       "FT": 195.99,
       "WW": 96.98,
@@ -206879,7 +206879,7 @@
       195.99
     ],
     "wears": {
-      "FN": 522.26,
+      "FN": 539.91,
       "MW": 353.94,
       "FT": 195.99,
       "WW": 96.98,
@@ -206901,7 +206901,7 @@
       195.99
     ],
     "wears": {
-      "FN": 522.26,
+      "FN": 539.91,
       "MW": 353.94,
       "FT": 195.99,
       "WW": 96.98,
@@ -206923,7 +206923,7 @@
       195.99
     ],
     "wears": {
-      "FN": 522.26,
+      "FN": 539.91,
       "MW": 353.94,
       "FT": 195.99,
       "WW": 96.98,
@@ -206945,8 +206945,8 @@
       0.14
     ],
     "wears": {
-      "FN": 1.39,
-      "MW": 0.1,
+      "FN": 1.41,
+      "MW": 0.15,
       "FT": 0.14,
       "WW": 0.06,
       "BS": 0.03
@@ -206967,8 +206967,8 @@
       0.14
     ],
     "wears": {
-      "FN": 1.39,
-      "MW": 0.1,
+      "FN": 1.41,
+      "MW": 0.15,
       "FT": 0.14,
       "WW": 0.06,
       "BS": 0.03
@@ -206989,8 +206989,8 @@
       0.14
     ],
     "wears": {
-      "FN": 1.39,
-      "MW": 0.1,
+      "FN": 1.41,
+      "MW": 0.15,
       "FT": 0.14,
       "WW": 0.06,
       "BS": 0.03
@@ -207012,10 +207012,10 @@
     ],
     "wears": {
       "FN": 29.09,
-      "MW": 5.9,
+      "MW": 5.76,
       "FT": 3.93,
       "WW": 2.37,
-      "BS": 1.67
+      "BS": 1.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -207034,10 +207034,10 @@
     ],
     "wears": {
       "FN": 29.09,
-      "MW": 5.9,
+      "MW": 5.76,
       "FT": 3.93,
       "WW": 2.37,
-      "BS": 1.67
+      "BS": 1.68
     },
     "stattrak_multiplier": 1.75
   },
@@ -207056,30 +207056,30 @@
     ],
     "wears": {
       "FN": 29.09,
-      "MW": 5.9,
+      "MW": 5.76,
       "FT": 3.93,
       "WW": 2.37,
-      "BS": 1.67
+      "BS": 1.68
     },
     "stattrak_multiplier": 1.75
   },
   "ak_47_autoexec": {
     "market_hash_name": "AK-47 | AUTOEXEC (Field-Tested)",
-    "current_price_usd": 162.12,
+    "current_price_usd": 161.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53
     ],
     "wears": {
-      "FN": 584.09,
+      "FN": 610,
       "MW": 460.82,
-      "FT": 162.12,
+      "FT": 161.53,
       "WW": 121.56,
       "BS": 69.41
     },
@@ -207087,21 +207087,21 @@
   },
   "ak47_autoexec": {
     "market_hash_name": "AK-47 | AUTOEXEC (Field-Tested)",
-    "current_price_usd": 162.12,
+    "current_price_usd": 161.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53
     ],
     "wears": {
-      "FN": 584.09,
+      "FN": 610,
       "MW": 460.82,
-      "FT": 162.12,
+      "FT": 161.53,
       "WW": 121.56,
       "BS": 69.41
     },
@@ -207109,21 +207109,21 @@
   },
   "knife_ak_47_autoexec": {
     "market_hash_name": "AK-47 | AUTOEXEC (Field-Tested)",
-    "current_price_usd": 162.12,
+    "current_price_usd": 161.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53
     ],
     "wears": {
-      "FN": 584.09,
+      "FN": 610,
       "MW": 460.82,
-      "FT": 162.12,
+      "FT": 161.53,
       "WW": 121.56,
       "BS": 69.41
     },
@@ -207131,21 +207131,21 @@
   },
   "gloves_ak_47_autoexec": {
     "market_hash_name": "AK-47 | AUTOEXEC (Field-Tested)",
-    "current_price_usd": 162.12,
+    "current_price_usd": 161.53,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12,
-      162.12
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53,
+      161.53
     ],
     "wears": {
-      "FN": 584.09,
+      "FN": 610,
       "MW": 460.82,
-      "FT": 162.12,
+      "FT": 161.53,
       "WW": 121.56,
       "BS": 69.41
     },
@@ -207153,87 +207153,87 @@
   },
   "awp_sovereign_flame": {
     "market_hash_name": "AWP | Sovereign Flame (Field-Tested)",
-    "current_price_usd": 109.3,
+    "current_price_usd": 108.86,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86
     ],
     "wears": {
       "FN": 1115.86,
       "MW": 271.86,
-      "FT": 109.3,
-      "WW": 77.58,
-      "BS": 70.16
+      "FT": 108.86,
+      "WW": 79.57,
+      "BS": 70
     },
     "stattrak_multiplier": 1.75
   },
   "knife_awp_sovereign_flame": {
     "market_hash_name": "AWP | Sovereign Flame (Field-Tested)",
-    "current_price_usd": 109.3,
+    "current_price_usd": 108.86,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86
     ],
     "wears": {
       "FN": 1115.86,
       "MW": 271.86,
-      "FT": 109.3,
-      "WW": 77.58,
-      "BS": 70.16
+      "FT": 108.86,
+      "WW": 79.57,
+      "BS": 70
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_awp_sovereign_flame": {
     "market_hash_name": "AWP | Sovereign Flame (Field-Tested)",
-    "current_price_usd": 109.3,
+    "current_price_usd": 108.86,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3,
-      109.3
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86,
+      108.86
     ],
     "wears": {
       "FN": 1115.86,
       "MW": 271.86,
-      "FT": 109.3,
-      "WW": 77.58,
-      "BS": 70.16
+      "FT": 108.86,
+      "WW": 79.57,
+      "BS": 70
     },
     "stattrak_multiplier": 1.75
   },
   "scar_20_sirocco_script": {
     "market_hash_name": "SCAR-20 | Sirocco Script (Field-Tested)",
-    "current_price_usd": 0.03,
+    "current_price_usd": 0.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04
     ],
     "wears": {
-      "FN": 0.43,
-      "MW": 0.08,
-      "FT": 0.03,
+      "FN": 0.4,
+      "MW": 0.09,
+      "FT": 0.04,
       "WW": 0.03,
       "BS": 0.04
     },
@@ -207241,21 +207241,21 @@
   },
   "knife_scar_20_sirocco_script": {
     "market_hash_name": "SCAR-20 | Sirocco Script (Field-Tested)",
-    "current_price_usd": 0.03,
+    "current_price_usd": 0.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04
     ],
     "wears": {
-      "FN": 0.43,
-      "MW": 0.08,
-      "FT": 0.03,
+      "FN": 0.4,
+      "MW": 0.09,
+      "FT": 0.04,
       "WW": 0.03,
       "BS": 0.04
     },
@@ -207263,21 +207263,21 @@
   },
   "gloves_scar_20_sirocco_script": {
     "market_hash_name": "SCAR-20 | Sirocco Script (Field-Tested)",
-    "current_price_usd": 0.03,
+    "current_price_usd": 0.04,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03,
-      0.03
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04
     ],
     "wears": {
-      "FN": 0.43,
-      "MW": 0.08,
-      "FT": 0.03,
+      "FN": 0.4,
+      "MW": 0.09,
+      "FT": 0.04,
       "WW": 0.03,
       "BS": 0.04
     },
@@ -207285,21 +207285,21 @@
   },
   "mp9_spy_prototype": {
     "market_hash_name": "MP9 | Spy Prototype (Field-Tested)",
-    "current_price_usd": 0.4,
+    "current_price_usd": 0.31,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
     ],
     "wears": {
-      "FN": 2.19,
+      "FN": 2.18,
       "MW": 0.68,
-      "FT": 0.4,
+      "FT": 0.31,
       "WW": 0.39,
       "BS": 0.22
     },
@@ -207307,21 +207307,21 @@
   },
   "knife_mp9_spy_prototype": {
     "market_hash_name": "MP9 | Spy Prototype (Field-Tested)",
-    "current_price_usd": 0.4,
+    "current_price_usd": 0.31,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
     ],
     "wears": {
-      "FN": 2.19,
+      "FN": 2.18,
       "MW": 0.68,
-      "FT": 0.4,
+      "FT": 0.31,
       "WW": 0.39,
       "BS": 0.22
     },
@@ -207329,21 +207329,21 @@
   },
   "gloves_mp9_spy_prototype": {
     "market_hash_name": "MP9 | Spy Prototype (Field-Tested)",
-    "current_price_usd": 0.4,
+    "current_price_usd": 0.31,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
     ],
     "wears": {
-      "FN": 2.19,
+      "FN": 2.18,
       "MW": 0.68,
-      "FT": 0.4,
+      "FT": 0.31,
       "WW": 0.39,
       "BS": 0.22
     },
@@ -207451,8 +207451,8 @@
       0.04
     ],
     "wears": {
-      "FN": 0.54,
-      "MW": 0.1,
+      "FN": 0.55,
+      "MW": 0.09,
       "FT": 0.04,
       "WW": 0.03,
       "BS": 0.03
@@ -207473,8 +207473,8 @@
       0.04
     ],
     "wears": {
-      "FN": 0.54,
-      "MW": 0.1,
+      "FN": 0.55,
+      "MW": 0.09,
       "FT": 0.04,
       "WW": 0.03,
       "BS": 0.03
@@ -207495,8 +207495,8 @@
       0.04
     ],
     "wears": {
-      "FN": 0.54,
-      "MW": 0.1,
+      "FN": 0.55,
+      "MW": 0.09,
       "FT": 0.04,
       "WW": 0.03,
       "BS": 0.03
@@ -207505,199 +207505,199 @@
   },
   "nova_smart_gun": {
     "market_hash_name": "Nova | Smart Gun (Field-Tested)",
-    "current_price_usd": 2.99,
+    "current_price_usd": 2.7,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7
     ],
     "wears": {
-      "FN": 10.29,
-      "MW": 4.64,
-      "FT": 2.99,
-      "WW": 1.98,
+      "FN": 10.25,
+      "MW": 4.63,
+      "FT": 2.7,
+      "WW": 2.13,
       "BS": 2.48
     },
     "stattrak_multiplier": 1.75
   },
   "knife_nova_smart_gun": {
     "market_hash_name": "Nova | Smart Gun (Field-Tested)",
-    "current_price_usd": 2.99,
+    "current_price_usd": 2.7,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7
     ],
     "wears": {
-      "FN": 10.29,
-      "MW": 4.64,
-      "FT": 2.99,
-      "WW": 1.98,
+      "FN": 10.25,
+      "MW": 4.63,
+      "FT": 2.7,
+      "WW": 2.13,
       "BS": 2.48
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_nova_smart_gun": {
     "market_hash_name": "Nova | Smart Gun (Field-Tested)",
-    "current_price_usd": 2.99,
+    "current_price_usd": 2.7,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99,
-      2.99
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7,
+      2.7
     ],
     "wears": {
-      "FN": 10.29,
-      "MW": 4.64,
-      "FT": 2.99,
-      "WW": 1.98,
+      "FN": 10.25,
+      "MW": 4.63,
+      "FT": 2.7,
+      "WW": 2.13,
       "BS": 2.48
     },
     "stattrak_multiplier": 1.75
   },
   "sticker_slab_hello_cz75_auto": {
     "market_hash_name": "Sticker Slab | Hello CZ75-Auto (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_cz75_auto": {
     "market_hash_name": "Sticker Slab | Hello CZ75-Auto (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_cz75_auto": {
     "market_hash_name": "Sticker Slab | Hello CZ75-Auto (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "sticker_slab_hello_pp_bizon": {
     "market_hash_name": "Sticker Slab | Hello PP-Bizon (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "knife_sticker_slab_hello_pp_bizon": {
     "market_hash_name": "Sticker Slab | Hello PP-Bizon (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
   "gloves_sticker_slab_hello_pp_bizon": {
     "market_hash_name": "Sticker Slab | Hello PP-Bizon (Field-Tested)",
-    "current_price_usd": 12.77,
+    "current_price_usd": 12.79,
     "price_change_24h_percent": 0,
     "historical_7d_prices": [
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77,
-      12.77
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79,
+      12.79
     ],
     "wears": {
-      "FN": 28.09,
-      "MW": 17.24,
-      "FT": 12.77,
-      "WW": 11.24,
-      "BS": 9.58
+      "FN": 28.14,
+      "MW": 17.27,
+      "FT": 12.79,
+      "WW": 11.26,
+      "BS": 9.59
     },
     "stattrak_multiplier": 1.75
   },
@@ -213005,45 +213005,45 @@
   },
   "stattrak™_ursus_knife_case_hardened_factory_new": {
     "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Factory New)",
-    "current_price_usd": 370.23,
+    "current_price_usd": 370.77,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      370.23,
-      370.23,
-      370.23,
-      370.23,
-      370.23,
-      370.23,
-      370.23
+      370.77,
+      370.77,
+      370.77,
+      370.77,
+      370.77,
+      370.77,
+      370.77
     ],
     "wears": {
-      "FN": 370.23,
-      "MW": 370.23,
-      "FT": 370.23,
-      "WW": 370.23,
-      "BS": 370.23
+      "FN": 370.77,
+      "MW": 370.77,
+      "FT": 370.77,
+      "WW": 370.77,
+      "BS": 370.77
     },
     "stattrak_multiplier": 1
   },
   "case_stattrak™_ursus_knife_case_hardened_factory_new": {
     "market_hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Factory New)",
-    "current_price_usd": 370.23,
+    "current_price_usd": 370.77,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      370.23,
-      370.23,
-      370.23,
-      370.23,
-      370.23,
-      370.23,
-      370.23
+      370.77,
+      370.77,
+      370.77,
+      370.77,
+      370.77,
+      370.77,
+      370.77
     ],
     "wears": {
-      "FN": 370.23,
-      "MW": 370.23,
-      "FT": 370.23,
-      "WW": 370.23,
-      "BS": 370.23
+      "FN": 370.77,
+      "MW": 370.77,
+      "FT": 370.77,
+      "WW": 370.77,
+      "BS": 370.77
     },
     "stattrak_multiplier": 1
   },
@@ -221431,23 +221431,23 @@
   },
   "case_dreamhack_2013_souvenir_package": {
     "market_hash_name": "DreamHack 2013 Souvenir Package",
-    "current_price_usd": 910,
+    "current_price_usd": 900,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      910,
-      910,
-      910,
-      910,
-      910,
-      910,
-      910
+      900,
+      900,
+      900,
+      900,
+      900,
+      900,
+      900
     ],
     "wears": {
-      "FN": 910,
-      "MW": 910,
-      "FT": 910,
-      "WW": 910,
-      "BS": 910
+      "FN": 900,
+      "MW": 900,
+      "FT": 900,
+      "WW": 900,
+      "BS": 900
     },
     "stattrak_multiplier": 1
   },
@@ -223961,45 +223961,45 @@
   },
   "stattrak™_butterfly_knife_case_hardened_minimal_wear": {
     "market_hash_name": "★ StatTrak™ Butterfly Knife | Case Hardened (Minimal Wear)",
-    "current_price_usd": 954.39,
+    "current_price_usd": 954.41,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      954.39,
-      954.39,
-      954.39,
-      954.39,
-      954.39,
-      954.39,
-      954.39
+      954.41,
+      954.41,
+      954.41,
+      954.41,
+      954.41,
+      954.41,
+      954.41
     ],
     "wears": {
-      "FN": 954.39,
-      "MW": 954.39,
-      "FT": 954.39,
-      "WW": 954.39,
-      "BS": 954.39
+      "FN": 954.41,
+      "MW": 954.41,
+      "FT": 954.41,
+      "WW": 954.41,
+      "BS": 954.41
     },
     "stattrak_multiplier": 1
   },
   "case_stattrak™_butterfly_knife_case_hardened_minimal_wear": {
     "market_hash_name": "★ StatTrak™ Butterfly Knife | Case Hardened (Minimal Wear)",
-    "current_price_usd": 954.39,
+    "current_price_usd": 954.41,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      954.39,
-      954.39,
-      954.39,
-      954.39,
-      954.39,
-      954.39,
-      954.39
+      954.41,
+      954.41,
+      954.41,
+      954.41,
+      954.41,
+      954.41,
+      954.41
     ],
     "wears": {
-      "FN": 954.39,
-      "MW": 954.39,
-      "FT": 954.39,
-      "WW": 954.39,
-      "BS": 954.39
+      "FN": 954.41,
+      "MW": 954.41,
+      "FT": 954.41,
+      "WW": 954.41,
+      "BS": 954.41
     },
     "stattrak_multiplier": 1
   },
@@ -224753,45 +224753,45 @@
   },
   "bayonet_case_hardened_factory_new": {
     "market_hash_name": "★ Bayonet | Case Hardened (Factory New)",
-    "current_price_usd": 459.15,
+    "current_price_usd": 455.23,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      459.15,
-      459.15,
-      459.15,
-      459.15,
-      459.15,
-      459.15,
-      459.15
+      455.23,
+      455.23,
+      455.23,
+      455.23,
+      455.23,
+      455.23,
+      455.23
     ],
     "wears": {
-      "FN": 459.15,
-      "MW": 459.15,
-      "FT": 459.15,
-      "WW": 459.15,
-      "BS": 459.15
+      "FN": 455.23,
+      "MW": 455.23,
+      "FT": 455.23,
+      "WW": 455.23,
+      "BS": 455.23
     },
     "stattrak_multiplier": 1
   },
   "case_bayonet_case_hardened_factory_new": {
     "market_hash_name": "★ Bayonet | Case Hardened (Factory New)",
-    "current_price_usd": 459.15,
+    "current_price_usd": 455.23,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      459.15,
-      459.15,
-      459.15,
-      459.15,
-      459.15,
-      459.15,
-      459.15
+      455.23,
+      455.23,
+      455.23,
+      455.23,
+      455.23,
+      455.23,
+      455.23
     ],
     "wears": {
-      "FN": 459.15,
-      "MW": 459.15,
-      "FT": 459.15,
-      "WW": 459.15,
-      "BS": 459.15
+      "FN": 455.23,
+      "MW": 455.23,
+      "FT": 455.23,
+      "WW": 455.23,
+      "BS": 455.23
     },
     "stattrak_multiplier": 1
   },
@@ -225149,23 +225149,23 @@
   },
   "case_esl_one_cologne_2014_dust_ii_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Dust II Souvenir Package",
-    "current_price_usd": 175,
+    "current_price_usd": 170,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      175,
-      175,
-      175,
-      175,
-      175,
-      175,
-      175
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170
     ],
     "wears": {
-      "FN": 175,
-      "MW": 175,
-      "FT": 175,
-      "WW": 175,
-      "BS": 175
+      "FN": 170,
+      "MW": 170,
+      "FT": 170,
+      "WW": 170,
+      "BS": 170
     },
     "stattrak_multiplier": 1
   },
@@ -226733,23 +226733,23 @@
   },
   "case_esl_one_cologne_2014_nuke_souvenir_package": {
     "market_hash_name": "ESL One Cologne 2014 Nuke Souvenir Package",
-    "current_price_usd": 650,
+    "current_price_usd": 600,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      650,
-      650,
-      650,
-      650,
-      650,
-      650,
-      650
+      600,
+      600,
+      600,
+      600,
+      600,
+      600,
+      600
     ],
     "wears": {
-      "FN": 650,
-      "MW": 650,
-      "FT": 650,
-      "WW": 650,
-      "BS": 650
+      "FN": 600,
+      "MW": 600,
+      "FT": 600,
+      "WW": 600,
+      "BS": 600
     },
     "stattrak_multiplier": 1
   },
@@ -227173,45 +227173,45 @@
   },
   "stattrak™_karambit_case_hardened_factory_new": {
     "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Factory New)",
-    "current_price_usd": 3939.42,
+    "current_price_usd": 1969.71,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71
     ],
     "wears": {
-      "FN": 3939.42,
-      "MW": 3939.42,
-      "FT": 3939.42,
-      "WW": 3939.42,
-      "BS": 3939.42
+      "FN": 1969.71,
+      "MW": 1969.71,
+      "FT": 1969.71,
+      "WW": 1969.71,
+      "BS": 1969.71
     },
     "stattrak_multiplier": 1
   },
   "case_stattrak™_karambit_case_hardened_factory_new": {
     "market_hash_name": "★ StatTrak™ Karambit | Case Hardened (Factory New)",
-    "current_price_usd": 3939.42,
+    "current_price_usd": 1969.71,
     "price_change_24h_percent": 0.5,
     "historical_7d_prices": [
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42,
-      3939.42
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71,
+      1969.71
     ],
     "wears": {
-      "FN": 3939.42,
-      "MW": 3939.42,
-      "FT": 3939.42,
-      "WW": 3939.42,
-      "BS": 3939.42
+      "FN": 1969.71,
+      "MW": 1969.71,
+      "FT": 1969.71,
+      "WW": 1969.71,
+      "BS": 1969.71
     },
     "stattrak_multiplier": 1
   },
