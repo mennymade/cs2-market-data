@@ -1,0 +1,381 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-04T00:00:00Z",
+  "promoCodes": [
+    {
+      "code": "MMDEVCODE",
+      "description": "Developer Boost Bundle",
+      "isActive": true,
+      "coins": 250.0,
+      "keys": 5,
+      "scrap": 250,
+      "collectionPasses": 2,
+      "vipPoints": 0.1,
+      "exp": 500
+    },
+    {
+      "code": "RELEASE2026",
+      "description": "v1.0.0 Release",
+      "isActive": true,
+      "coins": 250.0,
+      "keys": 5,
+      "scrap": 100
+    },
+    {
+      "code": "PREREG2026",
+      "description": "Pre-Registration Supporter Bundle",
+      "isActive": true,
+      "validFrom": "2026-11-15T00:00:00Z",
+      "expiresAt": "2026-12-15T00:00:00Z",
+      "coins": 500.0,
+      "keys": 5,
+      "scrap": 250,
+      "collectionPasses": 2,
+      "vipPoints": 1,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 30,
+      "specialCases": {
+        "case_welcome": 1
+      }
+    },
+    {
+      "code": "LAUNCH24H",
+      "description": "Day-1 Flash Launch Reward (24 Hours Only)",
+      "isActive": true,
+      "validFrom": "2026-11-15T00:00:00Z",
+      "expiresAt": "2026-11-16T00:00:00Z",
+      "coins": 300.0,
+      "keys": 5,
+      "exp": 500,
+      "tempAdFreeHours": 24,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 60,
+      "specialCases": {
+        "case_ten_percent_knife": 1
+      }
+    },
+    {
+      "code": "WEEKONE2026",
+      "description": "Launch Week Celebration Drop (7 Days)",
+      "isActive": true,
+      "validFrom": "2026-11-15T00:00:00Z",
+      "expiresAt": "2026-11-22T00:00:00Z",
+      "coins": 350.0,
+      "keys": 4,
+      "scrap": 300,
+      "collectionPasses": 2,
+      "exp": 750,
+      "specialCases": {
+        "case_fifty_fifty": 1
+      }
+    },
+    {
+      "code": "GRANDOPENING",
+      "description": "Grand Opening 30-Day Launch Celebration",
+      "isActive": true,
+      "validFrom": "2026-11-15T00:00:00Z",
+      "expiresAt": "2026-12-15T00:00:00Z",
+      "coins": 250.0,
+      "keys": 3,
+      "scrap": 150,
+      "collectionPasses": 1,
+      "exp": 500,
+      "specialCases": {
+        "case_2026": 1
+      }
+    },
+    {
+      "code": "WELCOME100",
+      "description": "Starter Coin Bundle",
+      "isActive": false,
+      "coins": 100.0,
+      "keys": 2,
+      "scrap": 100,
+      "exp": 250
+    },
+    {
+      "code": "KEYDROP",
+      "description": "Free Key Drop",
+      "isActive": false,
+      "keys": 3,
+      "scrap": 150
+    },
+    {
+      "code": "SCRAPKING",
+      "description": "Scrap Metal Stash",
+      "isActive": false,
+      "scrap": 500,
+      "coins": 50.0
+    },
+    {
+      "code": "VIPBOOST",
+      "description": "VIP Progress Boost",
+      "isActive": false,
+      "vipPoints": 0.2,
+      "keys": 1,
+      "coins": 100.0
+    },
+    {
+      "code": "COLLECTIONPASS",
+      "description": "Armory Collection Pass Grant",
+      "isActive": false,
+      "collectionPasses": 3,
+      "scrap": 100
+    },
+    {
+      "code": "LUCKYHOUR",
+      "description": "1-Hour Luck & EXP Boost",
+      "isActive": false,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 60,
+      "expBoostMinutes": 60,
+      "keys": 1
+    },
+    {
+      "code": "CS2LEGENDS",
+      "description": "Official CS2 Unbox Legends Welcome Pack",
+      "isActive": false,
+      "coins": 250.0,
+      "keys": 3,
+      "scrap": 200,
+      "collectionPasses": 1,
+      "exp": 500
+    },
+    {
+      "code": "UNBOX2026",
+      "description": "2026 Legends Commemorative Case + Boost Bundle",
+      "isActive": false,
+      "coins": 500.0,
+      "keys": 3,
+      "expBoostMinutes": 60,
+      "specialCases": {
+        "case_2026": 1
+      }
+    },
+    {
+      "code": "FIRSTKNIFE",
+      "description": "10% Knife Roulette Case + 30m Luck Boost",
+      "isActive": false,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 30,
+      "specialCases": {
+        "case_ten_percent_knife": 1
+      }
+    },
+    {
+      "code": "DLORELOTTO",
+      "description": "3x Dragon Lore 0.1% Lottery Cases!",
+      "isActive": false,
+      "scrap": 100,
+      "specialCases": {
+        "case_dragon_lore_lottery": 3
+      }
+    },
+    {
+      "code": "HOWLLOTTO",
+      "description": "3x Contraband Howl 0.1% Lottery Cases!",
+      "isActive": false,
+      "scrap": 100,
+      "specialCases": {
+        "case_howl_contraband_lottery": 3
+      }
+    },
+    {
+      "code": "BLUEGEMLOTTO",
+      "description": "3x Blue Gem 0.1% Lottery Cases!",
+      "isActive": false,
+      "scrap": 100,
+      "specialCases": {
+        "case_blue_gem_lottery": 3
+      }
+    },
+    {
+      "code": "BUTTERFLY1PCT",
+      "description": "1% Butterfly Knife Challenge Case!",
+      "isActive": false,
+      "keys": 1,
+      "specialCases": {
+        "case_one_percent_butterfly": 1
+      }
+    },
+    {
+      "code": "FIFTYFIFTY",
+      "description": "50/50 Double or Nothing Case!",
+      "isActive": false,
+      "specialCases": {
+        "case_fifty_fifty": 1
+      }
+    },
+    {
+      "code": "TRIPLETHREAT",
+      "description": "33/33/33 Jackpot, Mid or Bust Case!",
+      "isActive": false,
+      "specialCases": {
+        "case_triple_threat": 1
+      }
+    },
+    {
+      "code": "AWPONLY",
+      "description": "Sniper's Nest 100% AWP Case + 1 Key",
+      "isActive": false,
+      "keys": 1,
+      "specialCases": {
+        "case_awp_only": 1
+      }
+    },
+    {
+      "code": "AK47ONLY",
+      "description": "Kalashnikov Vault 100% AK-47 Case + 1 Key",
+      "isActive": false,
+      "keys": 1,
+      "specialCases": {
+        "case_ak47_only": 1
+      }
+    },
+    {
+      "code": "M4MASTERY",
+      "description": "CT Rifle Mastery 100% M4 Case + 1 Key",
+      "isActive": false,
+      "keys": 1,
+      "specialCases": {
+        "case_m4_mastery": 1
+      }
+    },
+    {
+      "code": "PISTOLACES",
+      "description": "Pistol Round Aces Case + 1 Key",
+      "isActive": false,
+      "keys": 1,
+      "specialCases": {
+        "case_pistol_round": 1
+      }
+    },
+    {
+      "code": "YTLIKE2026",
+      "description": "YouTube Video Description Secret Code",
+      "isActive": false,
+      "coins": 250.0,
+      "keys": 2,
+      "specialCases": {
+        "case_youtube": 1
+      }
+    },
+    {
+      "code": "IGLIKE2026",
+      "description": "Instagram Pinned Post Secret Code",
+      "isActive": false,
+      "scrap": 200,
+      "keys": 2,
+      "specialCases": {
+        "case_instagram": 1
+      }
+    },
+    {
+      "code": "TIKTOK2026",
+      "description": "TikTok Bio Secret Code",
+      "isActive": false,
+      "keys": 2,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 30,
+      "specialCases": {
+        "case_tiktok": 1
+      }
+    },
+    {
+      "code": "NOADS24H",
+      "description": "24-Hour Temporary Ad-Free Pass + 2 Keys",
+      "isActive": false,
+      "coins": 200.0,
+      "keys": 2,
+      "tempAdFreeHours": 24
+    },
+    {
+      "code": "XMAS2026",
+      "description": "Christmas 2026 Winter Solstice Bundle!",
+      "isActive": false,
+      "validFrom": "2026-12-01T00:00:00Z",
+      "expiresAt": "2027-01-05T23:59:59Z",
+      "coins": 1000.0,
+      "keys": 5,
+      "scrap": 500,
+      "collectionPasses": 2,
+      "vipPoints": 0.25,
+      "exp": 1500,
+      "specialCases": {
+        "case_christmas": 1
+      }
+    },
+    {
+      "code": "NEWYEAR2027",
+      "description": "New Year 2027 Midnight Fireworks Bundle!",
+      "isActive": false,
+      "validFrom": "2026-12-28T00:00:00Z",
+      "expiresAt": "2027-01-15T23:59:59Z",
+      "coins": 2027.0,
+      "keys": 5,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 120,
+      "specialCases": {
+        "case_new_year": 1,
+        "case_2026": 1
+      }
+    },
+    {
+      "code": "CNY888",
+      "description": "Lunar New Year Imperial Dynasty Bundle!",
+      "isActive": false,
+      "coins": 888.0,
+      "keys": 8,
+      "scrap": 888,
+      "vipPoints": 0.5,
+      "specialCases": {
+        "case_cny": 1
+      }
+    },
+    {
+      "code": "VALENTINE26",
+      "description": "Valentine's Day Heartbreaker Bundle!",
+      "isActive": false,
+      "coins": 500.0,
+      "keys": 3,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 60,
+      "specialCases": {
+        "case_valentines": 1
+      }
+    },
+    {
+      "code": "SUMMERHEAT",
+      "description": "Summer Heatwave Event Bundle!",
+      "isActive": false,
+      "coins": 500.0,
+      "keys": 3,
+      "collectionPasses": 2,
+      "specialCases": {
+        "case_summer_solstice": 1
+      }
+    },
+    {
+      "code": "MAJORDROP",
+      "description": "CS2 Major Championship Souvenir Drop!",
+      "isActive": false,
+      "keys": 3,
+      "collectionPasses": 1,
+      "exp": 1000,
+      "specialCases": {
+        "case_major_souvenir": 1
+      }
+    },
+    {
+      "code": "SORRY4BUGS",
+      "description": "Server Maintenance & Hotfix Compensation",
+      "isActive": false,
+      "keys": 3,
+      "scrap": 500,
+      "tempAdFreeHours": 24,
+      "specialCases": {
+        "case_ev_10_bronze": 1
+      }
+    }
+  ]
+}

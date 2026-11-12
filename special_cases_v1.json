@@ -1,0 +1,2699 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-04T00:00:00Z",
+  "specialCases": [
+    {
+      "id": "case_welcome",
+      "name": "Welcome Collector Case",
+      "description": "Special starter case unboxable once per user! Guaranteed High-Tier: 20% Top Tier, 30% Covert, 50% Classified (White Printstream Edition).",
+      "items": [
+        {
+          "skin": "★ Bayonet | Urban Masked",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Moto Gloves | Smoke Out",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AWP | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Crane Flight",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P250 | Asiimov",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Zeus x27 | Dragon Snore",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "MP9 | Airlock",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Desert Eagle | Mecha Industries",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "P250 | Kintsugi",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_google_login",
+      "name": "Google Login Case",
+      "description": "Exclusive reward for linking your Google Account! Guaranteed High-Tier: 20% Top Tier, 30% Covert, 50% Classified (Crimson Red Edition).",
+      "items": [
+        {
+          "skin": "★ Bayonet | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Moto Gloves | Blood Pressure",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "Desert Eagle | Sunset Storm 弐",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AWP | Wildfire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Chantico's Fire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | The Traitor",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "MP7 | Bloodsport",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Desert Eagle | Crimson Web",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "MP9 | Hot Rod",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P250 | Muertos",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "FAMAS | Roll Cage",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_fb_login",
+      "name": "FB Follow Case",
+      "description": "Exclusive reward for following us on Facebook! Guaranteed High-Tier: 5% Top Tier, 20% Covert, 75% Classified (Sapphire Blue Edition).",
+      "items": [
+        {
+          "skin": "★ M9 Bayonet | Bright Water",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "★ Moto Gloves | Polygon",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "M4A1-S | Blue Phosphor",
+          "rarity": "COVERT",
+          "dropChance": 0.0166
+        },
+        {
+          "skin": "M4A4 | The Emperor",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "Desert Eagle | Ocean Drive",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AWP | Hyper Beast",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "Desert Eagle | Cobalt Disruption",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "USP-S | Blueprint",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "SG 553 | Integrale",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "AK-47 | Frontside Misty",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "P250 | Undertow",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "MP9 | Mount Fuji",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_referral",
+      "name": "Referral Bundle Case",
+      "description": "Exclusive reward for redeeming an invite code! Guaranteed High-Tier: 20% Top Tier, 30% Covert, 50% Classified (Obsidian Black Edition).",
+      "items": [
+        {
+          "skin": "★ Bayonet | Black Laminate",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Driver Gloves | Black Tie",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AWP | Graphite",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AK-47 | Slate",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Black Lotus",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Ticket to Hell",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Conspiracy",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Dragon Tattoo",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AWP | Elite Build",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P250 | Cartel",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "FAMAS | ZX Spectron",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "MP9 | Featherweight",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_discord",
+      "name": "Discord Community Case",
+      "description": "Exclusive reward for joining our Discord community! Guaranteed High-Tier: 5% Top Tier, 20% Covert, 75% Classified (Aureate Gold Edition).",
+      "items": [
+        {
+          "skin": "★ Bayonet | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "★ Sport Gloves | Omega",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "AK-47 | Fuel Injector",
+          "rarity": "COVERT",
+          "dropChance": 0.0166
+        },
+        {
+          "skin": "M4A1-S | Golden Coil",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "USP-S | Orion",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "Desert Eagle | Golden Koi",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "Glock-18 | Reactor",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "P250 | Wingshot",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "MP9 | Bulldozer",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "CZ75-Auto | Yellow Jacket",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "FAMAS | Neural Net",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Galil AR | Chatterbox",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_twitter",
+      "name": "Twitter (X) Follow Case",
+      "description": "Exclusive reward for following us on X (Twitter)! Guaranteed High-Tier: 5% Top Tier, 20% Covert, 75% Classified (Emerald Green Edition).",
+      "items": [
+        {
+          "skin": "★ M9 Bayonet | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "★ Specialist Gloves | Emerald Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "AWP | Containment Breach",
+          "rarity": "COVERT",
+          "dropChance": 0.0166
+        },
+        {
+          "skin": "AK-47 | Fire Serpent",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "Desert Eagle | Emerald Jörmungandr",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "USP-S | Monster Mashup",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "Glock-18 | Nuclear Garden",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "P250 | See Ya Later",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "MP9 | Hydra",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "AWP | Atheris",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Galil AR | Eco",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "P250 | Nuclear Threat",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_youtube",
+      "name": "Youtube Subscribe Case",
+      "description": "Exclusive reward for subscribing on YouTube! Guaranteed High-Tier: 5% Top Tier, 20% Covert, 75% Classified (Blaze Orange Edition).",
+      "items": [
+        {
+          "skin": "★ Huntsman Knife | Tiger Tooth",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "★ Specialist Gloves | Tiger Strike",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "AWP | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.0166
+        },
+        {
+          "skin": "M4A4 | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AK-47 | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "P90 | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AWP | BOOM",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Desert Eagle | Fennec Fox",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "M4A1-S | Atomic Alloy",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "AUG | Bengal Tiger",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Galil AR | Orange DDPAT",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "P90 | Trigon",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_tiktok",
+      "name": "Tiktok Follow Case",
+      "description": "Exclusive reward for following us on TikTok! Guaranteed High-Tier: 5% Top Tier, 20% Covert, 75% Classified (Neon Cyan & Magenta Edition).",
+      "items": [
+        {
+          "skin": "★ Flip Knife | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "★ Hand Wraps | Overprint",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "AK-47 | Neon Rider",
+          "rarity": "COVERT",
+          "dropChance": 0.0166
+        },
+        {
+          "skin": "M4A1-S | Decimator",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AWP | Chromatic Aberration",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "MAC-10 | Neon Rider",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "USP-S | Cortex",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Five-SeveN | Hyper Beast",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Galil AR | Chromatic Aberration",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "P90 | Neoqueen",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "MP9 | Mount Fuji",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Sawed-Off | Wasteland Princess",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_instagram",
+      "name": "Instagram Follow Case",
+      "description": "Exclusive reward for following us on Instagram! Guaranteed High-Tier: 5% Top Tier, 20% Covert, 75% Classified (Deep Ultraviolet Edition).",
+      "items": [
+        {
+          "skin": "★ Bayonet | Ultraviolet",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "★ Driver Gloves | Imperial Plaid",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0167
+        },
+        {
+          "skin": "AWP | Lightning Strike",
+          "rarity": "COVERT",
+          "dropChance": 0.0166
+        },
+        {
+          "skin": "M4A4 | Neo-Noir",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AK-47 | Nightwish",
+          "rarity": "COVERT",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "USP-S | Neo-Noir",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AWP | Neo-Noir",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Glock-18 | Twilight Galaxy",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "MP9 | Wild Lily",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "Desert Eagle | Kumicho Dragon",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "FAMAS | Pulse",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "MAC-10 | Ultraviolet",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_christmas",
+      "name": "Winter Solstice Case",
+      "description": "Holiday Special Case featuring frost-blue, snow-white & festive crimson finishes!",
+      "items": [
+        {
+          "skin": "★ Karambit | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Moto Gloves | Spearmint",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AK-47 | Ice Coaled",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Wildfire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "M4A4 | Spider Lily",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Desert Eagle | Hypnotic",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "MP9 | Starlight Protector",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Galil AR | Eco",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "P250 | Asiimov",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_new_year",
+      "name": "Midnight Fireworks Case",
+      "description": "Ring in the New Year with starlight gold, holographic and fade finishes!",
+      "items": [
+        {
+          "skin": "★ Butterfly Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Specialist Gloves | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AK-47 | Gold Arabesque",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AWP | Chrome Cannon",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Golden Coil",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Golden Koi",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "MAC-10 | Disco Tech",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Gold Toof",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "USP-S | Orion",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "M4A4 | The Coalition",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P250 | Muertos",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "MP9 | Starlight Protector",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_cny",
+      "name": "Imperial Dynasty Case",
+      "description": "Lunar New Year Special Case featuring imperial jade, dragon gold & crimson grails!",
+      "items": [
+        {
+          "skin": "★ Bayonet | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Hydra Gloves | Emerald",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AWP | Dragon Lore",
+          "rarity": "COVERT",
+          "dropChance": 0.01
+        },
+        {
+          "skin": "AK-47 | Wild Lotus",
+          "rarity": "COVERT",
+          "dropChance": 0.0566
+        },
+        {
+          "skin": "Desert Eagle | Emerald Jörmungandr",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | The Emperor",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | The Empress",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Silk Tiger",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "CZ75-Auto | Xiangliu",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | 龍王 (Dragon King)",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "P250 | Muertos",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Dragon Tattoo",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_valentines",
+      "name": "Heartbreaker Case",
+      "description": "Valentine's Special Case packed with ruby, vice pink & rose-gold collector skins!",
+      "items": [
+        {
+          "skin": "★ Stiletto Knife | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Sport Gloves | Vice",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0333
+        },
+        {
+          "skin": "M4A1-S | Vaporwave",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | The Traitor",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Temukau",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "MAC-10 | Neon Rider",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Pink DDPAT",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AWP | Fever Dream",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Desert Eagle | Trigger Discipline",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "USP-S | Cortex",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "CZ75-Auto | Tacticat",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "Sawed-Off | Wasteland Princess",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_sakura_spring",
+      "name": "Sakura Blossom Case",
+      "description": "Spring Hanami Special Case celebrating cherry blossom pink and Japanese artistry!",
+      "items": [
+        {
+          "skin": "★ Talon Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "★ Sport Gloves | Amphibious",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "AK-47 | Hydroponic",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "M4A4 | Temukau",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Oni Taiji",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Shinobu",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Spider Lily",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0916
+        },
+        {
+          "skin": "MP9 | Mount Fuji",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0916
+        },
+        {
+          "skin": "Glock-18 | Umbral Rabbit",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        },
+        {
+          "skin": "Galil AR | Crimson Tsunami",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        },
+        {
+          "skin": "MAC-10 | Sakkaku",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        },
+        {
+          "skin": "P250 | Kintsugi",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        }
+      ]
+    },
+    {
+      "id": "case_golden_week",
+      "name": "Shogun's Armory Case",
+      "description": "Golden Week Special Case featuring Samurai, Oni and Neo-Tokyo legends!",
+      "items": [
+        {
+          "skin": "★ Skeleton Knife | Crimson Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "★ Specialist Gloves | Crimson Kimono",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "AUG | Akihabara Accept",
+          "rarity": "COVERT",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "AK-47 | Bloodsport",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Sunset Storm 弐",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Player Two",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Kumicho Dragon",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0916
+        },
+        {
+          "skin": "AK-47 | Crane Flight",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0916
+        },
+        {
+          "skin": "AWP | Duality",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        },
+        {
+          "skin": "MP9 | Mount Fuji",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        },
+        {
+          "skin": "P90 | Neoqueen",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        },
+        {
+          "skin": "USP-S | Whiteout",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0917
+        }
+      ]
+    },
+    {
+      "id": "case_eid_crescent",
+      "name": "Oasis & Gold Filigree Case",
+      "description": "Eid Festival Special Case adorned with royal gold filigree, desert mirages & Damascus steel!",
+      "items": [
+        {
+          "skin": "★ Nomad Knife | Case Hardened",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "★ Driver Gloves | King Snake",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "AK-47 | Gold Arabesque",
+          "rarity": "COVERT",
+          "dropChance": 0.04
+        },
+        {
+          "skin": "AWP | Desert Hydra",
+          "rarity": "COVERT",
+          "dropChance": 0.04
+        },
+        {
+          "skin": "M4A1-S | Golden Coil",
+          "rarity": "COVERT",
+          "dropChance": 0.12
+        },
+        {
+          "skin": "AK-47 | Legion of Anubis",
+          "rarity": "COVERT",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "M4A4 | Eye of Horus",
+          "rarity": "COVERT",
+          "dropChance": 0.07
+        },
+        {
+          "skin": "USP-S | Caiman",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.096
+        },
+        {
+          "skin": "P250 | Apep's Curse",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.096
+        },
+        {
+          "skin": "FAMAS | Waters of Nephthys",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.096
+        },
+        {
+          "skin": "AWP | Man-o'-war",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.096
+        },
+        {
+          "skin": "Glock-18 | Ramese's Reach",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.096
+        }
+      ]
+    },
+    {
+      "id": "case_diwali_lights",
+      "name": "Festival of Lights Case",
+      "description": "Diwali Special Case glowing with radiant amber, fire elemental and marble fade finishes!",
+      "items": [
+        {
+          "skin": "★ Ursus Knife | Marble Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Specialist Gloves | Tiger Strike",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "Desert Eagle | Blaze",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AWP | Wildfire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Chantico's Fire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Fuel Injector",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Hellfire",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P2000 | Fire Elemental",
+          "rarity": "COVERT",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "UMP-45 | Blaze",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "USP-S | Orion",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Reactor",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "P250 | Asiimov",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_summer_solstice",
+      "name": "Tropical Heatwave Case",
+      "description": "Summer Event Special Case with ocean aqua, coral reef & sunburst finishes!",
+      "items": [
+        {
+          "skin": "★ Flip Knife | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Moto Gloves | Cool Mint",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AK-47 | Case Hardened",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "Desert Eagle | Ocean Drive",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Containment Breach",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Bullet Queen",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Daybreak",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AK-47 | Point Disarray",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "MP9 | Food Chain",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "M4A1-S | Nightmare",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "SCAR-20 | Splash Jam",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "P250 | See Ya Later",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_oktoberfest",
+      "name": "Bavarian Brass & Copper Case",
+      "description": "Autumn Festival Special Case featuring vintage brass, hand-engraved metal & wood stocks!",
+      "items": [
+        {
+          "skin": "★ Classic Knife | Case Hardened",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Hand Wraps | Leather",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AK-47 | Fire Serpent",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "M4A1-S | Knight",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Hand Cannon",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Wasteland Rebel",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Brass",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P250 | Cartel",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AK-47 | Cartel",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "M4A4 | Royal Paladin",
+          "rarity": "COVERT",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "USP-S | Lead Conduit",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "Five-SeveN | Copper Galaxy",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_thanksgiving_harvest",
+      "name": "Golden Harvest Case",
+      "description": "Autumn Harvest Special Case packed with warm amber, copper and golden weaponry!",
+      "items": [
+        {
+          "skin": "★ Huntsman Knife | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Specialist Gloves | Foundation",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AK-47 | Fuel Injector",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "M4A4 | Royal Paladin",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Golden Coil",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Golden Koi",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "MAC-10 | Amber Fade",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P2000 | Amber Fade",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AWP | Phobos",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Reactor",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "SG 553 | Colony IV",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "FAMAS | Commemoration",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_cyber_week",
+      "name": "Black Friday Overclock Case",
+      "description": "Cyber Week Special Case featuring high-contrast carbon fiber and neon circuits!",
+      "items": [
+        {
+          "skin": "★ Karambit | Black Laminate",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Driver Gloves | Black Tie",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AWP | Redline",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AK-47 | Redline",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Cyrex",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Kill Confirmed",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Code Red",
+          "rarity": "COVERT",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "M4A1-S | Decimator",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AK-47 | Slate",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "USP-S | Ticket to Hell",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "MP9 | Airlock",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_ev_5_micro",
+      "name": "$5 Recruit Supply Drop",
+      "description": "Tactical starter supply drop calibrated to ~$5 EV. Great for daily codes!",
+      "items": [
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "AK-47 | Slate",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "AWP | Atheris",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "USP-S | Cortex",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Magnesium",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "Desert Eagle | Oxide Blaze",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "Glock-18 | High Beam",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "MP9 | Modest Threat",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        }
+      ]
+    },
+    {
+      "id": "case_ev_10_bronze",
+      "name": "$10 Bronze Mystery Box",
+      "description": "Bronze tier mystery box calibrated to ~$10 EV with Restricted to Covert drops!",
+      "items": [
+        {
+          "skin": "USP-S | The Traitor",
+          "rarity": "COVERT",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "P250 | Muertos",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "FAMAS | Roll Cage",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "MP9 | Mount Fuji",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Redline",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "AWP | Atheris",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "USP-S | Cortex",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_ev_25_silver",
+      "name": "$25 Silver Mystery Box",
+      "description": "Silver tier mystery box calibrated to ~$25 EV with Classified, Covert & Knife drops!",
+      "items": [
+        {
+          "skin": "★ Navaja Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.02
+        },
+        {
+          "skin": "M4A1-S | Chantico's Fire",
+          "rarity": "COVERT",
+          "dropChance": 0.06
+        },
+        {
+          "skin": "AWP | Hyper Beast",
+          "rarity": "COVERT",
+          "dropChance": 0.06
+        },
+        {
+          "skin": "USP-S | The Traitor",
+          "rarity": "COVERT",
+          "dropChance": 0.06
+        },
+        {
+          "skin": "P250 | Asiimov",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "AK-47 | Frontside Misty",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "Desert Eagle | Mecha Industries",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_ev_50_gold",
+      "name": "$50 Gold Mystery Box",
+      "description": "Gold tier mystery box calibrated to ~$50 EV with an 8% chance at a Knife or Glove!",
+      "items": [
+        {
+          "skin": "★ Bayonet | Urban Masked",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.04
+        },
+        {
+          "skin": "★ Moto Gloves | Smoke Out",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.04
+        },
+        {
+          "skin": "AWP | Wildfire",
+          "rarity": "COVERT",
+          "dropChance": 0.09
+        },
+        {
+          "skin": "USP-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.09
+        },
+        {
+          "skin": "Desert Eagle | Ocean Drive",
+          "rarity": "COVERT",
+          "dropChance": 0.09
+        },
+        {
+          "skin": "AWP | Neo-Noir",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1625
+        },
+        {
+          "skin": "M4A4 | Neo-Noir",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1625
+        },
+        {
+          "skin": "AK-47 | Ice Coaled",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1625
+        },
+        {
+          "skin": "Glock-18 | Twilight Galaxy",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1625
+        }
+      ]
+    },
+    {
+      "id": "case_ev_100_platinum",
+      "name": "$100 Platinum Mystery Box",
+      "description": "Platinum tier mystery box calibrated to ~$100 EV with 24% Knives & Gloves!",
+      "items": [
+        {
+          "skin": "★ Bayonet | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "★ M9 Bayonet | Bright Water",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "★ Sport Gloves | Omega",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "AK-47 | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.12
+        },
+        {
+          "skin": "AWP | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.12
+        },
+        {
+          "skin": "AK-47 | Bloodsport",
+          "rarity": "COVERT",
+          "dropChance": 0.12
+        },
+        {
+          "skin": "AWP | Neo-Noir",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "AK-47 | Ice Coaled",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_ev_250_diamond",
+      "name": "$250 Diamond Mystery Box",
+      "description": "Diamond high-roller box calibrated to ~$250 EV — 65% Knives & Gloves, 35% Grail Coverts!",
+      "items": [
+        {
+          "skin": "★ M9 Bayonet | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "★ Bayonet | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "★ Specialist Gloves | Emerald Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.25
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "M4A1-S | Blue Phosphor",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Fuel Injector",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_ev_500_obsidian",
+      "name": "$500 Obsidian High-Roller Vault",
+      "description": "Obsidian VIP vault calibrated to ~$500 EV — packed exclusively with Apex Knives, Gloves & Grails!",
+      "items": [
+        {
+          "skin": "★ Karambit | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Butterfly Knife | Doppler Phase 2",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "★ Skeleton Knife | Crimson Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.12
+        },
+        {
+          "skin": "★ M9 Bayonet | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.25
+        },
+        {
+          "skin": "★ Bayonet | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.25
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_2026",
+      "name": "2026 Legends Commemorative Case",
+      "description": "Commemorative 2026 Special Case featuring the most iconic modern CS2 finishes!",
+      "items": [
+        {
+          "skin": "★ Kukri Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Sport Gloves | Vice",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0333
+        },
+        {
+          "skin": "AK-47 | Inheritance",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Vaporwave",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Zeus x27 | Olympus",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Jawbreaker",
+          "rarity": "COVERT",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Glock-18 | Shinobu",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "M4A4 | Temukau",
+          "rarity": "COVERT",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AK-47 | Head Shot",
+          "rarity": "COVERT",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "MP9 | Mount Fuji",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "Desert Eagle | Ocean Drive",
+          "rarity": "COVERT",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
+      "id": "case_knife_scout",
+      "name": "Scout's Blade Vault (100% Knives)",
+      "description": "100% Guaranteed Knife! Equal 10% chance across 10 iconic entry-tier blades.",
+      "items": [
+        {
+          "skin": "★ Navaja Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Gut Knife | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Shadow Daggers | Marble Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Bowie Knife | Tiger Tooth",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Falchion Knife | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Huntsman Knife | Damascus Steel",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Paracord Knife | Crimson Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Survival Knife | Case Hardened",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Ursus Knife | Ultraviolet",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Classic Knife | Blue Steel",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_knife_tactical",
+      "name": "Tactical Blade Vault (100% Knives)",
+      "description": "100% Guaranteed Mid-Tier Knife! Equal 10% chance across 10 sought-after combat blades.",
+      "items": [
+        {
+          "skin": "★ Bayonet | Tiger Tooth",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Flip Knife | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Nomad Knife | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Stiletto Knife | Marble Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Talon Knife | Crimson Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Kukri Knife | Case Hardened",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Skeleton Knife | Urban Masked",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Ursus Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Huntsman Knife | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Paracord Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_knife_apex",
+      "name": "Apex Legends Blade Vault (100% Grails)",
+      "description": "100% Guaranteed Grail Knife! Karambits, Butterfly Knives, M9 Bayonets & Skeletons only.",
+      "items": [
+        {
+          "skin": "★ Karambit | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ Butterfly Knife | Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ M9 Bayonet | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ Skeleton Knife | Crimson Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ Talon Knife | Marble Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ Karambit | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ Butterfly Knife | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        },
+        {
+          "skin": "★ M9 Bayonet | Marble Fade",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.125
+        }
+      ]
+    },
+    {
+      "id": "case_glove_vault",
+      "name": "Specialist Glove Vault (100% Gloves)",
+      "description": "100% Guaranteed Gloves! Equal 10% chance across 10 iconic CS2 glove pairs.",
+      "items": [
+        {
+          "skin": "★ Sport Gloves | Vice",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Specialist Gloves | Crimson Kimono",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Moto Gloves | Spearmint",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Driver Gloves | King Snake",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Hand Wraps | Cobalt Skulls",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Sport Gloves | Pandora's Box",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Specialist Gloves | Emerald Web",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Sport Gloves | Amphibious",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Driver Gloves | Imperial Plaid",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ Sport Gloves | Omega",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_covert_vault",
+      "name": "Redline Covert Vault (100% Coverts)",
+      "description": "100% Guaranteed Covert Red skin! Equal 10% chance across 10 fan-favorite Covert rifles & pistols.",
+      "items": [
+        {
+          "skin": "AK-47 | Vulcan",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Kill Confirmed",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Neo-Noir",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Bloodsport",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Gold Toof",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Wildfire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Inheritance",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_awp_only",
+      "name": "Sniper's Nest (100% AWP Case)",
+      "description": "Every single drop is an AWP! Includes a 0.5% combined shot at Gungnir or Dragon Lore.",
+      "items": [
+        {
+          "skin": "AWP | Gungnir",
+          "rarity": "COVERT",
+          "dropChance": 0.002
+        },
+        {
+          "skin": "AWP | Dragon Lore",
+          "rarity": "COVERT",
+          "dropChance": 0.003
+        },
+        {
+          "skin": "AWP | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.045
+        },
+        {
+          "skin": "AWP | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Chromatic Aberration",
+          "rarity": "COVERT",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "AWP | Atheris",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.25
+        },
+        {
+          "skin": "AWP | Capillary",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.45
+        }
+      ]
+    },
+    {
+      "id": "case_ak47_only",
+      "name": "Kalashnikov Vault (100% AK-47 Case)",
+      "description": "Every single drop is an AK-47! Includes a 0.5% combined shot at Wild Lotus or Gold Arabesque.",
+      "items": [
+        {
+          "skin": "AK-47 | Wild Lotus",
+          "rarity": "COVERT",
+          "dropChance": 0.002
+        },
+        {
+          "skin": "AK-47 | Gold Arabesque",
+          "rarity": "COVERT",
+          "dropChance": 0.003
+        },
+        {
+          "skin": "AK-47 | Vulcan",
+          "rarity": "COVERT",
+          "dropChance": 0.045
+        },
+        {
+          "skin": "AK-47 | Bloodsport",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Ice Coaled",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "AK-47 | Slate",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.25
+        },
+        {
+          "skin": "AK-47 | Elite Build",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.45
+        }
+      ]
+    },
+    {
+      "id": "case_m4_mastery",
+      "name": "CT Rifle Mastery (100% M4A4 & M4A1-S)",
+      "description": "100% Counter-Terrorist Rifles! Features M4A4 Howl, Welcome to the Jungle & Printstream.",
+      "items": [
+        {
+          "skin": "M4A4 | Howl",
+          "rarity": "COVERT",
+          "dropChance": 0.002
+        },
+        {
+          "skin": "M4A1-S | Welcome to the Jungle",
+          "rarity": "COVERT",
+          "dropChance": 0.003
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.045
+        },
+        {
+          "skin": "M4A4 | Temukau",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Chantico's Fire",
+          "rarity": "COVERT",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "M4A4 | Desolate Space",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.25
+        },
+        {
+          "skin": "M4A1-S | Night Terror",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.45
+        }
+      ]
+    },
+    {
+      "id": "case_pistol_round",
+      "name": "Pistol Round Aces (100% Sidearms)",
+      "description": "100% Iconic CS2 Sidearms! Features Desert Eagle Blaze, Glock-18 Fade & USP-S Kill Confirmed.",
+      "items": [
+        {
+          "skin": "Desert Eagle | Blaze",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.02
+        },
+        {
+          "skin": "Glock-18 | Fade",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.02
+        },
+        {
+          "skin": "USP-S | Kill Confirmed",
+          "rarity": "COVERT",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "Desert Eagle | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "USP-S | Cortex",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "P250 | Asiimov",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "Five-SeveN | Angry Mob",
+          "rarity": "COVERT",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_doppler_prism",
+      "name": "Doppler & Gamma Prism Vault",
+      "description": "100% Doppler, Gamma Doppler & Marble Fade finishes!",
+      "items": [
+        {
+          "skin": "★ Karambit | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "★ M9 Bayonet | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.12
+        },
+        {
+          "skin": "★ Butterfly Knife | Doppler Phase 2",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.08
+        },
+        {
+          "skin": "★ Flip Knife | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "★ Huntsman Knife | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "★ Gut Knife | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "Glock-18 | Gamma Doppler",
+          "rarity": "COVERT",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_major_souvenir",
+      "name": "Major Championship Trophy Case",
+      "description": "Tournament Trophy Special Case celebrating iconic Major Championship map collection legends!",
+      "items": [
+        {
+          "skin": "★ M9 Bayonet | Lore",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "★ Sport Gloves | Omega",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "AWP | Dragon Lore",
+          "rarity": "COVERT",
+          "dropChance": 0.01
+        },
+        {
+          "skin": "AK-47 | Gold Arabesque",
+          "rarity": "COVERT",
+          "dropChance": 0.03
+        },
+        {
+          "skin": "M4A1-S | Knight",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.06
+        },
+        {
+          "skin": "M4A1-S | Welcome to the Jungle",
+          "rarity": "COVERT",
+          "dropChance": 0.06
+        },
+        {
+          "skin": "Desert Eagle | Hand Cannon",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.14
+        },
+        {
+          "skin": "AWP | Pink DDPAT",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "UMP-45 | Blaze",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "M4A4 | Radiation Hazard",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "Glock-18 | Reactor",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.15
+        }
+      ]
+    },
+    {
+      "id": "case_dragon_lore_lottery",
+      "name": "Dragon Lore 0.1% Lottery Case",
+      "description": "0.1% chance at an AWP | Dragon Lore, 99.9% meme Sand skins. Dare to test your luck?",
+      "items": [
+        {
+          "skin": "AWP | Dragon Lore",
+          "rarity": "COVERT",
+          "dropChance": 0.001
+        },
+        {
+          "skin": "P250 | Sand Dune",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.333
+        },
+        {
+          "skin": "AK-47 | Safari Mesh",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.333
+        },
+        {
+          "skin": "AWP | Safari Mesh",
+          "rarity": "INDUSTRIAL_GRADE",
+          "dropChance": 0.333
+        }
+      ]
+    },
+    {
+      "id": "case_howl_contraband_lottery",
+      "name": "Contraband Howl 0.1% Lottery",
+      "description": "0.1% chance at a Contraband M4A4 | Howl, 99.9% Consumer Grade skins!",
+      "items": [
+        {
+          "skin": "M4A4 | Howl",
+          "rarity": "COVERT",
+          "dropChance": 0.001
+        },
+        {
+          "skin": "P250 | Sand Dune",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.4995
+        },
+        {
+          "skin": "AK-47 | Safari Mesh",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.4995
+        }
+      ]
+    },
+    {
+      "id": "case_blue_gem_lottery",
+      "name": "Blue Gem 0.1% Lottery Case",
+      "description": "0.1% combined shot at a Karambit or AK-47 Case Hardened, 99.9% Mil-Spec Blue skins!",
+      "items": [
+        {
+          "skin": "★ Karambit | Case Hardened",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0005
+        },
+        {
+          "skin": "AK-47 | Case Hardened",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0005
+        },
+        {
+          "skin": "M4A4 | Magnesium",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.24975
+        },
+        {
+          "skin": "Desert Eagle | Oxide Blaze",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.24975
+        },
+        {
+          "skin": "Glock-18 | High Beam",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.24975
+        },
+        {
+          "skin": "MP9 | Modest Threat",
+          "rarity": "MIL_SPEC",
+          "dropChance": 0.24975
+        }
+      ]
+    },
+    {
+      "id": "case_one_percent_butterfly",
+      "name": "1% Butterfly Challenge Case",
+      "description": "1.0% chance at a ★ Butterfly Knife | Doppler Phase 2, 99.0% Safari Mesh!",
+      "items": [
+        {
+          "skin": "★ Butterfly Knife | Doppler Phase 2",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.01
+        },
+        {
+          "skin": "AK-47 | Safari Mesh",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.495
+        },
+        {
+          "skin": "AWP | Safari Mesh",
+          "rarity": "INDUSTRIAL_GRADE",
+          "dropChance": 0.495
+        }
+      ]
+    },
+    {
+      "id": "case_ten_percent_knife",
+      "name": "10% Knife Roulette Case",
+      "description": "10% chance at a Knife (Bayonet Doppler or Flip Tiger Tooth), 90% Consumer Grade!",
+      "items": [
+        {
+          "skin": "★ Bayonet | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "★ Flip Knife | Tiger Tooth",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "P250 | Sand Dune",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.45
+        },
+        {
+          "skin": "AK-47 | Safari Mesh",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.45
+        }
+      ]
+    },
+    {
+      "id": "case_fifty_fifty",
+      "name": "50/50 Double or Nothing Case",
+      "description": "True 50/50 Coin Flip: 50% AK-47 | Asiimov, 50% P250 | Sand Dune!",
+      "items": [
+        {
+          "skin": "AK-47 | Asiimov",
+          "rarity": "COVERT",
+          "dropChance": 0.5
+        },
+        {
+          "skin": "P250 | Sand Dune",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.5
+        }
+      ]
+    },
+    {
+      "id": "case_triple_threat",
+      "name": "33/33/33 Jackpot, Mid or Bust",
+      "description": "1/3 chance at M4A1-S Printstream, 1/3 chance at Glock Water Elemental, 1/3 chance at Sand Dune!",
+      "items": [
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.3333
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.3333
+        },
+        {
+          "skin": "P250 | Sand Dune",
+          "rarity": "CONSUMER_GRADE",
+          "dropChance": 0.3334
+        }
+      ]
+    },
+    {
+      "id": "case_stattrak_overdrive",
+      "name": "StatTrak™ Overdrive Case",
+      "description": "100% Guaranteed StatTrak™ on every single unbox! Features top-tier Coverts and Knives.",
+      "forceStatTrak": true,
+      "items": [
+        {
+          "skin": "★ M9 Bayonet | Gamma Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Bayonet | Slaughter",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "AK-47 | Bloodsport",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Wildfire",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Kill Confirmed",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Neo-Noir",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A4 | Neo-Noir",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Water Elemental",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "P250 | Asiimov",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Frontside Misty",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "case_pristine_float",
+      "name": "0.00x Collector's Float Vault",
+      "description": "Every drop is guaranteed Pristine Factory New (0.0001 - 0.0099 Float)!",
+      "minFloatOverride": 0.0001,
+      "maxFloatOverride": 0.0099,
+      "items": [
+        {
+          "skin": "★ Karambit | Doppler",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.05
+        },
+        {
+          "skin": "M4A1-S | Blue Phosphor",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Hot Rod",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Blaze",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Fade",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Graphite",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.15
+        },
+        {
+          "skin": "MP9 | Hot Rod",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        },
+        {
+          "skin": "Desert Eagle | Cobalt Disruption",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "case_anniversary_founders",
+      "name": "Founders Prestige Vault",
+      "description": "Milestone Anniversary Vault featuring platinum, sapphire & crown collector grails!",
+      "items": [
+        {
+          "skin": "★ Karambit | Case Hardened",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Sport Gloves | Pandora's Box",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "AWP | Gungnir",
+          "rarity": "COVERT",
+          "dropChance": 0.02
+        },
+        {
+          "skin": "M4A4 | Howl",
+          "rarity": "COVERT",
+          "dropChance": 0.0466
+        },
+        {
+          "skin": "AK-47 | Vulcan",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Printstream",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Desert Eagle | Blaze",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "Glock-18 | Fade",
+          "rarity": "RESTRICTED",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "M4A1-S | Blue Phosphor",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Kill Confirmed",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Hydroponic",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.1
+        }
+      ]
+    }
+  ]
+}
