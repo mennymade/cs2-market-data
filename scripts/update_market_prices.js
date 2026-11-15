@@ -187,12 +187,17 @@ async function main() {
         
         const ftPrice = wears.FT || wears.MW || wears.WW || wears.BS || wears.FN || 1.0;
         
+        const rawFn = wears.FN || Math.round(ftPrice * 2.2 * 100) / 100;
+        const rawMw = wears.MW || Math.round(ftPrice * 1.35 * 100) / 100;
+        const rawWw = wears.WW || Math.round(ftPrice * 0.88 * 100) / 100;
+        const rawBs = wears.BS || Math.round(ftPrice * 0.75 * 100) / 100;
+
         const completeWears = {
-            FN: Math.max(0.03, wears.FN || Math.round(ftPrice * 2.2 * 100) / 100),
-            MW: Math.max(0.03, wears.MW || Math.round(ftPrice * 1.35 * 100) / 100),
+            FN: Math.max(0.03, Math.round(Math.min(rawFn, ftPrice * 8.0) * 100) / 100),
+            MW: Math.max(0.03, Math.round(Math.min(rawMw, ftPrice * 3.5) * 100) / 100),
             FT: Math.max(0.03, wears.FT || ftPrice),
-            WW: Math.max(0.03, wears.WW || Math.round(ftPrice * 0.88 * 100) / 100),
-            BS: Math.max(0.03, wears.BS || Math.round(ftPrice * 0.75 * 100) / 100)
+            WW: Math.max(0.03, rawWw > ftPrice * 1.5 ? Math.round(ftPrice * 0.88 * 100) / 100 : rawWw),
+            BS: Math.max(0.03, rawBs > ftPrice * 1.5 ? Math.round(ftPrice * 0.75 * 100) / 100 : rawBs)
         };
 
         let stMult = 1.75;
@@ -201,6 +206,7 @@ async function main() {
         } else if (stWears.FN && wears.FN) {
             stMult = Math.round((stWears.FN / wears.FN) * 100) / 100;
         }
+        stMult = Math.max(1.0, Math.min(3.5, stMult));
 
         const pObj = itemData.priceObj || {};
         const p24h = pObj.last_24h || ftPrice;
