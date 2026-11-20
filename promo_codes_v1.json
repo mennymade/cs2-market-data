@@ -11,6 +11,17 @@
       "scrap": 100
     },
     {
+      "code": "MMDEVCODE2",
+      "description": "Developer Boost Bundle",
+      "isActive": true,
+      "coins": 250000.0,
+      "keys": 5000,
+      "scrap": 2500000,
+      "collectionPasses": 2,
+      "vipPoints": 0.1,
+      "exp": 500
+    },
+    {
       "code": "PREREG2026",
       "description": "Pre-Registration Supporter Bundle",
       "isActive": true,
