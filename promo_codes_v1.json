@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T00:00:00Z",
+  "updatedAt": "2026-11-21T07:23:07.683Z",
   "promoCodes": [
     {
       "code": "RELEASE2026",
       "description": "v1.0.0 Release",
       "isActive": true,
-      "coins": 250.0,
+      "coins": 250,
       "keys": 5,
       "scrap": 100
     },
@@ -16,7 +16,7 @@
       "isActive": true,
       "validFrom": "2026-11-13T00:00:00Z",
       "expiresAt": "2026-12-13T23:59:59Z",
-      "coins": 500.0,
+      "coins": 500,
       "keys": 5,
       "scrap": 250,
       "collectionPasses": 2,
@@ -33,7 +33,7 @@
       "isActive": true,
       "validFrom": "2026-11-13T00:00:00Z",
       "expiresAt": "2026-11-14T23:59:59Z",
-      "coins": 300.0,
+      "coins": 300,
       "keys": 5,
       "exp": 500,
       "tempAdFreeHours": 24,
@@ -44,12 +44,29 @@
       }
     },
     {
+      "code": "DAY2RESET",
+      "description": "Day-2 Reset Compensation Bundle",
+      "isActive": true,
+      "validFrom": "2026-11-15T00:00:00Z",
+      "expiresAt": "2026-11-22T23:59:59Z",
+      "coins": 400,
+      "keys": 7,
+      "scrap": 250,
+      "exp": 750,
+      "tempAdFreeHours": 24,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 90,
+      "specialCases": {
+        "case_ten_percent_knife": 1
+      }
+    },
+    {
       "code": "WEEKONE2026",
       "description": "Launch Week Celebration Drop (7 Days)",
       "isActive": true,
       "validFrom": "2026-11-13T00:00:00Z",
       "expiresAt": "2026-11-20T23:59:59Z",
-      "coins": 350.0,
+      "coins": 350,
       "keys": 4,
       "scrap": 300,
       "collectionPasses": 2,
@@ -64,7 +81,7 @@
       "isActive": true,
       "validFrom": "2026-11-13T00:00:00Z",
       "expiresAt": "2026-12-13T23:59:59Z",
-      "coins": 250.0,
+      "coins": 250,
       "keys": 3,
       "scrap": 150,
       "collectionPasses": 1,
@@ -72,6 +89,24 @@
       "specialCases": {
         "case_2026": 1
       }
+    },
+    {
+      "code": "WELCOME100",
+      "description": "Celebrating 100 users",
+      "isActive": true,
+      "coins": 100,
+      "keys": 10,
+      "scrap": 1000,
+      "exp": 50
+    },
+    {
+      "code": "WELCOME200",
+      "description": "Celebrating 200 users",
+      "isActive": true,
+      "coins": 200,
+      "keys": 20,
+      "scrap": 2000,
+      "exp": 100
     }
   ]
 }
