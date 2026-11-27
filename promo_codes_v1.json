@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T00:33:15.409Z",
+  "updatedAt": "2026-11-27T02:40:11.533Z",
   "promoCodes": [
     {
       "code": "RELEASE2026",
@@ -125,6 +125,15 @@
       "keys": 40,
       "scrap": 4000,
       "exp": 200
+    },
+    {
+      "code": "WELCOME500",
+      "description": "Celebrating 500 users",
+      "isActive": true,
+      "coins": 500,
+      "keys": 50,
+      "scrap": 5000,
+      "exp": 250
     }
   ]
 }
