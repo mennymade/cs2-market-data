@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T07:05:22.439Z",
+  "updatedAt": "2026-11-28T11:41:03.452Z",
   "promoCodes": [
     {
       "code": "RELEASE2026",
@@ -134,6 +134,22 @@
       "keys": 50,
       "scrap": 5000,
       "exp": 250
+    },
+    {
+      "code": "BLACKFRIDAY2026",
+      "description": "Black Friday Weekend Exclusive — Obsidian Vault & Boost Bundle!",
+      "isActive": true,
+      "validFrom": "2026-11-27T00:00:00Z",
+      "expiresAt": "2026-11-30T23:59:59Z",
+      "coins": 500,
+      "keys": 5,
+      "scrap": 500,
+      "exp": 1000,
+      "luckBoostPercent": 25,
+      "luckBoostMinutes": 120,
+      "specialCases": {
+        "case_black_friday": 1
+      }
     }
   ]
 }

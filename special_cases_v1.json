@@ -1410,6 +1410,73 @@
       ]
     },
     {
+      "id": "case_black_friday",
+      "name": "Black Friday Obsidian Vault",
+      "description": "Black Friday Weekend Exclusive! 100% Premium Black & Carbon Skins — featuring Butterfly & Karambit Black Laminate, Sport Gloves Nocts, AWP Graphite, and M4A1-S Cyrex.",
+      "items": [
+        {
+          "skin": "★ Butterfly Knife | Black Laminate",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Karambit | Black Laminate",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0667
+        },
+        {
+          "skin": "★ Sport Gloves | Nocts",
+          "rarity": "SPECIAL_KNIFE",
+          "dropChance": 0.0666
+        },
+        {
+          "skin": "M4A1-S | Cyrex",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AWP | Graphite",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "USP-S | Kill Confirmed",
+          "rarity": "COVERT",
+          "dropChance": 0.1
+        },
+        {
+          "skin": "AK-47 | Redline",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AWP | Redline",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "Desert Eagle | Conspiracy",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "P250 | Cartel",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0833
+        },
+        {
+          "skin": "AK-47 | Slate",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        },
+        {
+          "skin": "M4A1-S | Black Lotus",
+          "rarity": "CLASSIFIED",
+          "dropChance": 0.0834
+        }
+      ]
+    },
+    {
       "id": "case_ev_5_micro",
       "name": "$5 Recruit Supply Drop",
       "description": "Tactical starter supply drop calibrated to ~$5 EV. Great for daily codes!",
