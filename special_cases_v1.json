@@ -1697,7 +1697,7 @@
           "dropChance": 0.1
         },
         {
-          "skin": "★ Butterfly Knife | Doppler Phase 2",
+          "skin": "★ Butterfly Knife | Doppler",
           "rarity": "SPECIAL_KNIFE",
           "dropChance": 0.08
         },
@@ -2254,7 +2254,7 @@
           "dropChance": 0.12
         },
         {
-          "skin": "★ Butterfly Knife | Doppler Phase 2",
+          "skin": "★ Butterfly Knife | Doppler",
           "rarity": "SPECIAL_KNIFE",
           "dropChance": 0.08
         },
@@ -2431,10 +2431,10 @@
     {
       "id": "case_one_percent_butterfly",
       "name": "1% Butterfly Challenge Case",
-      "description": "1.0% chance at a ★ Butterfly Knife | Doppler Phase 2, 99.0% Safari Mesh!",
+      "description": "1.0% chance at a ★ Butterfly Knife | Doppler, 99.0% Safari Mesh!",
       "items": [
         {
-          "skin": "★ Butterfly Knife | Doppler Phase 2",
+          "skin": "★ Butterfly Knife | Doppler",
           "rarity": "SPECIAL_KNIFE",
           "dropChance": 0.01
         },
